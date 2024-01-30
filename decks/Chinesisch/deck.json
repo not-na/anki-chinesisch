@@ -1,0 +1,3393 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "98787aa0-bf79-11ee-82ca-cdae705cc9c0",
+    "deck_config_uuid": "987882c0-bf79-11ee-82ca-cdae705cc9c0",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "987882c0-bf79-11ee-82ca-cdae705cc9c0",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    2.0,
+                    15.0,
+                    1440.0,
+                    2880.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    2,
+                    3,
+                    0
+                ],
+                "order": 1,
+                "perDay": 10
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rescheduleFsrsCards": false,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 240,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Chinesisch",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.tag-required {\n    display: none;\n}\n\n.zeichenliste {\n    display: initial;\n    margin-top: 10px;\n}\n\n.hanzi {\n    font-size: 30px\n}",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Liberation Sans",
+                    "id": 6119104612953251939,
+                    "name": "Deutsch",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7985230923908317890,
+                    "name": "Pinyin",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2004531389885642514,
+                    "name": "Hanzi",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "CH-Tripel",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}}\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 7343962542280016524,
+                    "name": "DE-Pinyin",
+                    "ord": 0,
+                    "qfmt": "{{Deutsch}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}\n\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7298711503204562836,
+                    "name": "Pinyin-DE",
+                    "ord": 1,
+                    "qfmt": "{{Pinyin}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}} ({{Deutsch}})\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -2555536399168834259,
+                    "name": "Hanzi",
+                    "ord": 2,
+                    "qfmt": "<div class=\"hanzi\">{{Hanzi}}</div>"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.tag-required {\n    display: none;\n}\n\n.zeichenliste {\n    display: initial;\n    margin-top: 10px;\n}\n\n.hanzi {\n    font-size: 30px\n}",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Liberation Sans",
+                    "id": 6119104612953251939,
+                    "name": "Deutsch",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7985230923908317890,
+                    "name": "Pinyin",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2004531389885642514,
+                    "name": "Hanzi",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "CH-Pinyin",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}}\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 7343962542280016524,
+                    "name": "DE-Pinyin",
+                    "ord": 0,
+                    "qfmt": "{{Deutsch}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}\n\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7298711503204562836,
+                    "name": "Pinyin-DE",
+                    "ord": 1,
+                    "qfmt": "{{Pinyin}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "aber (Kurzform)",
+                "dàn",
+                "但"
+            ],
+            "guid": "!&7pawjGh",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "V: existieren/befinden; PP: in/an/auf",
+                "zài",
+                "在"
+            ],
+            "guid": "83P2{{3V[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hallo!",
+                "nǐ hǎo",
+                "你好"
+            ],
+            "guid": "A6tjE?MH#5",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jüngerer Bruder",
+                "dìdi",
+                "弟弟"
+            ],
+            "guid": "A;`VK$eHmp",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chinesisch (gesprochen)",
+                "Hànyǔ",
+                "汉语"
+            ],
+            "guid": "AN4bA/1*^q",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mutig / Held",
+                "yīng",
+                "英"
+            ],
+            "guid": "Ahh_M%B83:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bewegung / Sport / sich bewegen",
+                "yùndòng",
+                "运动"
+            ],
+            "guid": "B*~i<pcr1^",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lernender",
+                "xuésheng",
+                "学生"
+            ],
+            "guid": "B,`HIQtG;5",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sonne / Tag",
+                "rì",
+                "日"
+            ],
+            "guid": "B55[D`.C~g",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Briefkasten / Mailbox",
+                "yóuxiāng",
+                "邮箱"
+            ],
+            "guid": "Bs:1a5=AaQ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Ball) spielen",
+                "dǎ",
+                "打"
+            ],
+            "guid": "C!lO(1?ADP",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "geboren werden",
+                "chūshēng",
+                "出生"
+            ],
+            "guid": "C/PH.[V9PW",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name, Titel",
+                "míng 【名】",
+                "名"
+            ],
+            "guid": "C1+@F,8HM:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ich bin deutscher.",
+                "Wǒ shì déguórén.",
+                "我是德国人。"
+            ],
+            "guid": "C;u4X}<kV:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ältere Schwester",
+                "jiějie",
+                "姐姐"
+            ],
+            "guid": "CGTx4&kJsP",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "können",
+                "huì",
+                "会"
+            ],
+            "guid": "CVA1q|z~EQ",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Und Sie?",
+                "Nín ne?",
+                "您呢？"
+            ],
+            "guid": "Ck6`x)P++>",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Shanghai",
+                "Shànghǎi",
+                "上海"
+            ],
+            "guid": "Ct3)eURt^o",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name/Vorname",
+                "míngzi",
+                "名字"
+            ],
+            "guid": "D<QvqoC1dy",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Universität",
+                "dàxué",
+                "大学"
+            ],
+            "guid": "DBun_z^5.{",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "welche/welcher/welches/wo",
+                "nǎ",
+                "哪"
+            ],
+            "guid": "DsJcxb%Z?,",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 0",
+                "líng",
+                "〇 /&nbsp;零"
+            ],
+            "guid": "E/#QdVvk*>",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie alt sind Sie? (wesentlich ältere)",
+                "Nín duō dà suì shù?",
+                "您多大岁数？"
+            ],
+            "guid": "E1TAXUUhm/",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bitte nenn mich ...",
+                "Qǐng jiào wǒ ...",
+                "请叫我..."
+            ],
+            "guid": "E:_u7yIh+9",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Antworten/richtig",
+                "duì",
+                "对"
+            ],
+            "guid": "EJ52uFxF0i",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ich bin sehr erfreut, Sie kennenzulernen.",
+                "Hěn gāoxìng rènshi nín.",
+                "很高兴认识您。"
+            ],
+            "guid": "ExAEt?S*oA",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Japanisch (geschrieben)",
+                "Rìwén",
+                "日文"
+            ],
+            "guid": "E|+G;?<AaM",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Japanisch (gesprochen)",
+                "Rìyǔ",
+                "日语"
+            ],
+            "guid": "FB3yDg2sB.",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie alt bist du? (Kinder bis ca. 10 Jahre oder 3. Person)",
+                "Nǐ jǐ suì?",
+                "你几岁？"
+            ],
+            "guid": "FH;ur}b.Tv",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kennenlernen",
+                "rènshi",
+                "认识"
+            ],
+            "guid": "FO$Qhn*wvp",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Berlin",
+                "Bólín",
+                "柏林"
+            ],
+            "guid": "FS^!NCT+k9",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra",
+                "nur_lesen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Amerika",
+                "Měiguó",
+                "美国"
+            ],
+            "guid": "Fqj;&A5N3S",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Alter",
+                "niánlíng",
+                "年龄"
+            ],
+            "guid": "GAIgQ[|sxZ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo arbeiten Sie?",
+                "Nín zài nǎli gōngzuò?",
+                "您在哪里工作？"
+            ],
+            "guid": "GHjL2ZRa3M",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wie alt? / wie groß?",
+                "duō dà",
+                "多大"
+            ],
+            "guid": "G]I!JY@<}%",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aber",
+                "dànshì",
+                "但是"
+            ],
+            "guid": "G`t;b:RU;P",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 6",
+                "liù",
+                "六"
+            ],
+            "guid": "G{j`x{hCOc",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mitglied / Person die einer Beschäfitgung nachgeht",
+                "yuán",
+                "员"
+            ],
+            "guid": "G|5*QIj}SD",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sprechen",
+                "shuō",
+                "说"
+            ],
+            "guid": "HAX@&JfY5I",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vater",
+                "bàba",
+                "爸爸"
+            ],
+            "guid": "HM]hwSUTys",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grundschule",
+                "xiǎoxué",
+                "小学"
+            ],
+            "guid": "I?zd7eG_$F",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie alt bist du?",
+                "Nǐ duō dà?",
+                "你多大？"
+            ],
+            "guid": "IYQ79S?5%*",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Arbeit / der Beruf / arbeiten",
+                "gōngzuò",
+                "工作"
+            ],
+            "guid": "J&QUbovWdy",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Frau / weiblich",
+                "nǚ",
+                "女"
+            ],
+            "guid": "J,-<JHNXk0",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hallo! (formell)",
+                "Nín hǎo!",
+                "您好！"
+            ],
+            "guid": "JB,lzSKg/Z",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mitte / China",
+                "zhōng",
+                "中"
+            ],
+            "guid": "Jst-6u%,.F",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elektrizität/Blitz",
+                "diàn",
+                "电"
+            ],
+            "guid": "K#+T9=it])",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Restaurant / Gaststätte",
+                "cānguǎn",
+                "餐馆"
+            ],
+            "guid": "K.Xa!Itk*=",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "viel",
+                "duō",
+                "多"
+            ],
+            "guid": "K7;Ez&^p?|",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jetzt (jetziger Moment)",
+                "xiànzài",
+                "现在"
+            ],
+            "guid": "K=Om<&.(r.",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "etwas wissen",
+                "zhīdào",
+                "知道"
+            ],
+            "guid": "Kj$:Wh,Hw<",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rechtsanwalt",
+                "lǜshī",
+                "律师"
+            ],
+            "guid": "KzDt:b}=&z",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "machen / tun / produzieren",
+                "zuò 【做】",
+                "做"
+            ],
+            "guid": "K{)Y|_M$Qi",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dein ...",
+                "nǐ de",
+                "你的"
+            ],
+            "guid": "L+C3w#+{Jl",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diese/-r/-s",
+                "zhè",
+                "这"
+            ],
+            "guid": "L3vG[~~Xce",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "und?",
+                "ne",
+                "呢"
+            ],
+            "guid": "LGr4G}G-Zo",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Amerikaner",
+                "měiguórén",
+                "美国人"
+            ],
+            "guid": "LYlY;&1[?b",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stern",
+                "xīng",
+                "星"
+            ],
+            "guid": "LlX.E6Ip81",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 5",
+                "wǔ",
+                "五"
+            ],
+            "guid": "M(>Ch!{dR`",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Medizin / heilen",
+                "yī 【医】",
+                "医"
+            ],
+            "guid": "M/Df}xhrhZ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bär",
+                "xióng",
+                "熊"
+            ],
+            "guid": "M4nni7F{w[",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "scheinen / leuchten / fotografieren",
+                "zhào",
+                "照"
+            ],
+            "guid": "M?l:s*(pmv",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tugend / Kraft",
+                "dé",
+                "德"
+            ],
+            "guid": "Mm>:GR:Sbz",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lehrer",
+                "lǎoshī",
+                "老师"
+            ],
+            "guid": "N#baRTee#%",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Taiwan",
+                "Táiwān",
+                "台湾"
+            ],
+            "guid": "N*!@,m[XS{",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paris",
+                "Bālí",
+                "巴黎"
+            ],
+            "guid": "N0YOb^^Hha",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in etwas wohnen",
+                "zhù zài",
+                "住在"
+            ],
+            "guid": "N1CcdcKpR[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mittelschule",
+                "zhōngxué",
+                "中学"
+            ],
+            "guid": "NK1e-[i[6q",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deutsche Sprache (geschrieben)",
+                "Déwén",
+                "德文"
+            ],
+            "guid": "NS^;@K*LR?",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "nur_lesen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Journalist",
+                "jìzhě",
+                "记者"
+            ],
+            "guid": "NccIH=8`L5",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mein ...",
+                "wǒ de ...",
+                "我的"
+            ],
+            "guid": "NfPrjLlNSD",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Plural-Suffix",
+                "men",
+                "们"
+            ],
+            "guid": "O&AvcGwWua",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Suffix für Klasse von Personen / -ist / -er",
+                "zhě",
+                "者"
+            ],
+            "guid": "O9L6!L$a#z",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Interesse",
+                "xìng【兴】",
+                "兴"
+            ],
+            "guid": "OFmmW8foFK",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "echt / wirklich",
+                "zhēn",
+                "真"
+            ],
+            "guid": "O`IK(/srp!",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Guten Morgen!",
+                "zǎoshang hǎo",
+                "早上好"
+            ],
+            "guid": "Oy5v+i([H~",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gekürzt jüngere Schwester",
+                "mèi",
+                "妹"
+            ],
+            "guid": "P$]P8^7x)B",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chinese",
+                "zhōngguórén",
+                "中国人"
+            ],
+            "guid": "P*E&uZO-{^",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 1",
+                "yī 【一】",
+                "一"
+            ],
+            "guid": "P3<J9T(vI)",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Liebe / lieben / gerne haben",
+                "ài",
+                "爱"
+            ],
+            "guid": "PvIcxg}/uQ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arzt",
+                "yīshēng",
+                "医生"
+            ],
+            "guid": "PyQ&:]Y^Fs",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nicht/nein",
+                "bù",
+                "不"
+            ],
+            "guid": "Q#Kbsmf@i&",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schule",
+                "xuéxiào",
+                "学校"
+            ],
+            "guid": "Q-A:SE=qiQ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deutscher",
+                "déguórén",
+                "德国人"
+            ],
+            "guid": "Q>;In_T%ee",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "nur_lesen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leben / geboren werden / gebären / Gelehrter",
+                "shēng",
+                "生"
+            ],
+            "guid": "QCy|3XFd7U",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hof / Institution",
+                "yuàn",
+                "院"
+            ],
+            "guid": "QL;=7Nt!}c",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Person aus welchem Land?",
+                "nǎguórén",
+                "哪国人"
+            ],
+            "guid": "QP`I_p&|E!",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ihr (plural)",
+                "nǐmen",
+                "你们"
+            ],
+            "guid": "Q`gKxk],jk",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Er",
+                "tā (m)",
+                "他"
+            ],
+            "guid": "Q}zMAPq>GO",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nicht haben",
+                "méiyǒu",
+                "没有"
+            ],
+            "guid": "R/7uL`eLo",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Krankenhaus",
+                "yīyuàn",
+                "医院"
+            ],
+            "guid": "bRZ%UH_7tY",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sie (3. Person Singular, W)",
+                "tā (w)",
+                "她"
+            ],
+            "guid": "bl>mjY4CPS",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elektron / elektronisch",
+                "diànzǐ",
+                "电子"
+            ],
+            "guid": "blEG?RE?xO",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Geht es dir gut?",
+                "Nǐ hǎo ma?",
+                "你好吗？"
+            ],
+            "guid": "boAvw>}yM<",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Französisch (gesprochen)",
+                "Fǎyǔ",
+                "法语"
+            ],
+            "guid": "bvDpirq:YZ",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Früh / morgens",
+                "zǎo",
+                "早"
+            ],
+            "guid": "c8%wA@46z9",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 2 vor Zähleinheitswörtern",
+                "liǎng",
+                "两"
+            ],
+            "guid": "cOtkhV5CTn",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "E-Mail-Postfach / E-Mail-Addresse",
+                "diànzǐ yóuxiāng",
+                "电子邮箱"
+            ],
+            "guid": "cWNWx.]HkS",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mutter",
+                "māma",
+                "妈妈"
+            ],
+            "guid": "cZbT4wfW{5",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abend",
+                "wǎnshang",
+                "晚上"
+            ],
+            "guid": "cxM9+RPY>",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mögen / gerne haben",
+                "xǐhuan",
+                "喜欢"
+            ],
+            "guid": "c~I[;v/0?g",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chinesisch (geschrieben)",
+                "Zhōngwén",
+                "中文"
+            ],
+            "guid": "d*#_4p-lso",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "England / UK",
+                "Yīngguó",
+                "英国"
+            ],
+            "guid": "d]oChUwk}K",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "herstellen / hergestellt",
+                "zhìzào",
+                "制造"
+            ],
+            "guid": "dbrRq;k|//",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lernen / studieren / Lehre / -logie",
+                "xué",
+                "学"
+            ],
+            "guid": "e5t^)Bw5n2",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jung",
+                "niánqīng",
+                "年轻"
+            ],
+            "guid": "eNWW$/&2<M",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sie (plural)",
+                "tāmen",
+                "他们"
+            ],
+            "guid": "eb/fKR|zE3",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Und du? / Und dir?",
+                "Nǐ ne?",
+                "你呢？"
+            ],
+            "guid": "f$`6LZKeZ#",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Familienname",
+                "xìng【姓】",
+                "姓"
+            ],
+            "guid": "f7k-.Vy:?8",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Koch",
+                "chúshī",
+                "厨师"
+            ],
+            "guid": "fQH[!UyjkE",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "niedlich",
+                "kě’ài",
+                "可爱"
+            ],
+            "guid": "fT4<JiDj7J",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bitte",
+                "qǐng",
+                "请"
+            ],
+            "guid": "fpwq~;3J@&",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Geburtsort",
+                "chūshēngdì",
+                "出生地"
+            ],
+            "guid": "f|7AT$WL{R",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Berühmtheit / Star",
+                "míngxīng",
+                "明星"
+            ],
+            "guid": "g@7AO&x?,1",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sehr",
+                "hěn",
+                "很"
+            ],
+            "guid": "gSx<OXKfiL",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Film",
+                "diànyǐng",
+                "电影"
+            ],
+            "guid": "grpOHiO^7:",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erfreut",
+                "gāoxìng",
+                "高兴"
+            ],
+            "guid": "g{!l_<.r4S",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wer?",
+                "shéi / shuí",
+                "谁"
+            ],
+            "guid": "h6=oYo_D>x",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hoch/groß/sehr",
+                "gāo",
+                "高"
+            ],
+            "guid": "h;)%W1Aly4",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lange nicht gesehen!",
+                "Hǎojiǔ bú jiàn",
+                "好久不见"
+            ],
+            "guid": "hQH^EtRWA}",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "auch",
+                "yě",
+                "也"
+            ],
+            "guid": "h^3#J;#T@M",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Morgen (nächster Tag)",
+                "míngtiān",
+                "明天"
+            ],
+            "guid": "hd-UP$tZJt",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "heute",
+                "jīntiān",
+                "今天"
+            ],
+            "guid": "hht$SYd^7@",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 10",
+                "shí (numerisch)",
+                "十"
+            ],
+            "guid": "hkcR->(gOn",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gekürzt älterer Bruder",
+                "gē",
+                "哥"
+            ],
+            "guid": "i%Z6.]uM-#",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Europa",
+                "Ōuzhōu",
+                "欧洲"
+            ],
+            "guid": "iB8xs2=!2m",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 2",
+                "èr",
+                "二"
+            ],
+            "guid": "iIWhq`e6AN",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Morgen (eines Tags)",
+                "zǎoshang",
+                "早上"
+            ],
+            "guid": "iQs%{r9I@V",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arbeiter / Industrie / Technik / geübt sein / etc.",
+                "gōng",
+                "工"
+            ],
+            "guid": "iRYSh)qRu7",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fernsehsender",
+                "diànshìtái",
+                "电视台"
+            ],
+            "guid": "ia`oW&@t#n",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jüngere Schwester",
+                "mèimei",
+                "妹妹"
+            ],
+            "guid": "ivN4o+ZYJ{",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Norden / nördlich",
+                "běi",
+                "北"
+            ],
+            "guid": "i{>bV%4=(o",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Englisch (geschrieben)",
+                "Yīngwén",
+                "英文"
+            ],
+            "guid": "i|Hjo/tH4O",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nationalität",
+                "guójí",
+                "国籍"
+            ],
+            "guid": "i}L@1pmD/e",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Land / Nation",
+                "guó",
+                "国"
+            ],
+            "guid": "i}ca{@GSDD",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 8",
+                "bā",
+                "八"
+            ],
+            "guid": "j-0;PUul&S",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Foto",
+                "zhàopiàn",
+                "照片"
+            ],
+            "guid": "jQ:BPwr-k8",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "nur_lesen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schrift einer Sprache",
+                "wén",
+                "文"
+            ],
+            "guid": "jbgCKu6zmp",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Peking",
+                "Běijīng",
+                "北京"
+            ],
+            "guid": "jiiW}av+_}",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deutsche Sprache (gesprochen)",
+                "Déyǔ",
+                "德语"
+            ],
+            "guid": "jl`[u25;?P",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Du",
+                "Nǐ",
+                "你"
+            ],
+            "guid": "k-81kEPZ*(",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "generisches ZEW, auch für Menschen",
+                "gè",
+                "个"
+            ],
+            "guid": "kXPR``A8[;",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sie (2. Person singular)",
+                "nín",
+                "您"
+            ],
+            "guid": "kY,5L:*F_%",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TU Berlin",
+                "Bólín Gōngdà",
+                "柏林工大"
+            ],
+            "guid": "kj9aok{PYd",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mensch",
+                "rén",
+                "人"
+            ],
+            "guid": "kt]~@tsmkJ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jahre alt / Altersjahr ZEW",
+                "suì",
+                "岁"
+            ],
+            "guid": "l1G1D,-79~",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gericht",
+                "fǎyuàn",
+                "法院"
+            ],
+            "guid": "lN^WrZ=S4[",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fragewort “was?”",
+                "shénme",
+                "什么"
+            ],
+            "guid": "lP)K9kdlo=",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "etwas",
+                "shén",
+                "什"
+            ],
+            "guid": "luarK,C-?Q",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Auf Wiedersehen!",
+                "zàijiàn",
+                "再见"
+            ],
+            "guid": "m*(?C)eLUa",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cool",
+                "kù",
+                "酷"
+            ],
+            "guid": "mD^x~V=D>Z",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "klein / jung",
+                "xiǎo",
+                "小"
+            ],
+            "guid": "mE?Mp5.Hy&",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schön / Hübsch",
+                "měi",
+                "美"
+            ],
+            "guid": "mO[d4_xkIE",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Strukturpartikel zur Bildung von Attributen",
+                "de",
+                "的"
+            ],
+            "guid": "mPM>7CubM(",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "woher?",
+                "nǎli rén",
+                "哪里人"
+            ],
+            "guid": "mbzvW3V2.{",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Japan",
+                "Rìběn",
+                "日本"
+            ],
+            "guid": "mz-FjTNg4s",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie alt sind Sie? (sehr höflich, sehr alt, ab ca. 70 Jahren)",
+                "Nín guì gēng?",
+                "您贵庚？"
+            ],
+            "guid": "nBI@@1V@N+",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sport machen",
+                "zuòyùndòng",
+                "做运动"
+            ],
+            "guid": "n~>KN4QtU=",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wo?",
+                "nǎli",
+                "哪里"
+            ],
+            "guid": "oQ^O2I@lgv",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fräulein / Mädchen",
+                "xiǎojiě",
+                "小姐"
+            ],
+            "guid": "oWO%K3NN!Q",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Panda",
+                "xióngmāo",
+                "熊猫"
+            ],
+            "guid": "o`=h_Lv+hx",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tier (allgemein)",
+                "dòngwù",
+                "动物"
+            ],
+            "guid": "orBmD%,~Si",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hauptstadt",
+                "jīng",
+                "京"
+            ],
+            "guid": "osKE*w?a{b",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt du?",
+                "Nǐ jiào shénme míngzì?",
+                "你叫什么名字？"
+            ],
+            "guid": "p[Y|hCZn;o",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sprichst du Englisch?",
+                "Nì huì shuō yīngyǔ ma?",
+                "你会说英语吗？"
+            ],
+            "guid": "pgfiMqL/CF",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Französisch (geschrieben)",
+                "Fǎwén",
+                "法文"
+            ],
+            "guid": "piT%fN]Oft",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fragepartikel für Ja-Nein Fragen",
+                "ma",
+                "吗"
+            ],
+            "guid": "pi{ACmxOs)",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groß / stark / haupt-",
+                "dà",
+                "大"
+            ],
+            "guid": "q.7/DN,c*Z",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gut",
+                "hǎo",
+                "好"
+            ],
+            "guid": "qL;pHn.i<4",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 9",
+                "jiǔ",
+                "九"
+            ],
+            "guid": "qMPo:I)SDR",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Älterer Bruder",
+                "gēge",
+                "哥哥"
+            ],
+            "guid": "qt{6>b3%K]",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "heißen",
+                "jiào",
+                "叫"
+            ],
+            "guid": "r$bjE+%$Vy",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was arbeitest du?",
+                "Nǐ zuò shénme gōngzuò?",
+                "你做什么工作？"
+            ],
+            "guid": "r?L:oW!L8b",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gekürzt jüngerer Bruder",
+                "dì",
+                "弟"
+            ],
+            "guid": "rI&DU#Wkr7",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "klein / kleinwüchsig / niedrig",
+                "ǎi",
+                "矮"
+            ],
+            "guid": "ra9S7P,@hx",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(teil von \"was?\")",
+                "me",
+                "么"
+            ],
+            "guid": "rvGh}A2jI9",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ugs. Mutter",
+                "mā",
+                "妈"
+            ],
+            "guid": "s4b7u^RU*!",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fragen",
+                "wèn",
+                "问"
+            ],
+            "guid": "sJn5&u8{#X",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "oben / nach oben / vorig / neuestes",
+                "shàng",
+                "上"
+            ],
+            "guid": "s`5XvtE[N*",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sein",
+                "shì",
+                "是"
+            ],
+            "guid": "stNB~t;)p>",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ich",
+                "wǒ",
+                "我"
+            ],
+            "guid": "sy&0?d!;jg",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aufschreiben / sich erinnern",
+                "jì",
+                "记"
+            ],
+            "guid": "t$3}?mnX8#",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sprache",
+                "yǔyán",
+                "语言"
+            ],
+            "guid": "t=&2[~=-nx",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ugs. Vater",
+                "bà",
+                "爸"
+            ],
+            "guid": "tF`t}CRT(r",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Student",
+                "dàxuéshēng",
+                "大学生"
+            ],
+            "guid": "tH#m{KE~RZ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "haben",
+                "yǒu",
+                "有"
+            ],
+            "guid": "tO%F9n2gzs",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gekürzt ältere Schwester",
+                "jiě",
+                "姐"
+            ],
+            "guid": "tuT9m0tf7A",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fertigen / handwerken / machen",
+                "zuò【作】",
+                "作"
+            ],
+            "guid": "u0hx_l=0q|",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deutschland",
+                "Déguó",
+                "德国"
+            ],
+            "guid": "uGH&UwiiU&",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra",
+                "nur_lesen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "alle / beide",
+                "dōu",
+                "都"
+            ],
+            "guid": "uZQYeM|8wt",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wissen (Nomen)",
+                "shí (识)",
+                "识"
+            ],
+            "guid": "v0k?11gM51",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schauspieler",
+                "yǎnyuán",
+                "演员"
+            ],
+            "guid": "v8>jMRr|bb",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Englisch (gesprochen)",
+                "Yīngyǔ",
+                "英语"
+            ],
+            "guid": "v?oo&0C[XI",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "China",
+                "Zhōngguó",
+                "中国"
+            ],
+            "guid": "vBNyh9CBx_",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "extra"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "alle / gesamte Familie",
+                "dàjiā",
+                "大家"
+            ],
+            "guid": "v`{w}x=.i_",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jeden Tag",
+                "tiāntiān",
+                "天天"
+            ],
+            "guid": "vf$;m{+d>k",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Scheibe / Tablett / Karte",
+                "piàn",
+                "片"
+            ],
+            "guid": "w9/oR[X5m:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kennen/erkennen/wiedererkennen",
+                "rèn",
+                "认"
+            ],
+            "guid": "wC*L,H4bq_",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gut aussehend / elegant / hübsch",
+                "shuài",
+                "帅"
+            ],
+            "guid": "wK!#5yM[RO",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Meer / Ozean",
+                "hǎi",
+                "海"
+            ],
+            "guid": "wZo+IS/CRR",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wohnen/leben",
+                "zhù",
+                "住"
+            ],
+            "guid": "wj~R!anUS=",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Entschuldigung",
+                "duíbuqǐ",
+                "对不起"
+            ],
+            "guid": "wvcNZ0&!je",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Basketball",
+                "lánqiú",
+                "篮球"
+            ],
+            "guid": "w{;@~ZsKJA",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Seite / Blatt",
+                "yè",
+                "页"
+            ],
+            "guid": "x%3&tdx@80",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in / innerhalb / innere / Heimat",
+                "lǐ",
+                "里"
+            ],
+            "guid": "x2?%8mHu_k",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hübsch",
+                "piàoliang",
+                "漂亮"
+            ],
+            "guid": "x3{7Oo#DnK",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Guten Abend!",
+                "wǎnshang hǎo",
+                "晚上好"
+            ],
+            "guid": "x6=lxk43G9",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sportler / Athlet",
+                "yùndòngyuán",
+                "运动员"
+            ],
+            "guid": "x<h6]T)CdA",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "alt / erfahren",
+                "lǎo",
+                "老"
+            ],
+            "guid": "xCF4UM&7TO",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Herkunft / Wurzel",
+                "běn",
+                "本"
+            ],
+            "guid": "xOq~50$zNY",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 3",
+                "sān",
+                "三"
+            ],
+            "guid": "xR6vUi^a?k",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Familie / Haushalt / Zuhause / ZEW für Unternehmen etc.",
+                "jiā",
+                "家"
+            ],
+            "guid": "xSNhLoh,,i",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hell / klar / glänzend",
+                "míng【明】",
+                "明"
+            ],
+            "guid": "xgn~9V*>F1",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aufsteigen/aufstehen",
+                "qǐ",
+                "起"
+            ],
+            "guid": "x}vx%CTR8O",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nach- und Vorname",
+                "xìngmíng",
+                "姓名"
+            ],
+            "guid": "y3}n./hSJ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mund / Öffnung",
+                "kǒu",
+                "口"
+            ],
+            "guid": "yK7xXrm$@z",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Krankenpfleger",
+                "hùshi",
+                "护士"
+            ],
+            "guid": "yMeu?muN$;",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Meister / Vorbild / Lehrer",
+                "shī",
+                "师"
+            ],
+            "guid": "yl:a6&V}{t",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 7",
+                "qī",
+                "七"
+            ],
+            "guid": "y~kC7QT6kZ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "und",
+                "hé",
+                "和"
+            ],
+            "guid": "z(z4r)AIXU",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "London",
+                "Lúndūn",
+                "伦敦"
+            ],
+            "guid": "z*Uy}GWcyV",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schule (gebundene Form)",
+                "xiào",
+                "校"
+            ],
+            "guid": "z+5/rjV(@u",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_3",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schriftzeichen",
+                "zì",
+                "字"
+            ],
+            "guid": "z82)U)CZt^",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Katze / Kater",
+                "māo",
+                "猫"
+            ],
+            "guid": "z@I;X6+>[2",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "meist / Superlativform",
+                "zuì",
+                "最"
+            ],
+            "guid": "zJgcO!VEp)",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ziffer 4",
+                "sì",
+                "四"
+            ],
+            "guid": "zrpV?Mq&.7",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_0",
+                "zeichenliste"
+            ]
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
