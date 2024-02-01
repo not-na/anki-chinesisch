@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "98787aa0-bf79-11ee-82ca-cdae705cc9c0",
+    "crowdanki_uuid": "b5779db0-c155-11ee-bdc2-f325b4ef50b1",
     "deck_config_uuid": "987882c0-bf79-11ee-82ca-cdae705cc9c0",
     "deck_configurations": [
         {
@@ -356,6 +356,19 @@
         {
             "__type__": "Note",
             "fields": [
+                "Empfänger",
+                "shōujiàrén",
+                "收件人"
+            ],
+            "guid": "AFwF>`n`.*",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Chinesisch (gesprochen)",
                 "Hànyǔ",
                 "汉语"
@@ -364,6 +377,20 @@
             "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nummer",
+                "hàomǎ",
+                "号码"
+            ],
+            "guid": "Aa6~V<<yH1",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
             ]
         },
         {
@@ -575,6 +602,19 @@
         {
             "__type__": "Note",
             "fields": [
+                "Poststück / Postsendung",
+                "yóujiàn",
+                "邮件"
+            ],
+            "guid": "DgT?L6uJZk",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "welche/welcher/welches/wo",
                 "nǎ",
                 "哪"
@@ -583,6 +623,7 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_2",
+                "fragepronomen",
                 "zeichenliste"
             ]
         },
@@ -666,6 +707,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Handynummer",
+                "shǒujī hàomǎ",
+                "手机号码"
+            ],
+            "guid": "F*bq$`7tgc",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
                 "zeichenliste"
             ]
         },
@@ -777,6 +832,7 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4",
+                "fragepronomen",
                 "zeichenliste"
             ]
         },
@@ -898,6 +954,19 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "E-Mail",
+                "diànzǐ yóujiàn",
+                "电子邮件"
+            ],
+            "guid": "J<G23`tTsp",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
             ]
         },
         {
@@ -1150,6 +1219,34 @@
         {
             "__type__": "Note",
             "fields": [
+                "Handy",
+                "shǒujī",
+                "手机"
+            ],
+            "guid": "MG;OB0Kd_[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist deine Telefonnummer?",
+                "Nǐ de diànhuà hàomǎ shì duōshǎo?",
+                "你的电话号码是多少？"
+            ],
+            "guid": "MUa=n#cE_:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Tugend / Kraft",
                 "dé",
                 "德"
@@ -1294,6 +1391,20 @@
             "tags": [
                 "eh_3",
                 "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "können / erlauben / dürfen",
+                "kěyǐ",
+                "可以"
+            ],
+            "guid": "OC&v~7VZ+=",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
                 "zeichenliste"
             ]
         },
@@ -1532,6 +1643,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "neu",
+                "xīn",
+                "新"
+            ],
+            "guid": "R4[Z|j!XG",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Krankenhaus",
                 "yīyuàn",
                 "医院"
@@ -1627,7 +1752,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "E-Mail-Postfach / E-Mail-Addresse",
+                "E-Mail-Postfach / E-Mail-Adresse",
                 "diànzǐ yóuxiāng",
                 "电子邮箱"
             ],
@@ -1650,6 +1775,19 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beamter / Beschäftigte im öffentlichen Dienst",
+                "gōngwùyuán",
+                "公务员"
+            ],
+            "guid": "cqeG5s$`_4",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
             ]
         },
         {
@@ -1818,6 +1956,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Jemanden anrufen",
+                "gěi &lt;jmd.&gt; dǎ diànhuà",
+                "给 &lt;jmd.&gt; 打电话"
+            ],
+            "guid": "fix!CWG:zm",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Bitte",
                 "qǐng",
                 "请"
@@ -1872,6 +2024,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Zimmer",
+                "fángjiān",
+                "房间"
+            ],
+            "guid": "g`YHHyUC[n",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Film",
                 "diànyǐng",
                 "电影"
@@ -1906,6 +2072,7 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4",
+                "fragepronomen",
                 "zeichenliste"
             ]
         },
@@ -2160,6 +2327,34 @@
         {
             "__type__": "Note",
             "fields": [
+                "geben",
+                "gěi",
+                "给"
+            ],
+            "guid": "j7f~/Z#t]0",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Straße / Weg",
+                "lù",
+                "路"
+            ],
+            "guid": "j=_!n5!]n@",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Foto",
                 "zhàopiàn",
                 "照片"
@@ -2214,6 +2409,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "Appartement / Wohnung",
+                "gōngyù",
+                "公寓"
+            ],
+            "guid": "jy&?loxYo^",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Du",
                 "Nǐ",
                 "你"
@@ -2222,6 +2432,33 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_1",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kurznachricht / SMS",
+                "duǎnxìn",
+                "短信"
+            ],
+            "guid": "kH.LSVtiQ2",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Telefonnummer",
+                "diànhuà hàomǎ",
+                "电话号码"
+            ],
+            "guid": "kQ00azq>$-",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
                 "zeichenliste"
             ]
         },
@@ -2280,6 +2517,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Telefon",
+                "diànhuà",
+                "电话"
+            ],
+            "guid": "l(Kr!g>LMu",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Jahre alt / Altersjahr ZEW",
                 "suì",
                 "岁"
@@ -2294,7 +2545,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Gericht",
+                "Gericht (Institution)",
                 "fǎyuàn",
                 "法院"
             ],
@@ -2314,7 +2565,37 @@
             "guid": "lP)K9kdlo=",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
-                "eh_1"
+                "eh_1",
+                "fragepronomen"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "senden, versenden",
+                "fāsòng",
+                "发送"
+            ],
+            "guid": "lS@UShSggg",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "öffentlich, dienstlich",
+                "gōng",
+                "公"
+            ],
+            "guid": "lddpVrfj[+",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
             ]
         },
         {
@@ -2463,7 +2744,8 @@
             "guid": "oQ^O2I@lgv",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
-                "eh_1"
+                "eh_1",
+                "fragepronomen"
             ]
         },
         {
@@ -2477,6 +2759,19 @@
             "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absender",
+                "fājiànrén",
+                "发件人"
+            ],
+            "guid": "o^TV*=p_8p",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
             ]
         },
         {
@@ -2577,6 +2872,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "Danke",
+                "xièxiè",
+                "谢谢"
+            ],
+            "guid": "q&oSZge00b",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "groß / stark / haupt-",
                 "dà",
                 "大"
@@ -2613,6 +2923,21 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wieviel? (0-∞)",
+                "duōshao",
+                "多少"
+            ],
+            "guid": "qMu:zNc9Lk",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "fragepronomen",
                 "zeichenliste"
             ]
         },
@@ -2729,6 +3054,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "erhalten",
+                "shōudào",
+                "收到"
+            ],
+            "guid": "sN.5cg$%k[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "oben / nach oben / vorig / neuestes",
                 "shàng",
                 "上"
@@ -2751,6 +3090,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_2",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wieviel? (0-12)",
+                "jǐ",
+                "几"
+            ],
+            "guid": "sx-n7Yr(FL",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -2867,6 +3220,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Adresse",
+                "dìzhǐ",
+                "地址"
+            ],
+            "guid": "uFa7@7^},+",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Deutschland",
                 "Déguó",
                 "德国"
@@ -2891,6 +3258,33 @@
             "tags": [
                 "eh_3",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Öffentlicher Park",
+                "gōngyuán",
+                "公园"
+            ],
+            "guid": "uga`S>,_)`",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hundert",
+                "bǎi",
+                "百"
+            ],
+            "guid": "uglh]:o@NK",
+            "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5"
             ]
         },
         {
@@ -2976,6 +3370,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "empfangen",
+                "shōu",
+                "收"
+            ],
+            "guid": "w-/d=t+wGW",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Scheibe / Tablett / Karte",
                 "piàn",
                 "片"
@@ -2985,6 +3393,20 @@
             "tags": [
                 "eh_3",
                 "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Öffentliche Straße",
+                "gōnglù",
+                "公路"
+            ],
+            "guid": "wB5_WOtClC",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
                 "zeichenliste"
             ]
         },
@@ -3068,6 +3490,20 @@
             "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "telefonieren",
+                "dǎ diànhuà",
+                "打电话"
+            ],
+            "guid": "x$UMm:u~^K",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
             ]
         },
         {
