@@ -330,6 +330,34 @@
         {
             "__type__": "Note",
             "fields": [
+                "Nudeln / Oberfläche / Weizenmehl",
+                "miàn",
+                "面"
+            ],
+            "guid": "8yWh8kL]Z",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Monat / Mond",
+                "yuè",
+                "月"
+            ],
+            "guid": "A/(pTJL2_u",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Hallo!",
                 "nǐ hǎo",
                 "你好"
@@ -474,6 +502,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dienstag",
+                "xīngqī'èr",
+                "星期二"
+            ],
+            "guid": "C&=>U,Og&8",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -824,6 +866,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Montag",
+                "xīngqīyī",
+                "星期一"
+            ],
+            "guid": "GYkUcB.FX/",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "wie alt? / wie groß?",
                 "duō dà",
                 "多大"
@@ -1136,6 +1192,34 @@
         {
             "__type__": "Note",
             "fields": [
+                "Sonntag",
+                "xīngqīrì",
+                "星期日"
+            ],
+            "guid": "LT]DNZqOz0",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Woche",
+                "xīngqī",
+                "星期"
+            ],
+            "guid": "LU~J`qy!y+",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Amerikaner",
                 "měiguórén",
                 "美国人"
@@ -1256,6 +1340,20 @@
             "tags": [
                 "eh_2",
                 "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gehen / weggehen / verlassen",
+                "qù",
+                "去"
+            ],
+            "guid": "N!HYhHdD[l",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -1657,6 +1755,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Frage nach Datum",
+                "jǐyuè jǐhào",
+                "几月几号"
+            ],
+            "guid": "b>i4@N8p*}",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Krankenhaus",
                 "yīyuàn",
                 "医院"
@@ -1873,6 +1985,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "etwas essen",
+                "chī",
+                "吃"
+            ],
+            "guid": "eGW/<jML_i",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "jung",
                 "niánqīng",
                 "年轻"
@@ -1992,6 +2118,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mittwoch",
+                "xīngqīsān",
+                "星期三"
+            ],
+            "guid": "g?sI.5GA?.",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -2243,6 +2383,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Nudeln essen",
+                "chīmiàn",
+                "吃面"
+            ],
+            "guid": "isBGvYb6n^",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Jüngere Schwester",
                 "mèimei",
                 "妹妹"
@@ -2321,6 +2475,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wie wäre es, wenn ...",
+                "zěnmeyàng",
+                "怎么样"
+            ],
+            "guid": "j4A+|15c7A",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -2539,6 +2707,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lesen / Buch lesen",
+                "kànshū",
+                "看书"
+            ],
+            "guid": "l;~]}B/4no",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -2817,6 +2999,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Wirklich?",
+                "Zhēn de ma?",
+                "真的吗？"
+            ],
+            "guid": "ot`<,fDm51",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Wie heißt du?",
                 "Nǐ jiào shénme míngzì?",
                 "你叫什么名字？"
@@ -2944,6 +3140,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Freitag",
+                "xīngqīwǔ",
+                "星期五"
+            ],
+            "guid": "qeFDD+cW&d",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Älterer Bruder",
                 "gēge",
                 "哥哥"
@@ -2993,6 +3203,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "essen / Reis essen",
+                "chīfàn",
+                "吃饭"
+            ],
+            "guid": "rRxv@W!g_q",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -3139,6 +3363,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Samstag",
+                "xīngqīliù",
+                "星期六"
+            ],
+            "guid": "t/+~akG*M0",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Sprache",
                 "yǔyán",
                 "语言"
@@ -3174,6 +3412,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Geburtstag",
+                "shēngrì",
+                "生日"
+            ],
+            "guid": "tN#e6S}v2Q",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
             ]
         },
         {
@@ -3586,6 +3838,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Donnerstag",
+                "xīngqīsì",
+                "星期四"
+            ],
+            "guid": "xHd3%Q+]}s",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
