@@ -41,7 +41,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 10
+                "perDay": 15
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -69,7 +69,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 5,
     "extendRev": 0,
     "media_files": [],
     "name": "Chinesisch",
@@ -494,7 +494,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "(Ball) spielen",
+                "spielen",
                 "dǎ",
                 "打"
             ],
@@ -631,6 +631,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Maschine",
+                "jī",
+                "机"
+            ],
+            "guid": "DA?D&r~Las",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Universität",
                 "dàxué",
                 "大学"
@@ -666,6 +680,20 @@
             "tags": [
                 "eh_2",
                 "fragepronomen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rede / Sprache / gesprochene Wörter",
+                "huà",
+                "话"
+            ],
+            "guid": "E$Q:I{~5Om",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
                 "zeichenliste"
             ]
         },
@@ -1015,6 +1043,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "Wohnsitz / Wohnort",
+                "yù",
+                "寓"
+            ],
+            "guid": "J1Dw4f~!>E",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "E-Mail",
                 "diànzǐ yóujiàn",
                 "电子邮件"
@@ -1193,7 +1236,7 @@
             "__type__": "Note",
             "fields": [
                 "Sonntag",
-                "xīngqīrì",
+                "xīngqīrì / xīngqītiān",
                 "星期日"
             ],
             "guid": "LT]DNZqOz0",
@@ -1440,6 +1483,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Garten / Park / Land zur Pflanzenaufzucht",
+                "yuán",
+                "园"
+            ],
+            "guid": "N_DF8)<epM",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Journalist",
                 "jìzhě",
                 "记者"
@@ -1592,6 +1649,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Tag / Datum / Nummer / Größe",
+                "hào",
+                "号"
+            ],
+            "guid": "P<d))|cvg[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Liebe / lieben / gerne haben",
                 "ài",
                 "爱"
@@ -1600,6 +1671,21 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leicht / geringe Anzahl / unwichtig",
+                "qīng",
+                "轻"
+            ],
+            "guid": "PxG6q:wGe.",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
                 "zeichenliste"
             ]
         },
@@ -1701,6 +1787,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "zurückgeben / zurücktreten",
+                "tuì",
+                "退"
+            ],
+            "guid": "QR/hZep!rS",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ihr (plural)",
                 "nǐmen",
                 "你们"
@@ -1746,6 +1847,20 @@
                 "新"
             ],
             "guid": "R4[Z|j!XG",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zwischen / inmitten / ZEW für Räumlichkeiten",
+                "jiān",
+                "间"
+            ],
+            "guid": "b&3zU)sq*E",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_5",
@@ -1932,6 +2047,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "Box / Kasten",
+                "xiāng",
+                "箱"
+            ],
+            "guid": "d)hxfoOd/v",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Chinesisch (geschrieben)",
                 "Zhōngwén",
                 "中文"
@@ -1966,6 +2096,20 @@
             "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hand",
+                "shǒu",
+                "手"
+            ],
+            "guid": "dhCmn7ub0}",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
             ]
         },
         {
@@ -2014,7 +2158,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Sie (plural)",
+                "Sie (3. Person Plural)",
                 "tāmen",
                 "他们"
             ],
@@ -2672,6 +2816,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Haus",
+                "fáng",
+                "房"
+            ],
+            "guid": "ko$eh7t)ek",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Mensch",
                 "rén",
                 "人"
@@ -3231,6 +3389,21 @@
             "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "postalisch / etwas mit der Post schicken",
+                "yóu",
+                "邮"
+            ],
+            "guid": "rk9|ke81oz",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
+                "zeichenliste"
             ]
         },
         {
@@ -4086,6 +4259,21 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_0",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jahr",
+                "nián",
+                "年"
+            ],
+            "guid": "zs`3!.|z2I",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_4",
+                "nur_lesen",
                 "zeichenliste"
             ]
         }
