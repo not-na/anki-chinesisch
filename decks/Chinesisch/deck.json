@@ -1085,6 +1085,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Buch / Schriftstück",
+                "shū",
+                "书"
+            ],
+            "guid": "JJfccC2ri3",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Mitte / China",
                 "zhōng",
                 "中"
@@ -1148,6 +1162,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jenes / jener / das da / das dort / dann (Interjektion)",
+                "nà",
+                "那"
+            ],
+            "guid": "KWO#Pi*,PS",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -1518,6 +1546,21 @@
             "note_model_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Essen / Mahlzeit / Essenskategorie",
+                "cān",
+                "餐"
+            ],
+            "guid": "Nl/qOrl6EF",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "nur_lesen",
+                "zeichenliste"
             ]
         },
         {
@@ -2158,6 +2201,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "Küche",
+                "chú",
+                "厨"
+            ],
+            "guid": "eT3Q+FTr|L",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "nur_lesen",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Sie (3. Person Plural)",
                 "tāmen",
                 "他们"
@@ -2390,6 +2448,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Tag / Himmel / Firmament",
+                "tiān",
+                "天"
+            ],
+            "guid": "hRLxQW0OJm",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "auch",
                 "yě",
                 "也"
@@ -2508,6 +2580,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_3",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gekochter Reis / Mahlzeit",
+                "fàn",
+                "饭"
+            ],
+            "guid": "iSn:he4;?9",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -2721,6 +2807,20 @@
         {
             "__type__": "Note",
             "fields": [
+                "Gruppe / Team / Schulklasse",
+                "bān",
+                "班"
+            ],
+            "guid": "jp^af[dZ/f",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Appartement / Wohnung",
                 "gōngyù",
                 "公寓"
@@ -2824,6 +2924,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Thema / Titel / aufschreiben / eintragen",
+                "tí",
+                "题"
+            ],
+            "guid": "kr%>=!m/QK",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -2935,6 +3049,20 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_5",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sehen / treffen",
+                "jiàn",
+                "见"
+            ],
+            "guid": "lmkA9MKNWZ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
                 "zeichenliste"
             ]
         },
@@ -3303,6 +3431,20 @@
                 "星期五"
             ],
             "guid": "qeFDD+cW&d",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "eh_6",
+                "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schauen / ansehen / lesen / betrachten",
+                "kàn",
+                "看"
+            ],
+            "guid": "qgA9D6Mbs!",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "eh_6",
