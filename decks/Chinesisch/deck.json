@@ -69,9 +69,309 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 5,
+    "extendNew": 10,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "hypertts-007f9c67589f68bc3c3a7b235a8ec55f3915fd805d045afdc8e7dc32.mp3",
+        "hypertts-020850b6327486d13e30b2313a8203d5a9c172a07c84c74f39e3617b.mp3",
+        "hypertts-0223fdb6e46da84130bfd21c442f074501cfa972b9e9db12c3500864.mp3",
+        "hypertts-02f4e9124c3c6e04be70be12cfa66fe0a15a67675de1c291d062badf.mp3",
+        "hypertts-0316b37cdf1fd0ca20ad7cf16e7670f8888c2c4869ad52abb713c46b.mp3",
+        "hypertts-04115578a84b217d7137c29ed323ce2574097fe430f058203380ce42.mp3",
+        "hypertts-064001fced7dc0612d807f46d3b7b979c9594b3b33aa3502c26d06e3.mp3",
+        "hypertts-07478d2013a005854f29ce438f1a42bf8e4bac483c531fcd1ddf1764.mp3",
+        "hypertts-07688bed971dd57c64c04326cb1a89b4310724fd4b29be6fa8005517.mp3",
+        "hypertts-079627f0cc91e00e20179ee08b12113c29492abb1f66819e0d2365e6.mp3",
+        "hypertts-07c798d47150a0259fee43b976f090df39576aa8a23bb3ba1faeab8f.mp3",
+        "hypertts-0926de3f89f5fae02b61bb1bc1ed8b632946a2c66ae1453e8865d04e.mp3",
+        "hypertts-0ad622a18f35489fda5e019ce278fe089665a68c42abda4e042d2b59.mp3",
+        "hypertts-0b0de37c0365146a5c313adfdfa457bdc571c58cd267f2ec0f24d4e2.mp3",
+        "hypertts-0b284a91d63b04e02f8a21133b9e30066031e8f458b79b907bf4076a.mp3",
+        "hypertts-0b4436d80f4616c07b1bad4fe9795a212d97f7afb7dbb0bf2edeca9c.mp3",
+        "hypertts-0bd092e505e7dd5132086df337f54ecc0435d5e32b451436d745631f.mp3",
+        "hypertts-0c56be365119794ade8cae80d9ef2fcfef823842aa454e490348e53f.mp3",
+        "hypertts-0caffc624d8966adc52d40143486f8b8defb2964513c50a22681aa2d.mp3",
+        "hypertts-0cf7226756cb568ffe6e57cc8aba263acc628a999cdd819728766256.mp3",
+        "hypertts-0dfab37144593ddd94c8acbd0f93d35eb357e5bf2d46b820267635a1.mp3",
+        "hypertts-0e2582febedc7caec597444c19b17c8336b9549bd8e7b6b99cdbcb72.mp3",
+        "hypertts-0f3807a75948c64a07a970cd3cdc68cebe01e638abf242915097b2da.mp3",
+        "hypertts-0ff70e8431209ff72ee150b21f30d8c910e6ab9418f337f8d1700a0e.mp3",
+        "hypertts-123a308f0b042ca90f64606702d0952888833991b316b87111617e65.mp3",
+        "hypertts-13e79c4023d26555ad51528fbd1cb458097c176400fa0c3d2a7d4570.mp3",
+        "hypertts-1417277f2a561954fffe178baec9890719d2607c9e0de113d7947b15.mp3",
+        "hypertts-14c85395971e50d750634a9856f69973bcc2929caf559adcb2377ea1.mp3",
+        "hypertts-1618f75a5153233c32e00caed282402488ec149226adce8a65f52d22.mp3",
+        "hypertts-166f99c6de515cda60faadd066b24fd174a89a9f53c5d860bc5839ef.mp3",
+        "hypertts-1738b0c38e7965c4e7d636b8eb4eca99a553005e064618ac9f386c17.mp3",
+        "hypertts-17fe871431cb033fc1b6f8d11c4ea95f53fceb14e850109d39dfdc08.mp3",
+        "hypertts-1830168f9c2a275844d674817bbe1dacf09f701811567365fc104b24.mp3",
+        "hypertts-18bb4a66398e28540f657a5cb1ac71563f362187fbe312b0bc54170d.mp3",
+        "hypertts-191bc740e470ffe3c93ee6afa968f82439b4bfd4ae84e4438b50b366.mp3",
+        "hypertts-1bc438fd2ad9a60f60468bfe409c44c0b4b98f895e087b2c553a1903.mp3",
+        "hypertts-1c58735b00f8ec6dfecdf1564e0118d1ee5761dcc6cff5bc9dc9cfb6.mp3",
+        "hypertts-1c8c49b37de826cce36b3e8fee2a29c1b0b74be5381d56e40b9c094a.mp3",
+        "hypertts-1c99853441c121aeb4e9517ae7dfd6689a3aad3ec2328cb3dbd4bd66.mp3",
+        "hypertts-1c9c12d758d5f780f87663ce4e4a5df4efe86b31af8f6f8bfe44fa6b.mp3",
+        "hypertts-1e01110e451a9ba13da2c82aea29094c08129a0db582384a7432036a.mp3",
+        "hypertts-1e0727da09aac5157b8586fd1d96d387a2759abbed7b1a693a051cfb.mp3",
+        "hypertts-1e17b2b2a1977fae4250ff662fae147d4027d4b261c1af830cc67450.mp3",
+        "hypertts-1e21e2228a8b9a1c69dc3975745e22600599935a86fad690c5d9633f.mp3",
+        "hypertts-1ea1134d3102fc236884052d216ddfedc1c05cd28ccc47e342936579.mp3",
+        "hypertts-1f1643b11129c733004ded243b7f90c7c93be50a99b0229038042b33.mp3",
+        "hypertts-1f5aad22ebbcd5f1797c7bc30a147068eaa3d97e4405cfbc4bc79d1a.mp3",
+        "hypertts-1f5e825af5d43ff982e44c602c549581e964d90de66702179cc86dbd.mp3",
+        "hypertts-2025c3a45720677654a5aea990d87c37d3c41ccbccbab301c307d373.mp3",
+        "hypertts-20f116eeed35f27d34277d52ec4383ced9201f014b9aef224993c0cc.mp3",
+        "hypertts-21f33dd4c75783d90b0dd390e3e6b6ab1422a51eb083a4e0907768b8.mp3",
+        "hypertts-226afada53f733f020971e9e455f122b14b594fb941416166fb1c6c8.mp3",
+        "hypertts-22fc5184dfb0d83b5794a0b68d6c5bb9a919b64533bbfa2468d3bd3b.mp3",
+        "hypertts-23eada53880786b1668f6b5f1aca5e0bb9836cf977311b53989bde47.mp3",
+        "hypertts-24d6c2faeb232f7611cbbb51fb234e145ea4e39f23486774e57aa273.mp3",
+        "hypertts-266b68e6b2c56279a2c50efbd284a28dd561e594df7ad1d029bc0f9b.mp3",
+        "hypertts-26c0be5c173faee4432a0243d92f770cf954ba43c7b17691f6ba58a5.mp3",
+        "hypertts-274946a11cd522f7db0b578606ca17d72bdca2072aae7b90f9f3cde9.mp3",
+        "hypertts-291151c036d8173c1ce8e579a4f530e4da20cb03fa2c942190f44a6b.mp3",
+        "hypertts-2aace24e5f5ddeb4eb9b7ee6feec9d1fc4a397a5a61afa1aa89b99dc.mp3",
+        "hypertts-2d0eb6905b326fa74e785371a97f3fc2b152760786fd04eb09cb50a9.mp3",
+        "hypertts-2d31f8c0dd4ca27eab80ff919a4ceacaf2028408942414c70819bfa0.mp3",
+        "hypertts-2dc370f1e9193466258df6b454dc074f447d2291a4fe8f168bf431e5.mp3",
+        "hypertts-2f0d1f86c2bce28ef7e789060cd67f14e134239c8fd55b1e8a7f8d09.mp3",
+        "hypertts-2f56027f56b0084472ca27666a1cfa6fd5cc2d8d75e6f833c69c96b2.mp3",
+        "hypertts-2fcd22dfb60669849cdd8c54d0a1c61fc257b1800dcaa2e1c38cfbad.mp3",
+        "hypertts-305864d34285e521f64688c34924e4cb02017544e98b66af8bb25bbe.mp3",
+        "hypertts-30ab670267578c38b0ab54ca14f179c4c030065881fe14884edbfe07.mp3",
+        "hypertts-30c17bee03ecf28e6b8543bc106eda65edf8daba8d31715f93d01e79.mp3",
+        "hypertts-3110d819db99ef64c33887ec12925a2496a83c9fd293e96a106d5762.mp3",
+        "hypertts-33ad02005adcadf66c0d2583e277dcf4e35df353c0c5f4d5c02747a7.mp3",
+        "hypertts-34d3ed3973c3ee38d16353de433fd3f86b404c02cd36f5072bdd69c2.mp3",
+        "hypertts-352a098f89a5901af3ca8ff209f9ab3021664b5ccd4ac72f8a0dc64a.mp3",
+        "hypertts-357e4695ae469d26d36f0492cf8f16247c41880c34d5771fea39c502.mp3",
+        "hypertts-364a6fa5c8099fd8930a197727d422e995e3f0fc302753e554452cc6.mp3",
+        "hypertts-372b763bb549b38294d5b6f03e92f79534dcd21ca727b98a7230d248.mp3",
+        "hypertts-3a129c406f3cc73f92e10d6b44608ed7be34e07c4b3d2318e82d1e4f.mp3",
+        "hypertts-3b11a900a4d8689c45a2b03f987f15f5ec23a1f38647e276dfcb92e2.mp3",
+        "hypertts-3b642118e23eece97ba39581329c8f27004598359af7149cf7815e40.mp3",
+        "hypertts-3c6c99953db648750462eef076fd9dfd6a05dfb235f3f97256942754.mp3",
+        "hypertts-3d60001457eeef252851587086fe1de9b3479bf3ecea5ce49e513c74.mp3",
+        "hypertts-3d8634a3dab955a4a416a4f4b712f86305e0f3c000048387d5fcb54d.mp3",
+        "hypertts-40baca1ae38a8dfd1be58b51d7c0d4dde679d5bcd27ad94819800aba.mp3",
+        "hypertts-418309c486ed2f38a3b301387dbeb38f1dd8b481c6168b0c2b670568.mp3",
+        "hypertts-432be96782d3e0a6dc49d2202cc54298eb7bd73c2a04aa212c7b0cb8.mp3",
+        "hypertts-433538cb13caf66589ef8a3f58fec4090d37a3426985030a28ae1c45.mp3",
+        "hypertts-449e815161267573543a971758d3381365f0a7ba5d147b61baaef9f0.mp3",
+        "hypertts-45132a66ea5c2b8a0206784c998ec1dd24a19ab193018d9a4b4eb15a.mp3",
+        "hypertts-455c3e56bbf9872f0624f610c829451ff28aa04864d81965463c081c.mp3",
+        "hypertts-458efb26c8eaa91b127bb89955dd10673da127a9ed75318eae52b884.mp3",
+        "hypertts-4764fd194bcd959ead2de9f38e0d08044aceb73649afbc8e9bec36fe.mp3",
+        "hypertts-47d173c3135f6224b3e71f3ad24199b98c0bf485cf12b1772fe86bd7.mp3",
+        "hypertts-48e62e6add238590182cb6841bb2ca32bad98482f1efa3b9ad684a55.mp3",
+        "hypertts-49c567fb06f9e3f91ce4492a9e8e65d3236bab18efd212d8996aec0b.mp3",
+        "hypertts-4b75bce1a6cebdbc2dbf25a3f536ec4d9f79d3751584e6ed208509aa.mp3",
+        "hypertts-4f4731024a73236f165550b532ff027e41dab5ffd6877ef5877bf57f.mp3",
+        "hypertts-518b2c382c4ae3c6f5c35190d638c19deb002a81134f971f267644ac.mp3",
+        "hypertts-542e3bfee46cb8ccb04245993738f7941de2a87dbef70dc2ca411ed6.mp3",
+        "hypertts-556a6a0079c41b78bfebe6008da3e5944159139ef2e88878f3fe96fb.mp3",
+        "hypertts-556b625e28b76ae93f2737f0e2a8e13c766dec350a7483bcf97dbcca.mp3",
+        "hypertts-584e11d630d3e0a0f01ea1845aa9e756478b6085c7c371d83bcb7cf7.mp3",
+        "hypertts-59bd2d11468c60dc727fb07a55c105c811aff611b759463ce0c298fc.mp3",
+        "hypertts-5a035669f2b92f5c4a90cd901fad1b78bb3c4de2e148f6db68054011.mp3",
+        "hypertts-5b321d7d1e5db6990b9cf86d7367bbc4d7ae7cc1615dc43e5909cc35.mp3",
+        "hypertts-5bd2e1b708bb1d0fa96f0bce2c47a5fac3b6bc368f1f8326dd15c168.mp3",
+        "hypertts-5d1b72438f345a132fa4653986e1a8495234fc650030093507eb856b.mp3",
+        "hypertts-5d8c2a9fe378a6d408dea3db90ddd033e99e35fda5da971dbeb34a53.mp3",
+        "hypertts-5dde19ce4cfa4a41222eecce3b4de713da31fc5a083c6a58c55851b4.mp3",
+        "hypertts-5e357180287f98f7e4c89ca922aa21a360fd64eb298a9ea1a26c97fa.mp3",
+        "hypertts-5eb15c48448a79bc02bfec330c00754e7e489461abdfa2fdcbe8bf73.mp3",
+        "hypertts-5fa6f42229d4c18878899e6ff8ba2b9d52bdd4590892af6b7bf5f253.mp3",
+        "hypertts-609f272c1ae10a4d939aac7e9c287e5602b5c1698692666ef967a2eb.mp3",
+        "hypertts-6372c122febfd887285de31367c19de6fd6427db530f142a3248ec27.mp3",
+        "hypertts-63a1721dc39f7f19d8d75ab20bdfaeaff9e2bd531a1b70f68d2a43b1.mp3",
+        "hypertts-63d146e243e168fb07e11447b0212217814c695ef899681910520391.mp3",
+        "hypertts-6502deacdf904f94ea0df96e0f15cb80b3e74a0b170e83a6f5e06d84.mp3",
+        "hypertts-654fa6f2736460ab372c7acfe9dc3ea9eff5b4dc4d5da8f5b41e6212.mp3",
+        "hypertts-6552f3a6afb725bab5f3b9579f7309a14b5039e413452595c8b93bc0.mp3",
+        "hypertts-65634d155e44430983877e1a34b5532c7faedb1b1dd8e269a8457eef.mp3",
+        "hypertts-68649816c9dc9ea588c72ef943bb418ad278b85deb80fb536e267832.mp3",
+        "hypertts-6926ebb0d9e78165cc677e6da10beaec1becb449d98e7323b394e849.mp3",
+        "hypertts-6ba5879f43f0780f26a44aceabf7e2a43da50c686df441e739a88541.mp3",
+        "hypertts-6d18af644abdc98929670830c8fe780d337ec7b6097bf7c5b3b95770.mp3",
+        "hypertts-6d901818cffad16bed2cbe54f222d23e0403b8e427e0ca4145cc1318.mp3",
+        "hypertts-6e416275fa7be24824d4d6420aae7bfce642f69bfd9b4609f7b66825.mp3",
+        "hypertts-710d938628a3e7f103019b979c210d380256d51b1c5b47e36bb4fcbb.mp3",
+        "hypertts-7195f6890b1d5bba5c89ae26bfb959027eca32c5932d6ca27490df1a.mp3",
+        "hypertts-73901401b176015d65e3e2171d53fb58e939e94ea85dd277e522100e.mp3",
+        "hypertts-73b0ffb1208f2b08519583cb74bc2c30846fc7f03ca2d3cb56ad5275.mp3",
+        "hypertts-73fadbd5a02246b35e463d45c72057ba88384a4be4cb7e99662dae1d.mp3",
+        "hypertts-74b4dd6ed092fdd08b73063a136c46162e70ac176cd64c1f9ea5edf2.mp3",
+        "hypertts-75a87fa0d99ef2e013241504c072d38f7eefdd9ccb1a3b3d168a7e03.mp3",
+        "hypertts-76f15baa00fab48252a8c0b6bcad6bde6a5c6deb8abcdc619699df19.mp3",
+        "hypertts-78e53d2a43cfa293022f1254443a2babc17144261bd3a391f5fa9666.mp3",
+        "hypertts-793ac0c65c78c8113ffade79395b2a2d89e4369ad015b4795c0914a0.mp3",
+        "hypertts-7a41e0ced87bdff93063bcc15368a15f5120b392392006ff88f0dc75.mp3",
+        "hypertts-7a6b95d58bc6740de5e4d8272176505d329f6e4d27ca521f06684c44.mp3",
+        "hypertts-7aa520bdbc219f1a23b9b5dbe5373d944791b1b9948a6b3375fb8492.mp3",
+        "hypertts-7b364e83507a14ee339c82c3bfcee7abca20faac7a4bf066235e9470.mp3",
+        "hypertts-7d2b5ea3bf9ae53dab107e28837fba95c85d93f18d8e885389c6aa46.mp3",
+        "hypertts-7edf5e31b6910066c3a124a7701954c70703e43092b25e2def365bee.mp3",
+        "hypertts-815000ef769484f403f03fa25f65a05adb05477156e495048ca35375.mp3",
+        "hypertts-82a64fa810b85eb88ac6cd98d361e3b6682ac6da9914ebfd658b4ac1.mp3",
+        "hypertts-82e2b111a2aaea297940aa9d6505cfe8f0d42c4389cd3da2228bd29a.mp3",
+        "hypertts-836b3a54f2fb750cfc66913047d719a6e40ee21a05f9736affbabc06.mp3",
+        "hypertts-84487b06f427503063764ed0a92649bf6beb4c63930e16a1513440ca.mp3",
+        "hypertts-8561844eeb62073619959186edafa7bfa35460a51156b8ac8b97bf74.mp3",
+        "hypertts-86429ddc4ac89361c3d727c698bcbd4e9acdc45d904c3a9adafa473e.mp3",
+        "hypertts-86bc9aa99bd078e911bba7f3d119a8908acfbb6e98910067bab51873.mp3",
+        "hypertts-87965b39ba58cb849399b6a12ad58a37e0b5ee30db29cb0837302b57.mp3",
+        "hypertts-87969c7e9f09721f416cbfa3d39b75ea57dc0a35ab11912d24e87d32.mp3",
+        "hypertts-879cb8fbaca0b9c2a0380e9f7c210d549fb2482bccb23e472b54b285.mp3",
+        "hypertts-891c885945489f017fbf8f7647baccc5440e164725e63cae60566e7f.mp3",
+        "hypertts-8929d173901e6dd24ba696359c081ecfe597f8c58735a05fb317e72b.mp3",
+        "hypertts-89f495a9936f5a1e52829df54134d83ce287cfcf03872d6b0433dd2f.mp3",
+        "hypertts-8aa723d2fac211142c016f20c85578ee2aeb5a081cf1111b31ebdfae.mp3",
+        "hypertts-8b00873552510bdcb68134ce4f9ca1b96200e6e1d7155d8481a3d47f.mp3",
+        "hypertts-8c501a58b26c0e7f0725fe957b8785f9c1c333cac1ae2c4effd66098.mp3",
+        "hypertts-8c6548246689641818fbf4bc08606327637d07239bed5611beb5a18a.mp3",
+        "hypertts-8d461b73c616488a54f31ac5670e89abcf3c19bdccb022726bd412c1.mp3",
+        "hypertts-8e66d24fd4750bfcf3cd189c528858b80fc061e41b02f26d450a1a1d.mp3",
+        "hypertts-909883e5cbfddb9e4912d9e7aaeb079e0f17bc026dc1294567633996.mp3",
+        "hypertts-910ce0013904e73bc17163e006353394d49b6e3414b348532fd81bb9.mp3",
+        "hypertts-9243f6f614a0cb12b90093d401ba577235d4dde5dda85a6c0253b055.mp3",
+        "hypertts-928b91525c7b46db337e488adf9316936dbc4603807a5f41992954fc.mp3",
+        "hypertts-9607a483222cec483a297c4be2b421fdd6f67d2b317b2323e5f88047.mp3",
+        "hypertts-96a25ba21b495807aad8e07ada03d645560854450f0f78485ba8d8dc.mp3",
+        "hypertts-98595c3a5f82f6a34fd97ffd6f3f17445da582928b403c34d7e3dbca.mp3",
+        "hypertts-9a0d33c8f381512eb9c4bde7750c30dfe7912eeafdfadd50af217d1b.mp3",
+        "hypertts-9b0a8e895c5448c415baf3af859234d2701e10f39b09bc373e557d39.mp3",
+        "hypertts-9c827aae742a29d6f7c19f5f125f0199e3f78a41904a9fa15aa81d6e.mp3",
+        "hypertts-9caf0d400b3e3e74155f4a77e0b42ac35a8cb3371e8f9fe375701735.mp3",
+        "hypertts-9d2cb95c4deab5309afd4f65a35fd1e5daba694e3b55a187d7e2398f.mp3",
+        "hypertts-9ef7fbb4b551b34d30d21d62355a0a44984068726bb79123e89eee6a.mp3",
+        "hypertts-9fc4dedeb5247f87251e0814520723c5548f55eba4e8621dcce2164e.mp3",
+        "hypertts-a2687f67f299a8d1c94fe6f1764178f6948319c832d6f3b408ab6f1d.mp3",
+        "hypertts-a275c32f4f5053e2f23f4daae4e4782050b01a46de90cadd679bb3b0.mp3",
+        "hypertts-a2e8b884c2ff2d9a60e2d5f373d95c00f48967aff0241ed9cc996f43.mp3",
+        "hypertts-a3391fd58ab967f6408ea408fd68e549695f818886af73e76c439812.mp3",
+        "hypertts-a3d75beb20350b63cfc6c58e075ee65e2ac4e122bd8c8296309c963d.mp3",
+        "hypertts-a4649f762fc38b3b9fb43397e8ee88cf00b69d7fec389a5bac135f88.mp3",
+        "hypertts-a5b0a0c2efc9be3e63b41216820890cdb713b833fe80dae2925c50e8.mp3",
+        "hypertts-a6f1fac76979578b5e368d18ecc8a7461d10e53246d352b7c92263f2.mp3",
+        "hypertts-a784a50d4c26cacc86f23a3a1a637ce62b0a21f3843de81fa974ca4e.mp3",
+        "hypertts-a7c16d4c5803c3a1927c3daa1dfab3a877840fdfe06e284885313095.mp3",
+        "hypertts-a878d6e8a228c8ba23811517ae5eee4dfc9bf059e08826d5f09fa657.mp3",
+        "hypertts-a8f9aafd4deb7b060ef95d6fd89db4fa1ae9edaa5e2578084ab8be25.mp3",
+        "hypertts-a9c32c6dbb471ce14a1fb21279df8e9325f68be9a1e2f3f8d49173e2.mp3",
+        "hypertts-a9f7b3c4c019ca3866e33976997c01ca3cd306c428f6dbd91e32d874.mp3",
+        "hypertts-aa32de0ab7725f722eb0eb70439f33b4fdee4d3d66cb1f3acf3cd1b0.mp3",
+        "hypertts-aaa5aa0b74b4d92daf6996127fd6f806b168ee5dcde066c3f4ca801c.mp3",
+        "hypertts-ab8ce073a7217f1d2add2b7381e082dc2346509d7f325a01a8d3022a.mp3",
+        "hypertts-abf2061a9178d6af853542e78ec95edf162bf0a561580937d2c567e4.mp3",
+        "hypertts-ac2082cb7993da5b0b0076cc2a7d0a80d908974e18cb490846a97589.mp3",
+        "hypertts-ac8f9f6e883a731c9b52db9b89552aa383c56284283af265a707e077.mp3",
+        "hypertts-ad0dfd0af7bf307e071fd4c51737bad31876c6eea65966cb3d4651f2.mp3",
+        "hypertts-ad1fd036e2606d25309a2c70ebf087a4919e07cc9dab72ad76ef88c9.mp3",
+        "hypertts-adf113d6ef6d3a5cfdc4a8d25216a4c47fa751db1c6d46960a583572.mp3",
+        "hypertts-ae67c347f5106feb5d40cfe4c4ef60daa9d104d5536940fa9bb6aa16.mp3",
+        "hypertts-afac086209858906e3dc0405739a0388ca9f628ffbbd588c499380dd.mp3",
+        "hypertts-b04e12028ddd561881685a55ec36a968fbd03c36d495a2a1844a2719.mp3",
+        "hypertts-b0cbbbd3f9af56f37b9ede2dfdba114bc76484f69425a36aadfbf491.mp3",
+        "hypertts-b1ddbde4ffc8d94ffaf34f440f30917960c5a132113b85282833ac0c.mp3",
+        "hypertts-b1fbfd5b2513831850640914058629cac190c020b7a0730072273e5c.mp3",
+        "hypertts-b223ac269c57120d9a257e04923e739bcb698d98af9f98592b2c1638.mp3",
+        "hypertts-b24935fc8a5d3b484ed1c322b9c624d842c4a4456f70fff35a073f24.mp3",
+        "hypertts-b4d6b776396745be2c5ccbf2c75eac052c2709e832c583110adf331f.mp3",
+        "hypertts-b54905c4cae422b64d5e36b92f6bd8453ac6d6462002b9d8f0254cfc.mp3",
+        "hypertts-b63c9f8d20473364530197810306ce42afd54f3342a3f2ad38dbb5c2.mp3",
+        "hypertts-b63dad2b762baf893f1b3268f63bd3ef81cc3036b9f6bea279b753f6.mp3",
+        "hypertts-b77caf0f629a76b56ba67d70d241b50e10fbca72f2776c8606b01f6f.mp3",
+        "hypertts-b7cb5bc4dc3df09b3c814ef06a935adfee6bd967139de074ab13a264.mp3",
+        "hypertts-ba0aed98c1cc923ccabdf7130731b66fd24162d0766f39691f69e968.mp3",
+        "hypertts-bab5e78f10d4305f3d3627779eaf9fa7f0665dedcf45ffe782d4fe18.mp3",
+        "hypertts-bb061633b183f17dbaa9343e07473c6f474a440b43bc4f24b62e2eb1.mp3",
+        "hypertts-bc41f3fd5a36e0d3ea8810a03d32235f835c3cee72508a2a5bc7b8c9.mp3",
+        "hypertts-bdf868293e92793cfbd03fc3158fe015173074296f9c1dc9d55fcb88.mp3",
+        "hypertts-be70d782814ff05987c50f6032661f60448ea1703af02d716184bffa.mp3",
+        "hypertts-c10cac608a6431d80dfe451a9b07a9d416693fa5c628db083e6f7d84.mp3",
+        "hypertts-c126503030c1ca356ed2a391ba64efca7c796b4e63123172e7cf398c.mp3",
+        "hypertts-c16e63dfa309729fd30c6b095184108669169a9fe7b4734ebb3789c9.mp3",
+        "hypertts-c1f0e3de84ce19df2b11e9700247f3bc306278a616b0d1805a576c41.mp3",
+        "hypertts-c2f9226a1b270ff1abb92e4a318e3a8d4cd11b708df50f479c93efae.mp3",
+        "hypertts-c4ce8701cb652275286b86297841a7366e33c960f4f13f3e6ba49782.mp3",
+        "hypertts-c50eeebac1b7a68d3818d5076c9ef6f6d0e187ca3649d824d063bd16.mp3",
+        "hypertts-c554000033aca7434977af5bc58df1df370878ce34ca8eb085a2930c.mp3",
+        "hypertts-c64bbba82dafddf4d53d2a8382cdbdc1da4d5b7f361425e471fb81f7.mp3",
+        "hypertts-c6ab58c7feca35678614dc62a2d1d919aea184721f84fc440da7939e.mp3",
+        "hypertts-c9e0965bc00efc832b5a1378ad8877a4d44d75770be50cf7786e8158.mp3",
+        "hypertts-caf76040d5fe43b3b5a79b477a8c69c76a6af7ac9d61f2a4bc747f56.mp3",
+        "hypertts-cb1d50ca4f64e18c64642e3bad284ac1ee5f8be80cf3ba995e90bc22.mp3",
+        "hypertts-cb7dd374e8da820133ce35d5bce200e9553e1578e6b86ea2e6452412.mp3",
+        "hypertts-cb827203df298303742087085e12654c352325add3ea7ec01ce438dc.mp3",
+        "hypertts-cbe5b8c027ae8a77046ecc5201110d4d8bf69d5e70f917c1c25b0357.mp3",
+        "hypertts-cc75346ec26e0e047f068a131aa893d2a4cd0be23385df19ecf2c025.mp3",
+        "hypertts-cd2d18f778d54e5df34826434be7abe4a4d7a5a2dbeb9b72ff0b0e96.mp3",
+        "hypertts-cd318c751e64505a43f1c8aa3fb8dc4088205c81601549b64c341cab.mp3",
+        "hypertts-cd6dc889dc2863989f2c7706426c68c861789265669f51cdddcc6885.mp3",
+        "hypertts-cdcf735f51c354e077392f27447391b9e41aeee136444ae209430413.mp3",
+        "hypertts-cf09563efd2c9cc78e725dc219ba921c84c2b1e9c09c3da64259758e.mp3",
+        "hypertts-d08f635ca5605d9bd120e1388a446a50cc411b5e048b23b5ae1bd0e7.mp3",
+        "hypertts-d0c733465300e0bd0e2bd6c01acc20e25f5ee4d84eef7a266981ee18.mp3",
+        "hypertts-d11d4147c880c1ef1f8554c8d069ad39f693a46aef510bdc06b13974.mp3",
+        "hypertts-d322b1e67924204e0d8a2b4a43ced821eeb7a7f30ab74e834d24804b.mp3",
+        "hypertts-d402de3bc856cfcfe75412d22428fac89781200c04a84f06529bb04b.mp3",
+        "hypertts-d4ce592dd536cbde3d9a3a6553b8001b7ff45d44eb1b8e6fb639dbff.mp3",
+        "hypertts-d4f3c5858e3aa5ffb8961eedacf30b827959dfbbbdf764b1e5d41284.mp3",
+        "hypertts-d567a5b374c81022adaa3a6097a039d6cdc4a8c141d56c6d0a1c56dd.mp3",
+        "hypertts-d6731779f9683fc8fc1d69052832b18afdcf7285e2ca1ce72c3cbcc8.mp3",
+        "hypertts-d706ff4c3904c3da35b3ab21faf743146c28417be9bea3f494065b1f.mp3",
+        "hypertts-d7799037358aee3cd2b80f4b3bb2dc386f94827f82ca1ee25f7cc658.mp3",
+        "hypertts-d77d4b9c3d8bd4fe2da76d4e99bf99e8cd7c8e9212647a51487470d0.mp3",
+        "hypertts-d806416fce66de8bd457a89cf66d20ce7405174e17486724b3d17a3b.mp3",
+        "hypertts-dabc80be4d84fb7de8eb68f9d711674988c855800aa177fe61b2c098.mp3",
+        "hypertts-db508b24ea96f48121597fa472a367bf05d9979d51b968a8e461876e.mp3",
+        "hypertts-dc0a3d5b39a59aa723922aa63a56622b9d6db2062fb45d037d564c15.mp3",
+        "hypertts-dd4c75254e7e46055ffcdf57bf8471c534f141c86cf7b463aca9199e.mp3",
+        "hypertts-de5dedab14e135862f028a3b86fbd8f87431f5143b2e50207543d316.mp3",
+        "hypertts-dec7d6c366a180c6f2928bae195c6038a055f6bdcad6ef8634f126c9.mp3",
+        "hypertts-df22fe469e4db5ff0733d0a44585b4c27589bcddaa5f0701a0b96f27.mp3",
+        "hypertts-df8bd3533b025e5f558ea3677aaf8fed41719ee125c1d8a77f2b6c0c.mp3",
+        "hypertts-df9ad96d56df16051016a37ae17b4eeadef1e5bce84a9b87dc75db9d.mp3",
+        "hypertts-e1bf3a0627240160d94e8c80237115b5783dabf174c576e03d2ed8d1.mp3",
+        "hypertts-e2fe532fdc5ab0cff702bf3c36f13c679cec29210d46f8ba19f5b79c.mp3",
+        "hypertts-e3113ec59514ead83e692730f9e63a43ba8da8cacd65dc6e7ff47944.mp3",
+        "hypertts-e37ffd64b430f6ed3456369cd86b77c1100dcd7146e0a532f87296f5.mp3",
+        "hypertts-e3977776dc29ad7dbc5ce560c9bbe53b0b1c35240f12eb6480f5f6b4.mp3",
+        "hypertts-e3c4d3fd555c45e53ad731df20854b4bea13c7853e61d2de2dc74143.mp3",
+        "hypertts-e5390a2eff4dd26b4004e2811332bdec69eb738feed4a7f956b4094f.mp3",
+        "hypertts-e640aab5b87e06b4b6d4ea76ae2487e83be378b15cde09fe892b1a54.mp3",
+        "hypertts-e709b177c78b10d64f85b79cf053a19c5b75c061eee1e9becd3a722a.mp3",
+        "hypertts-e75aa0b60e3b773829a79684b1505889ac41b350cbef65d8983c58fb.mp3",
+        "hypertts-e8dae4155d01833a813b2f559970d93f435cbf93e2e9ee243711b79c.mp3",
+        "hypertts-ea4b66cb13925a6a8f8145582f184d40e80ee33f24aecbbc44a2f3c2.mp3",
+        "hypertts-eae5d667f772be8c2d1b5d15f7c18842d1408ec8145fea74ba7fcc21.mp3",
+        "hypertts-eae90856a4d5de45c2fd3b806ca58bf60b981de0c9fdb36894f8f1db.mp3",
+        "hypertts-eb313b3cd841b7b8869395bb06e2e0320e34c8f4b87880feba4ac1cd.mp3",
+        "hypertts-ebbcc41b2acae393df759ee27ddca6c80ef24717aa39db469be02fe3.mp3",
+        "hypertts-ecaa5b55d51c578c87789ac2210eeb2947f4a25f140abdb79b0dcfcc.mp3",
+        "hypertts-edbe5f02e36785fa4ba1c48a92b7a04a777dde6caef3a0c906b683cf.mp3",
+        "hypertts-edce8a78a5c93a024692e536f9fef9fa617c157e60c1d2b5c1609a22.mp3",
+        "hypertts-ee981dc5d614f56a32bddfbfa8033364436cda940f23a3c2a6bb06e5.mp3",
+        "hypertts-ee9af0b699d44db59e227785b118035c5d83cc140796ff66e66146b7.mp3",
+        "hypertts-ef2ca368a5ceeed05c00295cdb497d10e57274c513b69b859e2c9d86.mp3",
+        "hypertts-f10bafbc876facb3cbfa0679c7c23ecdac94a44a92f77a228b52cd6e.mp3",
+        "hypertts-f13e3a21e796770e02bf2b8dc5f4bd6e72c10be3d9d6e888effe9386.mp3",
+        "hypertts-f1721a68fef9da055b7dd13900e9c958ec08de7d96fc1791b24f07e3.mp3",
+        "hypertts-f1ea97f094e6133bd08c48cee9df56989d6e3f3645f8e8f95942337c.mp3",
+        "hypertts-f2f605545d83ecf903f79fba4e52115bce2ed658b47f55a7d8e2079c.mp3",
+        "hypertts-f33d649c250ef986cc87b9d272389d00aa69354e09a3757a83bb55ed.mp3",
+        "hypertts-f4eea3872b3bb63bb39e1d427a0e9742ed396a86e5e3003f0276893d.mp3",
+        "hypertts-f56d711b9e068c518e62588ca27aba5a982abf05070d33469b2d33b7.mp3",
+        "hypertts-f864155c5fe3877df67aa7dcd44f6cc8c1b2909520689c93cfda7d7d.mp3",
+        "hypertts-f8d1fb58c0034529b2694b5e148107a9ab7ddd8539f55d2eb229a9e3.mp3",
+        "hypertts-f9ad02b1f583edb1f38ff345c93d88da806d1b61704df71589930727.mp3",
+        "hypertts-fb16eccfe8bfc5eed4383345e89f651b4098792713e42f3cd4283de0.mp3",
+        "hypertts-fc2568a46fc8939c3ae77fb47a2cfc1ae4379ccf7c3811af195d0321.mp3",
+        "hypertts-fd5c2afa94385d7a06561c96663b8546f7d6906c48ec1c12a136e8df.mp3",
+        "hypertts-fe972936820e53f46f449a42e3e865f7de7344946c236ff066ee1f34.mp3"
+    ],
     "name": "Chinesisch",
     "newLimit": null,
     "newLimitToday": null,
@@ -79,7 +379,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.tag-required {\n    display: none;\n}\n\n.zeichenliste {\n    display: initial;\n    margin-top: 10px;\n}\n\n.hanzi {\n    font-size: 30px\n}",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.replay-button svg {\n  width: 30px;\n  height: 30px;\n\n  position: absolute;\n  right: 5%;\n  margin-top: -15px;\n  margin-right: 5%;\n}\n\n\n.tags {\n    margin-top: 10px;\n    font-size: 14px;\n}\n\n.tag-required {\n    display: none;\n}\n\n.zeichenliste {\n    display: initial;\n    margin-top: 10px;\n}\n\n.hanzi {\n    font-size: 30px\n}",
             "flds": [
                 {
                     "collapsed": false,
@@ -158,7 +458,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}}\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}}\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tag-required {{Tags}}\">\n\t<br/><b>Zeichenliste</b>\n</div>\n\n<div class=\"tags\">\n\t<br/><b>Tags: </b>{{Tags}}\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -170,7 +470,7 @@
                     "qfmt": "{{Deutsch}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}\n\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}\n\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>\n\n<div class=\"tags\">\n\t<br/><b>Tags: </b>{{Tags}}\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -182,7 +482,7 @@
                     "qfmt": "{{Pinyin}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}} ({{Deutsch}})\n\n<div class=\"tag-required {{Tags}}\">\n<br/><b>Zeichenliste</b>\n</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div>{{Pinyin}} ({{Deutsch}})</div>\n\n<div class=\"tag-required {{Tags}}\">\n\t<br/><b>Zeichenliste</b>\n</div>\n\n<div class=\"tags\">\n\t<br/><b>Tags: </b>{{Tags}}\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -199,7 +499,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "987942aa-bf79-11ee-82ca-cdae705cc9c0",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.tag-required {\n    display: none;\n}\n\n.zeichenliste {\n    display: initial;\n    margin-top: 10px;\n}\n\n.hanzi {\n    font-size: 30px\n}",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.replay-button svg {\n  width: 30px;\n  height: 30px;\n\n  position: absolute;\n  right: 5%;\n  margin-top: -15px;\n  margin-right: 5%;\n}\n\n.tags {\n    margin-top: 10px;\n    font-size: 14px;\n}\n\n.tag-required {\n    display: none;\n}\n\n.zeichenliste {\n    display: initial;\n    margin-top: 10px;\n}\n\n.hanzi {\n    font-size: 30px\n}",
             "flds": [
                 {
                     "collapsed": false,
@@ -271,7 +571,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}}\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div>{{Pinyin}}</div>\n\n<br/><div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tags\">\n\t<br/><b>Tags: </b>{{Tags}}\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -283,7 +583,7 @@
                     "qfmt": "{{Deutsch}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Deutsch}}\n\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div>{{Deutsch}}</div>\n\n<br/>\n<div class=\"hanzi\">{{Hanzi}}</div>\n\n<div class=\"tags\">\n\t<br/><b>Tags: </b>{{Tags}}\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -303,7 +603,7 @@
             "__type__": "Note",
             "fields": [
                 "aber (Kurzform)",
-                "dàn",
+                "dàn [sound:hypertts-2fcd22dfb60669849cdd8c54d0a1c61fc257b1800dcaa2e1c38cfbad.mp3]",
                 "但"
             ],
             "guid": "!&7pawjGh",
@@ -317,7 +617,7 @@
             "__type__": "Note",
             "fields": [
                 "V: existieren/befinden; PP: in/an/auf",
-                "zài",
+                "zài [sound:hypertts-b63c9f8d20473364530197810306ce42afd54f3342a3f2ad38dbb5c2.mp3]",
                 "在"
             ],
             "guid": "83P2{{3V[",
@@ -331,7 +631,7 @@
             "__type__": "Note",
             "fields": [
                 "Nudeln / Oberfläche / Weizenmehl",
-                "miàn",
+                "miàn [sound:hypertts-d6731779f9683fc8fc1d69052832b18afdcf7285e2ca1ce72c3cbcc8.mp3]",
                 "面"
             ],
             "guid": "8yWh8kL]Z",
@@ -345,7 +645,7 @@
             "__type__": "Note",
             "fields": [
                 "Monat / Mond",
-                "yuè",
+                "yuè [sound:hypertts-0e2582febedc7caec597444c19b17c8336b9549bd8e7b6b99cdbcb72.mp3]",
                 "月"
             ],
             "guid": "A/(pTJL2_u",
@@ -359,7 +659,7 @@
             "__type__": "Note",
             "fields": [
                 "Hallo!",
-                "nǐ hǎo",
+                "nǐ hǎo [sound:hypertts-518b2c382c4ae3c6f5c35190d638c19deb002a81134f971f267644ac.mp3]",
                 "你好"
             ],
             "guid": "A6tjE?MH#5",
@@ -372,7 +672,7 @@
             "__type__": "Note",
             "fields": [
                 "Jüngerer Bruder",
-                "dìdi",
+                "dìdi [sound:hypertts-89f495a9936f5a1e52829df54134d83ce287cfcf03872d6b0433dd2f.mp3]",
                 "弟弟"
             ],
             "guid": "A;`VK$eHmp",
@@ -385,7 +685,7 @@
             "__type__": "Note",
             "fields": [
                 "Empfänger",
-                "shōujiàrén",
+                "shōujiàrén [sound:hypertts-24d6c2faeb232f7611cbbb51fb234e145ea4e39f23486774e57aa273.mp3]",
                 "收件人"
             ],
             "guid": "AFwF>`n`.*",
@@ -398,7 +698,7 @@
             "__type__": "Note",
             "fields": [
                 "Chinesisch (gesprochen)",
-                "Hànyǔ",
+                "Hànyǔ [sound:hypertts-5bd2e1b708bb1d0fa96f0bce2c47a5fac3b6bc368f1f8326dd15c168.mp3]",
                 "汉语"
             ],
             "guid": "AN4bA/1*^q",
@@ -411,7 +711,7 @@
             "__type__": "Note",
             "fields": [
                 "Nummer",
-                "hàomǎ",
+                "hàomǎ [sound:hypertts-1bc438fd2ad9a60f60468bfe409c44c0b4b98f895e087b2c553a1903.mp3]",
                 "号码"
             ],
             "guid": "Aa6~V<<yH1",
@@ -425,7 +725,7 @@
             "__type__": "Note",
             "fields": [
                 "mutig / Held",
-                "yīng",
+                "yīng [sound:hypertts-adf113d6ef6d3a5cfdc4a8d25216a4c47fa751db1c6d46960a583572.mp3]",
                 "英"
             ],
             "guid": "Ahh_M%B83:",
@@ -439,7 +739,7 @@
             "__type__": "Note",
             "fields": [
                 "Bewegung / Sport / sich bewegen",
-                "yùndòng",
+                "yùndòng [sound:hypertts-23eada53880786b1668f6b5f1aca5e0bb9836cf977311b53989bde47.mp3]",
                 "运动"
             ],
             "guid": "B*~i<pcr1^",
@@ -453,7 +753,7 @@
             "__type__": "Note",
             "fields": [
                 "Lernender",
-                "xuésheng",
+                "xuésheng [sound:hypertts-73fadbd5a02246b35e463d45c72057ba88384a4be4cb7e99662dae1d.mp3]",
                 "学生"
             ],
             "guid": "B,`HIQtG;5",
@@ -466,7 +766,7 @@
             "__type__": "Note",
             "fields": [
                 "Sonne / Tag",
-                "rì",
+                "rì [sound:hypertts-ebbcc41b2acae393df759ee27ddca6c80ef24717aa39db469be02fe3.mp3]",
                 "日"
             ],
             "guid": "B55[D`.C~g",
@@ -480,7 +780,7 @@
             "__type__": "Note",
             "fields": [
                 "Briefkasten / Mailbox",
-                "yóuxiāng",
+                "yóuxiāng [sound:hypertts-0316b37cdf1fd0ca20ad7cf16e7670f8888c2c4869ad52abb713c46b.mp3]",
                 "邮箱"
             ],
             "guid": "Bs:1a5=AaQ",
@@ -495,7 +795,7 @@
             "__type__": "Note",
             "fields": [
                 "spielen",
-                "dǎ",
+                "dǎ [sound:hypertts-f1ea97f094e6133bd08c48cee9df56989d6e3f3645f8e8f95942337c.mp3]",
                 "打"
             ],
             "guid": "C!lO(1?ADP",
@@ -509,7 +809,7 @@
             "__type__": "Note",
             "fields": [
                 "Dienstag",
-                "xīngqī'èr",
+                "xīngqī'èr [sound:hypertts-9caf0d400b3e3e74155f4a77e0b42ac35a8cb3371e8f9fe375701735.mp3]",
                 "星期二"
             ],
             "guid": "C&=>U,Og&8",
@@ -523,7 +823,7 @@
             "__type__": "Note",
             "fields": [
                 "geboren werden",
-                "chūshēng",
+                "chūshēng [sound:hypertts-edce8a78a5c93a024692e536f9fef9fa617c157e60c1d2b5c1609a22.mp3]",
                 "出生"
             ],
             "guid": "C/PH.[V9PW",
@@ -537,7 +837,7 @@
             "__type__": "Note",
             "fields": [
                 "Name, Titel",
-                "míng 【名】",
+                "míng 【名】 [sound:hypertts-cd2d18f778d54e5df34826434be7abe4a4d7a5a2dbeb9b72ff0b0e96.mp3]",
                 "名"
             ],
             "guid": "C1+@F,8HM:",
@@ -551,7 +851,7 @@
             "__type__": "Note",
             "fields": [
                 "Ich bin deutscher.",
-                "Wǒ shì déguórén.",
+                "Wǒ shì déguórén. [sound:hypertts-a8f9aafd4deb7b060ef95d6fd89db4fa1ae9edaa5e2578084ab8be25.mp3]",
                 "我是德国人。"
             ],
             "guid": "C;u4X}<kV:",
@@ -565,7 +865,7 @@
             "__type__": "Note",
             "fields": [
                 "Ältere Schwester",
-                "jiějie",
+                "jiějie [sound:hypertts-13e79c4023d26555ad51528fbd1cb458097c176400fa0c3d2a7d4570.mp3]",
                 "姐姐"
             ],
             "guid": "CGTx4&kJsP",
@@ -578,7 +878,7 @@
             "__type__": "Note",
             "fields": [
                 "können",
-                "huì",
+                "huì [sound:hypertts-b0cbbbd3f9af56f37b9ede2dfdba114bc76484f69425a36aadfbf491.mp3]",
                 "会"
             ],
             "guid": "CVA1q|z~EQ",
@@ -591,7 +891,7 @@
             "__type__": "Note",
             "fields": [
                 "Und Sie?",
-                "Nín ne?",
+                "Nín ne? [sound:hypertts-82a64fa810b85eb88ac6cd98d361e3b6682ac6da9914ebfd658b4ac1.mp3]",
                 "您呢？"
             ],
             "guid": "Ck6`x)P++>",
@@ -605,7 +905,7 @@
             "__type__": "Note",
             "fields": [
                 "Shanghai",
-                "Shànghǎi",
+                "Shànghǎi [sound:hypertts-d322b1e67924204e0d8a2b4a43ced821eeb7a7f30ab74e834d24804b.mp3]",
                 "上海"
             ],
             "guid": "Ct3)eURt^o",
@@ -619,7 +919,7 @@
             "__type__": "Note",
             "fields": [
                 "Name/Vorname",
-                "míngzi",
+                "míngzi [sound:hypertts-aaa5aa0b74b4d92daf6996127fd6f806b168ee5dcde066c3f4ca801c.mp3]",
                 "名字"
             ],
             "guid": "D<QvqoC1dy",
@@ -632,7 +932,7 @@
             "__type__": "Note",
             "fields": [
                 "Maschine",
-                "jī",
+                "jī [sound:hypertts-d4f3c5858e3aa5ffb8961eedacf30b827959dfbbbdf764b1e5d41284.mp3]",
                 "机"
             ],
             "guid": "DA?D&r~Las",
@@ -646,7 +946,7 @@
             "__type__": "Note",
             "fields": [
                 "Universität",
-                "dàxué",
+                "dàxué [sound:hypertts-7b364e83507a14ee339c82c3bfcee7abca20faac7a4bf066235e9470.mp3]",
                 "大学"
             ],
             "guid": "DBun_z^5.{",
@@ -659,7 +959,7 @@
             "__type__": "Note",
             "fields": [
                 "Poststück / Postsendung",
-                "yóujiàn",
+                "yóujiàn [sound:hypertts-e3977776dc29ad7dbc5ce560c9bbe53b0b1c35240f12eb6480f5f6b4.mp3]",
                 "邮件"
             ],
             "guid": "DgT?L6uJZk",
@@ -672,7 +972,7 @@
             "__type__": "Note",
             "fields": [
                 "welche/welcher/welches/wo",
-                "nǎ",
+                "nǎ [sound:hypertts-1e21e2228a8b9a1c69dc3975745e22600599935a86fad690c5d9633f.mp3]",
                 "哪"
             ],
             "guid": "DsJcxb%Z?,",
@@ -687,7 +987,7 @@
             "__type__": "Note",
             "fields": [
                 "Rede / Sprache / gesprochene Wörter",
-                "huà",
+                "huà [sound:hypertts-ae67c347f5106feb5d40cfe4c4ef60daa9d104d5536940fa9bb6aa16.mp3]",
                 "话"
             ],
             "guid": "E$Q:I{~5Om",
@@ -701,7 +1001,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 0",
-                "líng",
+                "líng [sound:hypertts-e5390a2eff4dd26b4004e2811332bdec69eb738feed4a7f956b4094f.mp3]",
                 "〇 /&nbsp;零"
             ],
             "guid": "E/#QdVvk*>",
@@ -715,7 +1015,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie alt sind Sie? (wesentlich ältere)",
-                "Nín duō dà suì shù?",
+                "Nín duō dà suì shù? [sound:hypertts-f13e3a21e796770e02bf2b8dc5f4bd6e72c10be3d9d6e888effe9386.mp3]",
                 "您多大岁数？"
             ],
             "guid": "E1TAXUUhm/",
@@ -728,7 +1028,7 @@
             "__type__": "Note",
             "fields": [
                 "Bitte nenn mich ...",
-                "Qǐng jiào wǒ ...",
+                "Qǐng jiào wǒ ... [sound:hypertts-76f15baa00fab48252a8c0b6bcad6bde6a5c6deb8abcdc619699df19.mp3]",
                 "请叫我..."
             ],
             "guid": "E:_u7yIh+9",
@@ -742,7 +1042,7 @@
             "__type__": "Note",
             "fields": [
                 "Antworten/richtig",
-                "duì",
+                "duì [sound:hypertts-4764fd194bcd959ead2de9f38e0d08044aceb73649afbc8e9bec36fe.mp3]",
                 "对"
             ],
             "guid": "EJ52uFxF0i",
@@ -756,7 +1056,7 @@
             "__type__": "Note",
             "fields": [
                 "Ich bin sehr erfreut, Sie kennenzulernen.",
-                "Hěn gāoxìng rènshi nín.",
+                "Hěn gāoxìng rènshi nín. [sound:hypertts-fb16eccfe8bfc5eed4383345e89f651b4098792713e42f3cd4283de0.mp3]",
                 "很高兴认识您。"
             ],
             "guid": "ExAEt?S*oA",
@@ -770,7 +1070,7 @@
             "__type__": "Note",
             "fields": [
                 "Japanisch (geschrieben)",
-                "Rìwén",
+                "Rìwén [sound:hypertts-584e11d630d3e0a0f01ea1845aa9e756478b6085c7c371d83bcb7cf7.mp3]",
                 "日文"
             ],
             "guid": "E|+G;?<AaM",
@@ -784,7 +1084,7 @@
             "__type__": "Note",
             "fields": [
                 "Handynummer",
-                "shǒujī hàomǎ",
+                "shǒujī hàomǎ [sound:hypertts-14c85395971e50d750634a9856f69973bcc2929caf559adcb2377ea1.mp3]",
                 "手机号码"
             ],
             "guid": "F*bq$`7tgc",
@@ -798,7 +1098,7 @@
             "__type__": "Note",
             "fields": [
                 "Japanisch (gesprochen)",
-                "Rìyǔ",
+                "Rìyǔ [sound:hypertts-c1f0e3de84ce19df2b11e9700247f3bc306278a616b0d1805a576c41.mp3]",
                 "日语"
             ],
             "guid": "FB3yDg2sB.",
@@ -811,7 +1111,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie alt bist du? (Kinder bis ca. 10 Jahre oder 3. Person)",
-                "Nǐ jǐ suì?",
+                "Nǐ jǐ suì? [sound:hypertts-6372c122febfd887285de31367c19de6fd6427db530f142a3248ec27.mp3]",
                 "你几岁？"
             ],
             "guid": "FH;ur}b.Tv",
@@ -824,7 +1124,7 @@
             "__type__": "Note",
             "fields": [
                 "kennenlernen",
-                "rènshi",
+                "rènshi [sound:hypertts-1f5e825af5d43ff982e44c602c549581e964d90de66702179cc86dbd.mp3]",
                 "认识"
             ],
             "guid": "FO$Qhn*wvp",
@@ -837,7 +1137,7 @@
             "__type__": "Note",
             "fields": [
                 "Berlin",
-                "Bólín",
+                "Bólín [sound:hypertts-be70d782814ff05987c50f6032661f60448ea1703af02d716184bffa.mp3]",
                 "柏林"
             ],
             "guid": "FS^!NCT+k9",
@@ -852,7 +1152,7 @@
             "__type__": "Note",
             "fields": [
                 "Amerika",
-                "Měiguó",
+                "Měiguó [sound:hypertts-1f5aad22ebbcd5f1797c7bc30a147068eaa3d97e4405cfbc4bc79d1a.mp3]",
                 "美国"
             ],
             "guid": "Fqj;&A5N3S",
@@ -866,7 +1166,7 @@
             "__type__": "Note",
             "fields": [
                 "Alter",
-                "niánlíng",
+                "niánlíng [sound:hypertts-74b4dd6ed092fdd08b73063a136c46162e70ac176cd64c1f9ea5edf2.mp3]",
                 "年龄"
             ],
             "guid": "GAIgQ[|sxZ",
@@ -881,7 +1181,7 @@
             "__type__": "Note",
             "fields": [
                 "Wo arbeiten Sie?",
-                "Nín zài nǎli gōngzuò?",
+                "Nín zài nǎli gōngzuò? [sound:hypertts-274946a11cd522f7db0b578606ca17d72bdca2072aae7b90f9f3cde9.mp3]",
                 "您在哪里工作？"
             ],
             "guid": "GHjL2ZRa3M",
@@ -895,7 +1195,7 @@
             "__type__": "Note",
             "fields": [
                 "Montag",
-                "xīngqīyī",
+                "xīngqīyī [sound:hypertts-ad1fd036e2606d25309a2c70ebf087a4919e07cc9dab72ad76ef88c9.mp3]",
                 "星期一"
             ],
             "guid": "GYkUcB.FX/",
@@ -909,7 +1209,7 @@
             "__type__": "Note",
             "fields": [
                 "wie alt? / wie groß?",
-                "duō dà",
+                "duō dà [sound:hypertts-3110d819db99ef64c33887ec12925a2496a83c9fd293e96a106d5762.mp3]",
                 "多大"
             ],
             "guid": "G]I!JY@<}%",
@@ -924,7 +1224,7 @@
             "__type__": "Note",
             "fields": [
                 "aber",
-                "dànshì",
+                "dànshì [sound:hypertts-de5dedab14e135862f028a3b86fbd8f87431f5143b2e50207543d316.mp3]",
                 "但是"
             ],
             "guid": "G`t;b:RU;P",
@@ -937,7 +1237,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 6",
-                "liù",
+                "liù [sound:hypertts-bc41f3fd5a36e0d3ea8810a03d32235f835c3cee72508a2a5bc7b8c9.mp3]",
                 "六"
             ],
             "guid": "G{j`x{hCOc",
@@ -951,7 +1251,7 @@
             "__type__": "Note",
             "fields": [
                 "Mitglied / Person die einer Beschäfitgung nachgeht",
-                "yuán",
+                "yuán 【员】 [sound:hypertts-1e0727da09aac5157b8586fd1d96d387a2759abbed7b1a693a051cfb.mp3]",
                 "员"
             ],
             "guid": "G|5*QIj}SD",
@@ -965,7 +1265,7 @@
             "__type__": "Note",
             "fields": [
                 "sprechen",
-                "shuō",
+                "shuō [sound:hypertts-357e4695ae469d26d36f0492cf8f16247c41880c34d5771fea39c502.mp3]",
                 "说"
             ],
             "guid": "HAX@&JfY5I",
@@ -978,7 +1278,7 @@
             "__type__": "Note",
             "fields": [
                 "Vater",
-                "bàba",
+                "bàba [sound:hypertts-458efb26c8eaa91b127bb89955dd10673da127a9ed75318eae52b884.mp3]",
                 "爸爸"
             ],
             "guid": "HM]hwSUTys",
@@ -991,7 +1291,7 @@
             "__type__": "Note",
             "fields": [
                 "Grundschule",
-                "xiǎoxué",
+                "xiǎoxué [sound:hypertts-a3d75beb20350b63cfc6c58e075ee65e2ac4e122bd8c8296309c963d.mp3]",
                 "小学"
             ],
             "guid": "I?zd7eG_$F",
@@ -1004,7 +1304,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie alt bist du?",
-                "Nǐ duō dà?",
+                "Nǐ duō dà? [sound:hypertts-0b284a91d63b04e02f8a21133b9e30066031e8f458b79b907bf4076a.mp3]",
                 "你多大？"
             ],
             "guid": "IYQ79S?5%*",
@@ -1017,7 +1317,7 @@
             "__type__": "Note",
             "fields": [
                 "die Arbeit / der Beruf / arbeiten",
-                "gōngzuò",
+                "gōngzuò [sound:hypertts-fd5c2afa94385d7a06561c96663b8546f7d6906c48ec1c12a136e8df.mp3]",
                 "工作"
             ],
             "guid": "J&QUbovWdy",
@@ -1031,7 +1331,7 @@
             "__type__": "Note",
             "fields": [
                 "Frau / weiblich",
-                "nǚ",
+                "nǚ [sound:hypertts-a2687f67f299a8d1c94fe6f1764178f6948319c832d6f3b408ab6f1d.mp3]",
                 "女"
             ],
             "guid": "J,-<JHNXk0",
@@ -1044,7 +1344,7 @@
             "__type__": "Note",
             "fields": [
                 "Wohnsitz / Wohnort",
-                "yù",
+                "yù [sound:hypertts-f2f605545d83ecf903f79fba4e52115bce2ed658b47f55a7d8e2079c.mp3]",
                 "寓"
             ],
             "guid": "J1Dw4f~!>E",
@@ -1059,7 +1359,7 @@
             "__type__": "Note",
             "fields": [
                 "E-Mail",
-                "diànzǐ yóujiàn",
+                "diànzǐ yóujiàn [sound:hypertts-0caffc624d8966adc52d40143486f8b8defb2964513c50a22681aa2d.mp3]",
                 "电子邮件"
             ],
             "guid": "J<G23`tTsp",
@@ -1072,7 +1372,7 @@
             "__type__": "Note",
             "fields": [
                 "Hallo! (formell)",
-                "Nín hǎo!",
+                "Nín hǎo! [sound:hypertts-f33d649c250ef986cc87b9d272389d00aa69354e09a3757a83bb55ed.mp3]",
                 "您好！"
             ],
             "guid": "JB,lzSKg/Z",
@@ -1086,7 +1386,7 @@
             "__type__": "Note",
             "fields": [
                 "Buch / Schriftstück",
-                "shū",
+                "shū [sound:hypertts-b4d6b776396745be2c5ccbf2c75eac052c2709e832c583110adf331f.mp3]",
                 "书"
             ],
             "guid": "JJfccC2ri3",
@@ -1100,7 +1400,7 @@
             "__type__": "Note",
             "fields": [
                 "Mitte / China",
-                "zhōng",
+                "zhōng [sound:hypertts-7edf5e31b6910066c3a124a7701954c70703e43092b25e2def365bee.mp3]",
                 "中"
             ],
             "guid": "Jst-6u%,.F",
@@ -1114,7 +1414,7 @@
             "__type__": "Note",
             "fields": [
                 "Elektrizität/Blitz",
-                "diàn",
+                "diàn [sound:hypertts-cc75346ec26e0e047f068a131aa893d2a4cd0be23385df19ecf2c025.mp3]",
                 "电"
             ],
             "guid": "K#+T9=it])",
@@ -1128,7 +1428,7 @@
             "__type__": "Note",
             "fields": [
                 "Restaurant / Gaststätte",
-                "cānguǎn",
+                "cānguǎn [sound:hypertts-e709b177c78b10d64f85b79cf053a19c5b75c061eee1e9becd3a722a.mp3]",
                 "餐馆"
             ],
             "guid": "K.Xa!Itk*=",
@@ -1141,7 +1441,7 @@
             "__type__": "Note",
             "fields": [
                 "viel",
-                "duō",
+                "duō [sound:hypertts-5d8c2a9fe378a6d408dea3db90ddd033e99e35fda5da971dbeb34a53.mp3]",
                 "多"
             ],
             "guid": "K7;Ez&^p?|",
@@ -1155,7 +1455,7 @@
             "__type__": "Note",
             "fields": [
                 "jetzt (jetziger Moment)",
-                "xiànzài",
+                "xiànzài [sound:hypertts-edbe5f02e36785fa4ba1c48a92b7a04a777dde6caef3a0c906b683cf.mp3]",
                 "现在"
             ],
             "guid": "K=Om<&.(r.",
@@ -1169,7 +1469,7 @@
             "__type__": "Note",
             "fields": [
                 "jenes / jener / das da / das dort / dann (Interjektion)",
-                "nà",
+                "nà [sound:hypertts-6d18af644abdc98929670830c8fe780d337ec7b6097bf7c5b3b95770.mp3]",
                 "那"
             ],
             "guid": "KWO#Pi*,PS",
@@ -1183,7 +1483,7 @@
             "__type__": "Note",
             "fields": [
                 "etwas wissen",
-                "zhīdào",
+                "zhīdào [sound:hypertts-cd6dc889dc2863989f2c7706426c68c861789265669f51cdddcc6885.mp3]",
                 "知道"
             ],
             "guid": "Kj$:Wh,Hw<",
@@ -1196,7 +1496,7 @@
             "__type__": "Note",
             "fields": [
                 "Rechtsanwalt",
-                "lǜshī",
+                "lǜshī [sound:hypertts-191bc740e470ffe3c93ee6afa968f82439b4bfd4ae84e4438b50b366.mp3]",
                 "律师"
             ],
             "guid": "KzDt:b}=&z",
@@ -1209,7 +1509,7 @@
             "__type__": "Note",
             "fields": [
                 "machen / tun / produzieren",
-                "zuò 【做】",
+                "zuò 【做】 [sound:hypertts-e37ffd64b430f6ed3456369cd86b77c1100dcd7146e0a532f87296f5.mp3]",
                 "做"
             ],
             "guid": "K{)Y|_M$Qi",
@@ -1223,7 +1523,7 @@
             "__type__": "Note",
             "fields": [
                 "dein ...",
-                "nǐ de",
+                "nǐ de [sound:hypertts-836b3a54f2fb750cfc66913047d719a6e40ee21a05f9736affbabc06.mp3]",
                 "你的"
             ],
             "guid": "L+C3w#+{Jl",
@@ -1236,7 +1536,7 @@
             "__type__": "Note",
             "fields": [
                 "diese/-r/-s",
-                "zhè",
+                "zhè [sound:hypertts-bdf868293e92793cfbd03fc3158fe015173074296f9c1dc9d55fcb88.mp3]",
                 "这"
             ],
             "guid": "L3vG[~~Xce",
@@ -1249,7 +1549,7 @@
             "__type__": "Note",
             "fields": [
                 "und?",
-                "ne",
+                "ne [sound:hypertts-86429ddc4ac89361c3d727c698bcbd4e9acdc45d904c3a9adafa473e.mp3]",
                 "呢"
             ],
             "guid": "LGr4G}G-Zo",
@@ -1264,7 +1564,7 @@
             "__type__": "Note",
             "fields": [
                 "Sonntag",
-                "xīngqīrì / xīngqītiān",
+                "xīngqīrì / xīngqītiān [sound:hypertts-1738b0c38e7965c4e7d636b8eb4eca99a553005e064618ac9f386c17.mp3]",
                 "星期日"
             ],
             "guid": "LT]DNZqOz0",
@@ -1278,7 +1578,7 @@
             "__type__": "Note",
             "fields": [
                 "Woche",
-                "xīngqī",
+                "xīngqī [sound:hypertts-75a87fa0d99ef2e013241504c072d38f7eefdd9ccb1a3b3d168a7e03.mp3]",
                 "星期"
             ],
             "guid": "LU~J`qy!y+",
@@ -1292,7 +1592,7 @@
             "__type__": "Note",
             "fields": [
                 "Amerikaner",
-                "měiguórén",
+                "měiguórén [sound:hypertts-86bc9aa99bd078e911bba7f3d119a8908acfbb6e98910067bab51873.mp3]",
                 "美国人"
             ],
             "guid": "LYlY;&1[?b",
@@ -1305,7 +1605,7 @@
             "__type__": "Note",
             "fields": [
                 "Stern",
-                "xīng",
+                "xīng [sound:hypertts-59bd2d11468c60dc727fb07a55c105c811aff611b759463ce0c298fc.mp3]",
                 "星"
             ],
             "guid": "LlX.E6Ip81",
@@ -1319,7 +1619,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 5",
-                "wǔ",
+                "wǔ [sound:hypertts-49c567fb06f9e3f91ce4492a9e8e65d3236bab18efd212d8996aec0b.mp3]",
                 "五"
             ],
             "guid": "M(>Ch!{dR`",
@@ -1333,7 +1633,7 @@
             "__type__": "Note",
             "fields": [
                 "Medizin / heilen",
-                "yī 【医】",
+                "yī 【医】 [sound:hypertts-96a25ba21b495807aad8e07ada03d645560854450f0f78485ba8d8dc.mp3]",
                 "医"
             ],
             "guid": "M/Df}xhrhZ",
@@ -1347,7 +1647,7 @@
             "__type__": "Note",
             "fields": [
                 "Bär",
-                "xióng",
+                "xióng [sound:hypertts-40baca1ae38a8dfd1be58b51d7c0d4dde679d5bcd27ad94819800aba.mp3]",
                 "熊"
             ],
             "guid": "M4nni7F{w[",
@@ -1360,7 +1660,7 @@
             "__type__": "Note",
             "fields": [
                 "scheinen / leuchten / fotografieren",
-                "zhào",
+                "zhào [sound:hypertts-c50eeebac1b7a68d3818d5076c9ef6f6d0e187ca3649d824d063bd16.mp3]",
                 "照"
             ],
             "guid": "M?l:s*(pmv",
@@ -1375,7 +1675,7 @@
             "__type__": "Note",
             "fields": [
                 "Handy",
-                "shǒujī",
+                "shǒujī [sound:hypertts-1e01110e451a9ba13da2c82aea29094c08129a0db582384a7432036a.mp3]",
                 "手机"
             ],
             "guid": "MG;OB0Kd_[",
@@ -1389,7 +1689,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist deine Telefonnummer?",
-                "Nǐ de diànhuà hàomǎ shì duōshǎo?",
+                "Nǐ de diànhuà hàomǎ shì duōshǎo? [sound:hypertts-dec7d6c366a180c6f2928bae195c6038a055f6bdcad6ef8634f126c9.mp3]",
                 "你的电话号码是多少？"
             ],
             "guid": "MUa=n#cE_:",
@@ -1403,7 +1703,7 @@
             "__type__": "Note",
             "fields": [
                 "Tugend / Kraft",
-                "dé",
+                "dé [sound:hypertts-879cb8fbaca0b9c2a0380e9f7c210d549fb2482bccb23e472b54b285.mp3]",
                 "德"
             ],
             "guid": "Mm>:GR:Sbz",
@@ -1418,7 +1718,7 @@
             "__type__": "Note",
             "fields": [
                 "gehen / weggehen / verlassen",
-                "qù",
+                "qù [sound:hypertts-4f4731024a73236f165550b532ff027e41dab5ffd6877ef5877bf57f.mp3]",
                 "去"
             ],
             "guid": "N!HYhHdD[l",
@@ -1432,7 +1732,7 @@
             "__type__": "Note",
             "fields": [
                 "Lehrer",
-                "lǎoshī",
+                "lǎoshī [sound:hypertts-1417277f2a561954fffe178baec9890719d2607c9e0de113d7947b15.mp3]",
                 "老师"
             ],
             "guid": "N#baRTee#%",
@@ -1445,7 +1745,7 @@
             "__type__": "Note",
             "fields": [
                 "Taiwan",
-                "Táiwān",
+                "Táiwān [sound:hypertts-c4ce8701cb652275286b86297841a7366e33c960f4f13f3e6ba49782.mp3]",
                 "台湾"
             ],
             "guid": "N*!@,m[XS{",
@@ -1458,7 +1758,7 @@
             "__type__": "Note",
             "fields": [
                 "Paris",
-                "Bālí",
+                "Bālí [sound:hypertts-d567a5b374c81022adaa3a6097a039d6cdc4a8c141d56c6d0a1c56dd.mp3]",
                 "巴黎"
             ],
             "guid": "N0YOb^^Hha",
@@ -1472,7 +1772,7 @@
             "__type__": "Note",
             "fields": [
                 "in etwas wohnen",
-                "zhù zài",
+                "zhù zài [sound:hypertts-8b00873552510bdcb68134ce4f9ca1b96200e6e1d7155d8481a3d47f.mp3]",
                 "住在"
             ],
             "guid": "N1CcdcKpR[",
@@ -1485,7 +1785,7 @@
             "__type__": "Note",
             "fields": [
                 "Mittelschule",
-                "zhōngxué",
+                "zhōngxué [sound:hypertts-b1fbfd5b2513831850640914058629cac190c020b7a0730072273e5c.mp3]",
                 "中学"
             ],
             "guid": "NK1e-[i[6q",
@@ -1498,7 +1798,7 @@
             "__type__": "Note",
             "fields": [
                 "Deutsche Sprache (geschrieben)",
-                "Déwén",
+                "Déwén [sound:hypertts-84487b06f427503063764ed0a92649bf6beb4c63930e16a1513440ca.mp3]",
                 "德文"
             ],
             "guid": "NS^;@K*LR?",
@@ -1512,7 +1812,7 @@
             "__type__": "Note",
             "fields": [
                 "Garten / Park / Land zur Pflanzenaufzucht",
-                "yuán",
+                "yuán 【园】 [sound:hypertts-d402de3bc856cfcfe75412d22428fac89781200c04a84f06529bb04b.mp3]",
                 "园"
             ],
             "guid": "N_DF8)<epM",
@@ -1526,7 +1826,7 @@
             "__type__": "Note",
             "fields": [
                 "Journalist",
-                "jìzhě",
+                "jìzhě [sound:hypertts-0ff70e8431209ff72ee150b21f30d8c910e6ab9418f337f8d1700a0e.mp3]",
                 "记者"
             ],
             "guid": "NccIH=8`L5",
@@ -1539,7 +1839,7 @@
             "__type__": "Note",
             "fields": [
                 "mein ...",
-                "wǒ de ...",
+                "wǒ de ... [sound:hypertts-d706ff4c3904c3da35b3ab21faf743146c28417be9bea3f494065b1f.mp3]",
                 "我的"
             ],
             "guid": "NfPrjLlNSD",
@@ -1552,7 +1852,7 @@
             "__type__": "Note",
             "fields": [
                 "Essen / Mahlzeit / Essenskategorie",
-                "cān",
+                "cān [sound:hypertts-cbe5b8c027ae8a77046ecc5201110d4d8bf69d5e70f917c1c25b0357.mp3]",
                 "餐"
             ],
             "guid": "Nl/qOrl6EF",
@@ -1567,7 +1867,7 @@
             "__type__": "Note",
             "fields": [
                 "Plural-Suffix",
-                "men",
+                "men [sound:hypertts-33ad02005adcadf66c0d2583e277dcf4e35df353c0c5f4d5c02747a7.mp3]",
                 "们"
             ],
             "guid": "O&AvcGwWua",
@@ -1581,7 +1881,7 @@
             "__type__": "Note",
             "fields": [
                 "Suffix für Klasse von Personen / -ist / -er",
-                "zhě",
+                "zhě [sound:hypertts-c2f9226a1b270ff1abb92e4a318e3a8d4cd11b708df50f479c93efae.mp3]",
                 "者"
             ],
             "guid": "O9L6!L$a#z",
@@ -1596,7 +1896,7 @@
             "__type__": "Note",
             "fields": [
                 "können / erlauben / dürfen",
-                "kěyǐ",
+                "kěyǐ [sound:hypertts-73901401b176015d65e3e2171d53fb58e939e94ea85dd277e522100e.mp3]",
                 "可以"
             ],
             "guid": "OC&v~7VZ+=",
@@ -1610,7 +1910,7 @@
             "__type__": "Note",
             "fields": [
                 "Interesse",
-                "xìng【兴】",
+                "xìng【兴】 [sound:hypertts-372b763bb549b38294d5b6f03e92f79534dcd21ca727b98a7230d248.mp3]",
                 "兴"
             ],
             "guid": "OFmmW8foFK",
@@ -1624,7 +1924,7 @@
             "__type__": "Note",
             "fields": [
                 "echt / wirklich",
-                "zhēn",
+                "zhēn [sound:hypertts-48e62e6add238590182cb6841bb2ca32bad98482f1efa3b9ad684a55.mp3]",
                 "真"
             ],
             "guid": "O`IK(/srp!",
@@ -1638,7 +1938,7 @@
             "__type__": "Note",
             "fields": [
                 "Guten Morgen!",
-                "zǎoshang hǎo",
+                "zǎoshang hǎo [sound:hypertts-e8dae4155d01833a813b2f559970d93f435cbf93e2e9ee243711b79c.mp3]",
                 "早上好"
             ],
             "guid": "Oy5v+i([H~",
@@ -1652,7 +1952,7 @@
             "__type__": "Note",
             "fields": [
                 "gekürzt jüngere Schwester",
-                "mèi",
+                "mèi [sound:hypertts-3c6c99953db648750462eef076fd9dfd6a05dfb235f3f97256942754.mp3]",
                 "妹"
             ],
             "guid": "P$]P8^7x)B",
@@ -1666,7 +1966,7 @@
             "__type__": "Note",
             "fields": [
                 "Chinese",
-                "zhōngguórén",
+                "zhōngguórén [sound:hypertts-65634d155e44430983877e1a34b5532c7faedb1b1dd8e269a8457eef.mp3]",
                 "中国人"
             ],
             "guid": "P*E&uZO-{^",
@@ -1679,7 +1979,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 1",
-                "yī 【一】",
+                "yī 【一】 [sound:hypertts-1ea1134d3102fc236884052d216ddfedc1c05cd28ccc47e342936579.mp3]",
                 "一"
             ],
             "guid": "P3<J9T(vI)",
@@ -1693,7 +1993,7 @@
             "__type__": "Note",
             "fields": [
                 "Tag / Datum / Nummer / Größe",
-                "hào",
+                "hào [sound:hypertts-418309c486ed2f38a3b301387dbeb38f1dd8b481c6168b0c2b670568.mp3]",
                 "号"
             ],
             "guid": "P<d))|cvg[",
@@ -1707,7 +2007,7 @@
             "__type__": "Note",
             "fields": [
                 "Liebe / lieben / gerne haben",
-                "ài",
+                "ài [sound:hypertts-4b75bce1a6cebdbc2dbf25a3f536ec4d9f79d3751584e6ed208509aa.mp3]",
                 "爱"
             ],
             "guid": "PvIcxg}/uQ",
@@ -1721,7 +2021,7 @@
             "__type__": "Note",
             "fields": [
                 "leicht / geringe Anzahl / unwichtig",
-                "qīng",
+                "qīng [sound:hypertts-ab8ce073a7217f1d2add2b7381e082dc2346509d7f325a01a8d3022a.mp3]",
                 "轻"
             ],
             "guid": "PxG6q:wGe.",
@@ -1736,7 +2036,7 @@
             "__type__": "Note",
             "fields": [
                 "Arzt",
-                "yīshēng",
+                "yīshēng [sound:hypertts-ac8f9f6e883a731c9b52db9b89552aa383c56284283af265a707e077.mp3]",
                 "医生"
             ],
             "guid": "PyQ&:]Y^Fs",
@@ -1749,7 +2049,7 @@
             "__type__": "Note",
             "fields": [
                 "nicht/nein",
-                "bù",
+                "bù [sound:hypertts-fc2568a46fc8939c3ae77fb47a2cfc1ae4379ccf7c3811af195d0321.mp3]",
                 "不"
             ],
             "guid": "Q#Kbsmf@i&",
@@ -1763,7 +2063,7 @@
             "__type__": "Note",
             "fields": [
                 "Schule",
-                "xuéxiào",
+                "xuéxiào [sound:hypertts-609f272c1ae10a4d939aac7e9c287e5602b5c1698692666ef967a2eb.mp3]",
                 "学校"
             ],
             "guid": "Q-A:SE=qiQ",
@@ -1776,7 +2076,7 @@
             "__type__": "Note",
             "fields": [
                 "Deutscher",
-                "déguórén",
+                "déguórén [sound:hypertts-1c58735b00f8ec6dfecdf1564e0118d1ee5761dcc6cff5bc9dc9cfb6.mp3]",
                 "德国人"
             ],
             "guid": "Q>;In_T%ee",
@@ -1790,7 +2090,7 @@
             "__type__": "Note",
             "fields": [
                 "leben / geboren werden / gebären / Gelehrter",
-                "shēng",
+                "shēng [sound:hypertts-07688bed971dd57c64c04326cb1a89b4310724fd4b29be6fa8005517.mp3]",
                 "生"
             ],
             "guid": "QCy|3XFd7U",
@@ -1804,7 +2104,7 @@
             "__type__": "Note",
             "fields": [
                 "Hof / Institution",
-                "yuàn",
+                "yuàn [sound:hypertts-556a6a0079c41b78bfebe6008da3e5944159139ef2e88878f3fe96fb.mp3]",
                 "院"
             ],
             "guid": "QL;=7Nt!}c",
@@ -1818,7 +2118,7 @@
             "__type__": "Note",
             "fields": [
                 "Person aus welchem Land?",
-                "nǎguórén",
+                "nǎguórén [sound:hypertts-ea4b66cb13925a6a8f8145582f184d40e80ee33f24aecbbc44a2f3c2.mp3]",
                 "哪国人"
             ],
             "guid": "QP`I_p&|E!",
@@ -1831,7 +2131,7 @@
             "__type__": "Note",
             "fields": [
                 "zurückgeben / zurücktreten",
-                "tuì",
+                "tuì [sound:hypertts-2d31f8c0dd4ca27eab80ff919a4ceacaf2028408942414c70819bfa0.mp3]",
                 "退"
             ],
             "guid": "QR/hZep!rS",
@@ -1846,7 +2146,7 @@
             "__type__": "Note",
             "fields": [
                 "ihr (plural)",
-                "nǐmen",
+                "nǐmen [sound:hypertts-9243f6f614a0cb12b90093d401ba577235d4dde5dda85a6c0253b055.mp3]",
                 "你们"
             ],
             "guid": "Q`gKxk],jk",
@@ -1859,7 +2159,7 @@
             "__type__": "Note",
             "fields": [
                 "Er",
-                "tā (m)",
+                "tā (m) [sound:hypertts-b63dad2b762baf893f1b3268f63bd3ef81cc3036b9f6bea279b753f6.mp3]",
                 "他"
             ],
             "guid": "Q}zMAPq>GO",
@@ -1873,7 +2173,7 @@
             "__type__": "Note",
             "fields": [
                 "nicht haben",
-                "méiyǒu",
+                "méiyǒu [sound:hypertts-f8d1fb58c0034529b2694b5e148107a9ab7ddd8539f55d2eb229a9e3.mp3]",
                 "没有"
             ],
             "guid": "R/7uL`eLo",
@@ -1886,7 +2186,7 @@
             "__type__": "Note",
             "fields": [
                 "neu",
-                "xīn",
+                "xīn [sound:hypertts-dd4c75254e7e46055ffcdf57bf8471c534f141c86cf7b463aca9199e.mp3]",
                 "新"
             ],
             "guid": "R4[Z|j!XG",
@@ -1900,7 +2200,7 @@
             "__type__": "Note",
             "fields": [
                 "zwischen / inmitten / ZEW für Räumlichkeiten",
-                "jiān",
+                "jiān [sound:hypertts-449e815161267573543a971758d3381365f0a7ba5d147b61baaef9f0.mp3]",
                 "间"
             ],
             "guid": "b&3zU)sq*E",
@@ -1914,7 +2214,7 @@
             "__type__": "Note",
             "fields": [
                 "Frage nach Datum",
-                "jǐyuè jǐhào",
+                "jǐyuè jǐhào [sound:hypertts-910ce0013904e73bc17163e006353394d49b6e3414b348532fd81bb9.mp3]",
                 "几月几号"
             ],
             "guid": "b>i4@N8p*}",
@@ -1928,7 +2228,7 @@
             "__type__": "Note",
             "fields": [
                 "Krankenhaus",
-                "yīyuàn",
+                "yīyuàn [sound:hypertts-5e357180287f98f7e4c89ca922aa21a360fd64eb298a9ea1a26c97fa.mp3]",
                 "医院"
             ],
             "guid": "bRZ%UH_7tY",
@@ -1941,7 +2241,7 @@
             "__type__": "Note",
             "fields": [
                 "Sie (3. Person Singular, W)",
-                "tā (w)",
+                "tā (w) [sound:hypertts-5fa6f42229d4c18878899e6ff8ba2b9d52bdd4590892af6b7bf5f253.mp3]",
                 "她"
             ],
             "guid": "bl>mjY4CPS",
@@ -1955,7 +2255,7 @@
             "__type__": "Note",
             "fields": [
                 "Elektron / elektronisch",
-                "diànzǐ",
+                "diànzǐ [sound:hypertts-a7c16d4c5803c3a1927c3daa1dfab3a877840fdfe06e284885313095.mp3]",
                 "电子"
             ],
             "guid": "blEG?RE?xO",
@@ -1969,7 +2269,7 @@
             "__type__": "Note",
             "fields": [
                 "Geht es dir gut?",
-                "Nǐ hǎo ma?",
+                "Nǐ hǎo ma? [sound:hypertts-0cf7226756cb568ffe6e57cc8aba263acc628a999cdd819728766256.mp3]",
                 "你好吗？"
             ],
             "guid": "boAvw>}yM<",
@@ -1983,7 +2283,7 @@
             "__type__": "Note",
             "fields": [
                 "Französisch (gesprochen)",
-                "Fǎyǔ",
+                "Fǎyǔ [sound:hypertts-f10bafbc876facb3cbfa0679c7c23ecdac94a44a92f77a228b52cd6e.mp3]",
                 "法语"
             ],
             "guid": "bvDpirq:YZ",
@@ -1996,7 +2296,7 @@
             "__type__": "Note",
             "fields": [
                 "Früh / morgens",
-                "zǎo",
+                "zǎo [sound:hypertts-ecaa5b55d51c578c87789ac2210eeb2947f4a25f140abdb79b0dcfcc.mp3]",
                 "早"
             ],
             "guid": "c8%wA@46z9",
@@ -2010,7 +2310,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 2 vor Zähleinheitswörtern",
-                "liǎng",
+                "liǎng [sound:hypertts-6552f3a6afb725bab5f3b9579f7309a14b5039e413452595c8b93bc0.mp3]",
                 "两"
             ],
             "guid": "cOtkhV5CTn",
@@ -2023,7 +2323,7 @@
             "__type__": "Note",
             "fields": [
                 "E-Mail-Postfach / E-Mail-Adresse",
-                "diànzǐ yóuxiāng",
+                "diànzǐ yóuxiāng [sound:hypertts-ba0aed98c1cc923ccabdf7130731b66fd24162d0766f39691f69e968.mp3]",
                 "电子邮箱"
             ],
             "guid": "cWNWx.]HkS",
@@ -2038,7 +2338,7 @@
             "__type__": "Note",
             "fields": [
                 "Mutter",
-                "māma",
+                "māma [sound:hypertts-17fe871431cb033fc1b6f8d11c4ea95f53fceb14e850109d39dfdc08.mp3]",
                 "妈妈"
             ],
             "guid": "cZbT4wfW{5",
@@ -2051,7 +2351,7 @@
             "__type__": "Note",
             "fields": [
                 "Beamter / Beschäftigte im öffentlichen Dienst",
-                "gōngwùyuán",
+                "gōngwùyuán [sound:hypertts-8c6548246689641818fbf4bc08606327637d07239bed5611beb5a18a.mp3]",
                 "公务员"
             ],
             "guid": "cqeG5s$`_4",
@@ -2064,7 +2364,7 @@
             "__type__": "Note",
             "fields": [
                 "Abend",
-                "wǎnshang",
+                "wǎnshang [sound:hypertts-dc0a3d5b39a59aa723922aa63a56622b9d6db2062fb45d037d564c15.mp3]",
                 "晚上"
             ],
             "guid": "cxM9+RPY>",
@@ -2077,7 +2377,7 @@
             "__type__": "Note",
             "fields": [
                 "mögen / gerne haben",
-                "xǐhuan",
+                "xǐhuan [sound:hypertts-c554000033aca7434977af5bc58df1df370878ce34ca8eb085a2930c.mp3]",
                 "喜欢"
             ],
             "guid": "c~I[;v/0?g",
@@ -2091,7 +2391,7 @@
             "__type__": "Note",
             "fields": [
                 "Box / Kasten",
-                "xiāng",
+                "xiāng [sound:hypertts-eb313b3cd841b7b8869395bb06e2e0320e34c8f4b87880feba4ac1cd.mp3]",
                 "箱"
             ],
             "guid": "d)hxfoOd/v",
@@ -2106,7 +2406,7 @@
             "__type__": "Note",
             "fields": [
                 "Chinesisch (geschrieben)",
-                "Zhōngwén",
+                "Zhōngwén [sound:hypertts-1c9c12d758d5f780f87663ce4e4a5df4efe86b31af8f6f8bfe44fa6b.mp3]",
                 "中文"
             ],
             "guid": "d*#_4p-lso",
@@ -2119,7 +2419,7 @@
             "__type__": "Note",
             "fields": [
                 "England / UK",
-                "Yīngguó",
+                "Yīngguó [sound:hypertts-e640aab5b87e06b4b6d4ea76ae2487e83be378b15cde09fe892b1a54.mp3]",
                 "英国"
             ],
             "guid": "d]oChUwk}K",
@@ -2132,7 +2432,7 @@
             "__type__": "Note",
             "fields": [
                 "herstellen / hergestellt",
-                "zhìzào",
+                "zhìzào [sound:hypertts-d4ce592dd536cbde3d9a3a6553b8001b7ff45d44eb1b8e6fb639dbff.mp3]",
                 "制造"
             ],
             "guid": "dbrRq;k|//",
@@ -2145,7 +2445,7 @@
             "__type__": "Note",
             "fields": [
                 "Hand",
-                "shǒu",
+                "shǒu [sound:hypertts-291151c036d8173c1ce8e579a4f530e4da20cb03fa2c942190f44a6b.mp3]",
                 "手"
             ],
             "guid": "dhCmn7ub0}",
@@ -2159,7 +2459,7 @@
             "__type__": "Note",
             "fields": [
                 "lernen / studieren / Lehre / -logie",
-                "xué",
+                "xué [sound:hypertts-b24935fc8a5d3b484ed1c322b9c624d842c4a4456f70fff35a073f24.mp3]",
                 "学"
             ],
             "guid": "e5t^)Bw5n2",
@@ -2173,7 +2473,7 @@
             "__type__": "Note",
             "fields": [
                 "etwas essen",
-                "chī",
+                "chī [sound:hypertts-87965b39ba58cb849399b6a12ad58a37e0b5ee30db29cb0837302b57.mp3]",
                 "吃"
             ],
             "guid": "eGW/<jML_i",
@@ -2187,7 +2487,7 @@
             "__type__": "Note",
             "fields": [
                 "jung",
-                "niánqīng",
+                "niánqīng [sound:hypertts-1f1643b11129c733004ded243b7f90c7c93be50a99b0229038042b33.mp3]",
                 "年轻"
             ],
             "guid": "eNWW$/&2<M",
@@ -2202,7 +2502,7 @@
             "__type__": "Note",
             "fields": [
                 "Küche",
-                "chú",
+                "chú [sound:hypertts-cdcf735f51c354e077392f27447391b9e41aeee136444ae209430413.mp3]",
                 "厨"
             ],
             "guid": "eT3Q+FTr|L",
@@ -2217,7 +2517,7 @@
             "__type__": "Note",
             "fields": [
                 "Sie (3. Person Plural)",
-                "tāmen",
+                "tāmen [sound:hypertts-8e66d24fd4750bfcf3cd189c528858b80fc061e41b02f26d450a1a1d.mp3]",
                 "他们"
             ],
             "guid": "eb/fKR|zE3",
@@ -2230,7 +2530,7 @@
             "__type__": "Note",
             "fields": [
                 "Und du? / Und dir?",
-                "Nǐ ne?",
+                "Nǐ ne? [sound:hypertts-cd318c751e64505a43f1c8aa3fb8dc4088205c81601549b64c341cab.mp3]",
                 "你呢？"
             ],
             "guid": "f$`6LZKeZ#",
@@ -2244,7 +2544,7 @@
             "__type__": "Note",
             "fields": [
                 "Familienname",
-                "xìng【姓】",
+                "xìng【姓】 [sound:hypertts-b7cb5bc4dc3df09b3c814ef06a935adfee6bd967139de074ab13a264.mp3]",
                 "姓"
             ],
             "guid": "f7k-.Vy:?8",
@@ -2258,7 +2558,7 @@
             "__type__": "Note",
             "fields": [
                 "Koch",
-                "chúshī",
+                "chúshī [sound:hypertts-d11d4147c880c1ef1f8554c8d069ad39f693a46aef510bdc06b13974.mp3]",
                 "厨师"
             ],
             "guid": "fQH[!UyjkE",
@@ -2271,7 +2571,7 @@
             "__type__": "Note",
             "fields": [
                 "niedlich",
-                "kě’ài",
+                "kě’ài [sound:hypertts-f864155c5fe3877df67aa7dcd44f6cc8c1b2909520689c93cfda7d7d.mp3]",
                 "可爱"
             ],
             "guid": "fT4<JiDj7J",
@@ -2285,7 +2585,7 @@
             "__type__": "Note",
             "fields": [
                 "Jemanden anrufen",
-                "gěi &lt;jmd.&gt; dǎ diànhuà",
+                "gěi &lt;jmd.&gt; dǎ diànhuà [sound:hypertts-cb1d50ca4f64e18c64642e3bad284ac1ee5f8be80cf3ba995e90bc22.mp3]",
                 "给 &lt;jmd.&gt; 打电话"
             ],
             "guid": "fix!CWG:zm",
@@ -2299,7 +2599,7 @@
             "__type__": "Note",
             "fields": [
                 "Bitte",
-                "qǐng",
+                "qǐng [sound:hypertts-6e416275fa7be24824d4d6420aae7bfce642f69bfd9b4609f7b66825.mp3]",
                 "请"
             ],
             "guid": "fpwq~;3J@&",
@@ -2313,7 +2613,7 @@
             "__type__": "Note",
             "fields": [
                 "Geburtsort",
-                "chūshēngdì",
+                "chūshēngdì [sound:hypertts-df8bd3533b025e5f558ea3677aaf8fed41719ee125c1d8a77f2b6c0c.mp3]",
                 "出生地"
             ],
             "guid": "f|7AT$WL{R",
@@ -2327,7 +2627,7 @@
             "__type__": "Note",
             "fields": [
                 "Mittwoch",
-                "xīngqīsān",
+                "xīngqīsān [sound:hypertts-a5b0a0c2efc9be3e63b41216820890cdb713b833fe80dae2925c50e8.mp3]",
                 "星期三"
             ],
             "guid": "g?sI.5GA?.",
@@ -2341,7 +2641,7 @@
             "__type__": "Note",
             "fields": [
                 "Berühmtheit / Star",
-                "míngxīng",
+                "míngxīng [sound:hypertts-cb827203df298303742087085e12654c352325add3ea7ec01ce438dc.mp3]",
                 "明星"
             ],
             "guid": "g@7AO&x?,1",
@@ -2354,7 +2654,7 @@
             "__type__": "Note",
             "fields": [
                 "sehr",
-                "hěn",
+                "hěn [sound:hypertts-ee981dc5d614f56a32bddfbfa8033364436cda940f23a3c2a6bb06e5.mp3]",
                 "很"
             ],
             "guid": "gSx<OXKfiL",
@@ -2367,7 +2667,7 @@
             "__type__": "Note",
             "fields": [
                 "Zimmer",
-                "fángjiān",
+                "fángjiān [sound:hypertts-3b642118e23eece97ba39581329c8f27004598359af7149cf7815e40.mp3]",
                 "房间"
             ],
             "guid": "g`YHHyUC[n",
@@ -2381,7 +2681,7 @@
             "__type__": "Note",
             "fields": [
                 "Film",
-                "diànyǐng",
+                "diànyǐng [sound:hypertts-fe972936820e53f46f449a42e3e865f7de7344946c236ff066ee1f34.mp3]",
                 "电影"
             ],
             "guid": "grpOHiO^7:",
@@ -2394,7 +2694,7 @@
             "__type__": "Note",
             "fields": [
                 "erfreut",
-                "gāoxìng",
+                "gāoxìng [sound:hypertts-9ef7fbb4b551b34d30d21d62355a0a44984068726bb79123e89eee6a.mp3]",
                 "高兴"
             ],
             "guid": "g{!l_<.r4S",
@@ -2407,7 +2707,7 @@
             "__type__": "Note",
             "fields": [
                 "wer?",
-                "shéi / shuí",
+                "shéi / shuí [sound:hypertts-34d3ed3973c3ee38d16353de433fd3f86b404c02cd36f5072bdd69c2.mp3]",
                 "谁"
             ],
             "guid": "h6=oYo_D>x",
@@ -2422,7 +2722,7 @@
             "__type__": "Note",
             "fields": [
                 "hoch/groß/sehr",
-                "gāo",
+                "gāo [sound:hypertts-1c8c49b37de826cce36b3e8fee2a29c1b0b74be5381d56e40b9c094a.mp3]",
                 "高"
             ],
             "guid": "h;)%W1Aly4",
@@ -2436,7 +2736,7 @@
             "__type__": "Note",
             "fields": [
                 "Lange nicht gesehen!",
-                "Hǎojiǔ bú jiàn",
+                "Hǎojiǔ bú jiàn [sound:hypertts-0926de3f89f5fae02b61bb1bc1ed8b632946a2c66ae1453e8865d04e.mp3]",
                 "好久不见"
             ],
             "guid": "hQH^EtRWA}",
@@ -2449,7 +2749,7 @@
             "__type__": "Note",
             "fields": [
                 "Tag / Himmel / Firmament",
-                "tiān",
+                "tiān [sound:hypertts-a6f1fac76979578b5e368d18ecc8a7461d10e53246d352b7c92263f2.mp3]",
                 "天"
             ],
             "guid": "hRLxQW0OJm",
@@ -2463,7 +2763,7 @@
             "__type__": "Note",
             "fields": [
                 "auch",
-                "yě",
+                "yě [sound:hypertts-63a1721dc39f7f19d8d75ab20bdfaeaff9e2bd531a1b70f68d2a43b1.mp3]",
                 "也"
             ],
             "guid": "h^3#J;#T@M",
@@ -2477,7 +2777,7 @@
             "__type__": "Note",
             "fields": [
                 "Morgen (nächster Tag)",
-                "míngtiān",
+                "míngtiān [sound:hypertts-266b68e6b2c56279a2c50efbd284a28dd561e594df7ad1d029bc0f9b.mp3]",
                 "明天"
             ],
             "guid": "hd-UP$tZJt",
@@ -2490,7 +2790,7 @@
             "__type__": "Note",
             "fields": [
                 "heute",
-                "jīntiān",
+                "jīntiān [sound:hypertts-d77d4b9c3d8bd4fe2da76d4e99bf99e8cd7c8e9212647a51487470d0.mp3]",
                 "今天"
             ],
             "guid": "hht$SYd^7@",
@@ -2503,7 +2803,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 10",
-                "shí (numerisch)",
+                "shí (numerisch) [sound:hypertts-d806416fce66de8bd457a89cf66d20ce7405174e17486724b3d17a3b.mp3]",
                 "十"
             ],
             "guid": "hkcR->(gOn",
@@ -2517,7 +2817,7 @@
             "__type__": "Note",
             "fields": [
                 "gekürzt älterer Bruder",
-                "gē",
+                "gē [sound:hypertts-2aace24e5f5ddeb4eb9b7ee6feec9d1fc4a397a5a61afa1aa89b99dc.mp3]",
                 "哥"
             ],
             "guid": "i%Z6.]uM-#",
@@ -2531,7 +2831,7 @@
             "__type__": "Note",
             "fields": [
                 "Europa",
-                "Ōuzhōu",
+                "Ōuzhōu [sound:hypertts-123a308f0b042ca90f64606702d0952888833991b316b87111617e65.mp3]",
                 "欧洲"
             ],
             "guid": "iB8xs2=!2m",
@@ -2545,7 +2845,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 2",
-                "èr",
+                "èr [sound:hypertts-abf2061a9178d6af853542e78ec95edf162bf0a561580937d2c567e4.mp3]",
                 "二"
             ],
             "guid": "iIWhq`e6AN",
@@ -2559,7 +2859,7 @@
             "__type__": "Note",
             "fields": [
                 "Morgen (eines Tags)",
-                "zǎoshang",
+                "zǎoshang [sound:hypertts-5dde19ce4cfa4a41222eecce3b4de713da31fc5a083c6a58c55851b4.mp3]",
                 "早上"
             ],
             "guid": "iQs%{r9I@V",
@@ -2573,7 +2873,7 @@
             "__type__": "Note",
             "fields": [
                 "Arbeiter / Industrie / Technik / geübt sein / etc.",
-                "gōng",
+                "gōng 【工】 [sound:hypertts-b223ac269c57120d9a257e04923e739bcb698d98af9f98592b2c1638.mp3]",
                 "工"
             ],
             "guid": "iRYSh)qRu7",
@@ -2587,7 +2887,7 @@
             "__type__": "Note",
             "fields": [
                 "gekochter Reis / Mahlzeit",
-                "fàn",
+                "fàn [sound:hypertts-654fa6f2736460ab372c7acfe9dc3ea9eff5b4dc4d5da8f5b41e6212.mp3]",
                 "饭"
             ],
             "guid": "iSn:he4;?9",
@@ -2601,7 +2901,7 @@
             "__type__": "Note",
             "fields": [
                 "Fernsehsender",
-                "diànshìtái",
+                "diànshìtái [sound:hypertts-73b0ffb1208f2b08519583cb74bc2c30846fc7f03ca2d3cb56ad5275.mp3]",
                 "电视台"
             ],
             "guid": "ia`oW&@t#n",
@@ -2614,7 +2914,7 @@
             "__type__": "Note",
             "fields": [
                 "Nudeln essen",
-                "chīmiàn",
+                "chīmiàn [sound:hypertts-78e53d2a43cfa293022f1254443a2babc17144261bd3a391f5fa9666.mp3]",
                 "吃面"
             ],
             "guid": "isBGvYb6n^",
@@ -2628,7 +2928,7 @@
             "__type__": "Note",
             "fields": [
                 "Jüngere Schwester",
-                "mèimei",
+                "mèimei [sound:hypertts-eae5d667f772be8c2d1b5d15f7c18842d1408ec8145fea74ba7fcc21.mp3]",
                 "妹妹"
             ],
             "guid": "ivN4o+ZYJ{",
@@ -2641,7 +2941,7 @@
             "__type__": "Note",
             "fields": [
                 "Norden / nördlich",
-                "běi",
+                "běi [sound:hypertts-dabc80be4d84fb7de8eb68f9d711674988c855800aa177fe61b2c098.mp3]",
                 "北"
             ],
             "guid": "i{>bV%4=(o",
@@ -2655,7 +2955,7 @@
             "__type__": "Note",
             "fields": [
                 "Englisch (geschrieben)",
-                "Yīngwén",
+                "Yīngwén [sound:hypertts-8d461b73c616488a54f31ac5670e89abcf3c19bdccb022726bd412c1.mp3]",
                 "英文"
             ],
             "guid": "i|Hjo/tH4O",
@@ -2669,7 +2969,7 @@
             "__type__": "Note",
             "fields": [
                 "Nationalität",
-                "guójí",
+                "guójí [sound:hypertts-020850b6327486d13e30b2313a8203d5a9c172a07c84c74f39e3617b.mp3]",
                 "国籍"
             ],
             "guid": "i}L@1pmD/e",
@@ -2684,7 +2984,7 @@
             "__type__": "Note",
             "fields": [
                 "Land / Nation",
-                "guó",
+                "guó [sound:hypertts-ee9af0b699d44db59e227785b118035c5d83cc140796ff66e66146b7.mp3]",
                 "国"
             ],
             "guid": "i}ca{@GSDD",
@@ -2698,7 +2998,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 8",
-                "bā",
+                "bā [sound:hypertts-8561844eeb62073619959186edafa7bfa35460a51156b8ac8b97bf74.mp3]",
                 "八"
             ],
             "guid": "j-0;PUul&S",
@@ -2712,7 +3012,7 @@
             "__type__": "Note",
             "fields": [
                 "wie wäre es, wenn ...",
-                "zěnmeyàng",
+                "zěnmeyàng [sound:hypertts-c64bbba82dafddf4d53d2a8382cdbdc1da4d5b7f361425e471fb81f7.mp3]",
                 "怎么样"
             ],
             "guid": "j4A+|15c7A",
@@ -2726,7 +3026,7 @@
             "__type__": "Note",
             "fields": [
                 "geben",
-                "gěi",
+                "gěi [sound:hypertts-21f33dd4c75783d90b0dd390e3e6b6ab1422a51eb083a4e0907768b8.mp3]",
                 "给"
             ],
             "guid": "j7f~/Z#t]0",
@@ -2740,7 +3040,7 @@
             "__type__": "Note",
             "fields": [
                 "Straße / Weg",
-                "lù",
+                "lù [sound:hypertts-ac2082cb7993da5b0b0076cc2a7d0a80d908974e18cb490846a97589.mp3]",
                 "路"
             ],
             "guid": "j=_!n5!]n@",
@@ -2754,7 +3054,7 @@
             "__type__": "Note",
             "fields": [
                 "Foto",
-                "zhàopiàn",
+                "zhàopiàn [sound:hypertts-0bd092e505e7dd5132086df337f54ecc0435d5e32b451436d745631f.mp3]",
                 "照片"
             ],
             "guid": "jQ:BPwr-k8",
@@ -2768,7 +3068,7 @@
             "__type__": "Note",
             "fields": [
                 "Schrift einer Sprache",
-                "wén",
+                "wén [sound:hypertts-909883e5cbfddb9e4912d9e7aaeb079e0f17bc026dc1294567633996.mp3]",
                 "文"
             ],
             "guid": "jbgCKu6zmp",
@@ -2782,7 +3082,7 @@
             "__type__": "Note",
             "fields": [
                 "Peking",
-                "Běijīng",
+                "Běijīng [sound:hypertts-1618f75a5153233c32e00caed282402488ec149226adce8a65f52d22.mp3]",
                 "北京"
             ],
             "guid": "jiiW}av+_}",
@@ -2795,7 +3095,7 @@
             "__type__": "Note",
             "fields": [
                 "Deutsche Sprache (gesprochen)",
-                "Déyǔ",
+                "Déyǔ [sound:hypertts-166f99c6de515cda60faadd066b24fd174a89a9f53c5d860bc5839ef.mp3]",
                 "德语"
             ],
             "guid": "jl`[u25;?P",
@@ -2808,7 +3108,7 @@
             "__type__": "Note",
             "fields": [
                 "Gruppe / Team / Schulklasse",
-                "bān",
+                "bān [sound:hypertts-007f9c67589f68bc3c3a7b235a8ec55f3915fd805d045afdc8e7dc32.mp3]",
                 "班"
             ],
             "guid": "jp^af[dZ/f",
@@ -2822,7 +3122,7 @@
             "__type__": "Note",
             "fields": [
                 "Appartement / Wohnung",
-                "gōngyù",
+                "gōngyù [sound:hypertts-18bb4a66398e28540f657a5cb1ac71563f362187fbe312b0bc54170d.mp3]",
                 "公寓"
             ],
             "guid": "jy&?loxYo^",
@@ -2837,7 +3137,7 @@
             "__type__": "Note",
             "fields": [
                 "Du",
-                "Nǐ",
+                "Nǐ [sound:hypertts-30ab670267578c38b0ab54ca14f179c4c030065881fe14884edbfe07.mp3]",
                 "你"
             ],
             "guid": "k-81kEPZ*(",
@@ -2851,7 +3151,7 @@
             "__type__": "Note",
             "fields": [
                 "Kurznachricht / SMS",
-                "duǎnxìn",
+                "duǎnxìn [sound:hypertts-98595c3a5f82f6a34fd97ffd6f3f17445da582928b403c34d7e3dbca.mp3]",
                 "短信"
             ],
             "guid": "kH.LSVtiQ2",
@@ -2864,7 +3164,7 @@
             "__type__": "Note",
             "fields": [
                 "Telefonnummer",
-                "diànhuà hàomǎ",
+                "diànhuà hàomǎ [sound:hypertts-caf76040d5fe43b3b5a79b477a8c69c76a6af7ac9d61f2a4bc747f56.mp3]",
                 "电话号码"
             ],
             "guid": "kQ00azq>$-",
@@ -2878,7 +3178,7 @@
             "__type__": "Note",
             "fields": [
                 "generisches ZEW, auch für Menschen",
-                "gè",
+                "gè [sound:hypertts-b04e12028ddd561881685a55ec36a968fbd03c36d495a2a1844a2719.mp3]",
                 "个"
             ],
             "guid": "kXPR``A8[;",
@@ -2891,7 +3191,7 @@
             "__type__": "Note",
             "fields": [
                 "Sie (2. Person singular)",
-                "nín",
+                "nín [sound:hypertts-30c17bee03ecf28e6b8543bc106eda65edf8daba8d31715f93d01e79.mp3]",
                 "您"
             ],
             "guid": "kY,5L:*F_%",
@@ -2904,7 +3204,7 @@
             "__type__": "Note",
             "fields": [
                 "TU Berlin",
-                "Bólín Gōngdà",
+                "Bólín Gōngdà [sound:hypertts-0ad622a18f35489fda5e019ce278fe089665a68c42abda4e042d2b59.mp3]",
                 "柏林工大"
             ],
             "guid": "kj9aok{PYd",
@@ -2917,7 +3217,7 @@
             "__type__": "Note",
             "fields": [
                 "Haus",
-                "fáng",
+                "fáng [sound:hypertts-c16e63dfa309729fd30c6b095184108669169a9fe7b4734ebb3789c9.mp3]",
                 "房"
             ],
             "guid": "ko$eh7t)ek",
@@ -2931,7 +3231,7 @@
             "__type__": "Note",
             "fields": [
                 "Thema / Titel / aufschreiben / eintragen",
-                "tí",
+                "tí [sound:hypertts-c126503030c1ca356ed2a391ba64efca7c796b4e63123172e7cf398c.mp3]",
                 "题"
             ],
             "guid": "kr%>=!m/QK",
@@ -2945,7 +3245,7 @@
             "__type__": "Note",
             "fields": [
                 "Mensch",
-                "rén",
+                "rén [sound:hypertts-7d2b5ea3bf9ae53dab107e28837fba95c85d93f18d8e885389c6aa46.mp3]",
                 "人"
             ],
             "guid": "kt]~@tsmkJ",
@@ -2958,7 +3258,7 @@
             "__type__": "Note",
             "fields": [
                 "Telefon",
-                "diànhuà",
+                "diànhuà [sound:hypertts-0b4436d80f4616c07b1bad4fe9795a212d97f7afb7dbb0bf2edeca9c.mp3]",
                 "电话"
             ],
             "guid": "l(Kr!g>LMu",
@@ -2972,7 +3272,7 @@
             "__type__": "Note",
             "fields": [
                 "Jahre alt / Altersjahr ZEW",
-                "suì",
+                "suì [sound:hypertts-455c3e56bbf9872f0624f610c829451ff28aa04864d81965463c081c.mp3]",
                 "岁"
             ],
             "guid": "l1G1D,-79~",
@@ -2986,7 +3286,7 @@
             "__type__": "Note",
             "fields": [
                 "lesen / Buch lesen",
-                "kànshū",
+                "kànshū [sound:hypertts-2025c3a45720677654a5aea990d87c37d3c41ccbccbab301c307d373.mp3]",
                 "看书"
             ],
             "guid": "l;~]}B/4no",
@@ -3000,7 +3300,7 @@
             "__type__": "Note",
             "fields": [
                 "Gericht (Institution)",
-                "fǎyuàn",
+                "fǎyuàn [sound:hypertts-c9e0965bc00efc832b5a1378ad8877a4d44d75770be50cf7786e8158.mp3]",
                 "法院"
             ],
             "guid": "lN^WrZ=S4[",
@@ -3013,7 +3313,7 @@
             "__type__": "Note",
             "fields": [
                 "Fragewort “was?”",
-                "shénme",
+                "shénme [sound:hypertts-352a098f89a5901af3ca8ff209f9ab3021664b5ccd4ac72f8a0dc64a.mp3]",
                 "什么"
             ],
             "guid": "lP)K9kdlo=",
@@ -3027,7 +3327,7 @@
             "__type__": "Note",
             "fields": [
                 "senden, versenden",
-                "fāsòng",
+                "fāsòng [sound:hypertts-d08f635ca5605d9bd120e1388a446a50cc411b5e048b23b5ae1bd0e7.mp3]",
                 "发送"
             ],
             "guid": "lS@UShSggg",
@@ -3042,7 +3342,7 @@
             "__type__": "Note",
             "fields": [
                 "öffentlich, dienstlich",
-                "gōng",
+                "gōng 【公】 [sound:hypertts-a3391fd58ab967f6408ea408fd68e549695f818886af73e76c439812.mp3]",
                 "公"
             ],
             "guid": "lddpVrfj[+",
@@ -3056,7 +3356,7 @@
             "__type__": "Note",
             "fields": [
                 "sehen / treffen",
-                "jiàn",
+                "jiàn [sound:hypertts-a9f7b3c4c019ca3866e33976997c01ca3cd306c428f6dbd91e32d874.mp3]",
                 "见"
             ],
             "guid": "lmkA9MKNWZ",
@@ -3070,7 +3370,7 @@
             "__type__": "Note",
             "fields": [
                 "etwas",
-                "shén",
+                "shén [sound:hypertts-7195f6890b1d5bba5c89ae26bfb959027eca32c5932d6ca27490df1a.mp3]",
                 "什"
             ],
             "guid": "luarK,C-?Q",
@@ -3084,7 +3384,7 @@
             "__type__": "Note",
             "fields": [
                 "Auf Wiedersehen!",
-                "zàijiàn",
+                "zàijiàn [sound:hypertts-f9ad02b1f583edb1f38ff345c93d88da806d1b61704df71589930727.mp3]",
                 "再见"
             ],
             "guid": "m*(?C)eLUa",
@@ -3097,7 +3397,7 @@
             "__type__": "Note",
             "fields": [
                 "cool",
-                "kù",
+                "kù [sound:hypertts-079627f0cc91e00e20179ee08b12113c29492abb1f66819e0d2365e6.mp3]",
                 "酷"
             ],
             "guid": "mD^x~V=D>Z",
@@ -3111,7 +3411,7 @@
             "__type__": "Note",
             "fields": [
                 "klein / jung",
-                "xiǎo",
+                "xiǎo [sound:hypertts-305864d34285e521f64688c34924e4cb02017544e98b66af8bb25bbe.mp3]",
                 "小"
             ],
             "guid": "mE?Mp5.Hy&",
@@ -3124,7 +3424,7 @@
             "__type__": "Note",
             "fields": [
                 "Schön / Hübsch",
-                "měi",
+                "měi [sound:hypertts-0f3807a75948c64a07a970cd3cdc68cebe01e638abf242915097b2da.mp3]",
                 "美"
             ],
             "guid": "mO[d4_xkIE",
@@ -3138,7 +3438,7 @@
             "__type__": "Note",
             "fields": [
                 "Strukturpartikel zur Bildung von Attributen",
-                "de",
+                "de [sound:hypertts-afac086209858906e3dc0405739a0388ca9f628ffbbd588c499380dd.mp3]",
                 "的"
             ],
             "guid": "mPM>7CubM(",
@@ -3152,7 +3452,7 @@
             "__type__": "Note",
             "fields": [
                 "woher?",
-                "nǎli rén",
+                "nǎli rén [sound:hypertts-db508b24ea96f48121597fa472a367bf05d9979d51b968a8e461876e.mp3]",
                 "哪里人"
             ],
             "guid": "mbzvW3V2.{",
@@ -3165,7 +3465,7 @@
             "__type__": "Note",
             "fields": [
                 "Japan",
-                "Rìběn",
+                "Rìběn [sound:hypertts-2f56027f56b0084472ca27666a1cfa6fd5cc2d8d75e6f833c69c96b2.mp3]",
                 "日本"
             ],
             "guid": "mz-FjTNg4s",
@@ -3179,7 +3479,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie alt sind Sie? (sehr höflich, sehr alt, ab ca. 70 Jahren)",
-                "Nín guì gēng?",
+                "Nín guì gēng? [sound:hypertts-63d146e243e168fb07e11447b0212217814c695ef899681910520391.mp3]",
                 "您贵庚？"
             ],
             "guid": "nBI@@1V@N+",
@@ -3192,7 +3492,7 @@
             "__type__": "Note",
             "fields": [
                 "Sport machen",
-                "zuòyùndòng",
+                "zuòyùndòng [sound:hypertts-47d173c3135f6224b3e71f3ad24199b98c0bf485cf12b1772fe86bd7.mp3]",
                 "做运动"
             ],
             "guid": "n~>KN4QtU=",
@@ -3206,7 +3506,7 @@
             "__type__": "Note",
             "fields": [
                 "wo?",
-                "nǎli",
+                "nǎli [sound:hypertts-cb7dd374e8da820133ce35d5bce200e9553e1578e6b86ea2e6452412.mp3]",
                 "哪里"
             ],
             "guid": "oQ^O2I@lgv",
@@ -3220,7 +3520,7 @@
             "__type__": "Note",
             "fields": [
                 "Fräulein / Mädchen",
-                "xiǎojiě",
+                "xiǎojiě [sound:hypertts-ef2ca368a5ceeed05c00295cdb497d10e57274c513b69b859e2c9d86.mp3]",
                 "小姐"
             ],
             "guid": "oWO%K3NN!Q",
@@ -3233,7 +3533,7 @@
             "__type__": "Note",
             "fields": [
                 "Absender",
-                "fājiànrén",
+                "fājiànrén [sound:hypertts-815000ef769484f403f03fa25f65a05adb05477156e495048ca35375.mp3]",
                 "发件人"
             ],
             "guid": "o^TV*=p_8p",
@@ -3246,7 +3546,7 @@
             "__type__": "Note",
             "fields": [
                 "Panda",
-                "xióngmāo",
+                "xióngmāo [sound:hypertts-364a6fa5c8099fd8930a197727d422e995e3f0fc302753e554452cc6.mp3]",
                 "熊猫"
             ],
             "guid": "o`=h_Lv+hx",
@@ -3259,7 +3559,7 @@
             "__type__": "Note",
             "fields": [
                 "Tier (allgemein)",
-                "dòngwù",
+                "dòngwù [sound:hypertts-7a6b95d58bc6740de5e4d8272176505d329f6e4d27ca521f06684c44.mp3]",
                 "动物"
             ],
             "guid": "orBmD%,~Si",
@@ -3272,7 +3572,7 @@
             "__type__": "Note",
             "fields": [
                 "Hauptstadt",
-                "jīng",
+                "jīng [sound:hypertts-df9ad96d56df16051016a37ae17b4eeadef1e5bce84a9b87dc75db9d.mp3]",
                 "京"
             ],
             "guid": "osKE*w?a{b",
@@ -3286,7 +3586,7 @@
             "__type__": "Note",
             "fields": [
                 "Wirklich?",
-                "Zhēn de ma?",
+                "Zhēn de ma? [sound:hypertts-3d60001457eeef252851587086fe1de9b3479bf3ecea5ce49e513c74.mp3]",
                 "真的吗？"
             ],
             "guid": "ot`<,fDm51",
@@ -3300,7 +3600,7 @@
             "__type__": "Note",
             "fields": [
                 "Wie heißt du?",
-                "Nǐ jiào shénme míngzì?",
+                "Nǐ jiào shénme míngzì? [sound:hypertts-542e3bfee46cb8ccb04245993738f7941de2a87dbef70dc2ca411ed6.mp3]",
                 "你叫什么名字？"
             ],
             "guid": "p[Y|hCZn;o",
@@ -3314,7 +3614,7 @@
             "__type__": "Note",
             "fields": [
                 "Sprichst du Englisch?",
-                "Nì huì shuō yīngyǔ ma?",
+                "Nì huì shuō yīngyǔ ma? [sound:hypertts-0223fdb6e46da84130bfd21c442f074501cfa972b9e9db12c3500864.mp3]",
                 "你会说英语吗？"
             ],
             "guid": "pgfiMqL/CF",
@@ -3328,7 +3628,7 @@
             "__type__": "Note",
             "fields": [
                 "Französisch (geschrieben)",
-                "Fǎwén",
+                "Fǎwén [sound:hypertts-e2fe532fdc5ab0cff702bf3c36f13c679cec29210d46f8ba19f5b79c.mp3]",
                 "法文"
             ],
             "guid": "piT%fN]Oft",
@@ -3341,7 +3641,7 @@
             "__type__": "Note",
             "fields": [
                 "Fragepartikel für Ja-Nein Fragen",
-                "ma",
+                "ma [sound:hypertts-b77caf0f629a76b56ba67d70d241b50e10fbca72f2776c8606b01f6f.mp3]",
                 "吗"
             ],
             "guid": "pi{ACmxOs)",
@@ -3355,7 +3655,7 @@
             "__type__": "Note",
             "fields": [
                 "Danke",
-                "xièxiè",
+                "xièxiè [sound:hypertts-07478d2013a005854f29ce438f1a42bf8e4bac483c531fcd1ddf1764.mp3]",
                 "谢谢"
             ],
             "guid": "q&oSZge00b",
@@ -3370,7 +3670,7 @@
             "__type__": "Note",
             "fields": [
                 "groß / stark / haupt-",
-                "dà",
+                "dà [sound:hypertts-8c501a58b26c0e7f0725fe957b8785f9c1c333cac1ae2c4effd66098.mp3]",
                 "大"
             ],
             "guid": "q.7/DN,c*Z",
@@ -3384,7 +3684,7 @@
             "__type__": "Note",
             "fields": [
                 "gut",
-                "hǎo",
+                "hǎo [sound:hypertts-9d2cb95c4deab5309afd4f65a35fd1e5daba694e3b55a187d7e2398f.mp3]",
                 "好"
             ],
             "guid": "qL;pHn.i<4",
@@ -3398,7 +3698,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 9",
-                "jiǔ",
+                "jiǔ [sound:hypertts-aa32de0ab7725f722eb0eb70439f33b4fdee4d3d66cb1f3acf3cd1b0.mp3]",
                 "九"
             ],
             "guid": "qMPo:I)SDR",
@@ -3412,7 +3712,7 @@
             "__type__": "Note",
             "fields": [
                 "wieviel? (0-∞)",
-                "duōshao",
+                "duōshao [sound:hypertts-07c798d47150a0259fee43b976f090df39576aa8a23bb3ba1faeab8f.mp3]",
                 "多少"
             ],
             "guid": "qMu:zNc9Lk",
@@ -3427,7 +3727,7 @@
             "__type__": "Note",
             "fields": [
                 "Freitag",
-                "xīngqīwǔ",
+                "xīngqīwǔ [sound:hypertts-6d901818cffad16bed2cbe54f222d23e0403b8e427e0ca4145cc1318.mp3]",
                 "星期五"
             ],
             "guid": "qeFDD+cW&d",
@@ -3441,7 +3741,7 @@
             "__type__": "Note",
             "fields": [
                 "schauen / ansehen / lesen / betrachten",
-                "kàn",
+                "kàn [sound:hypertts-b54905c4cae422b64d5e36b92f6bd8453ac6d6462002b9d8f0254cfc.mp3]",
                 "看"
             ],
             "guid": "qgA9D6Mbs!",
@@ -3455,7 +3755,7 @@
             "__type__": "Note",
             "fields": [
                 "Älterer Bruder",
-                "gēge",
+                "gēge [sound:hypertts-0c56be365119794ade8cae80d9ef2fcfef823842aa454e490348e53f.mp3]",
                 "哥哥"
             ],
             "guid": "qt{6>b3%K]",
@@ -3468,7 +3768,7 @@
             "__type__": "Note",
             "fields": [
                 "heißen",
-                "jiào",
+                "jiào [sound:hypertts-0b0de37c0365146a5c313adfdfa457bdc571c58cd267f2ec0f24d4e2.mp3]",
                 "叫"
             ],
             "guid": "r$bjE+%$Vy",
@@ -3482,7 +3782,7 @@
             "__type__": "Note",
             "fields": [
                 "Was arbeitest du?",
-                "Nǐ zuò shénme gōngzuò?",
+                "Nǐ zuò shénme gōngzuò? [sound:hypertts-7a41e0ced87bdff93063bcc15368a15f5120b392392006ff88f0dc75.mp3]",
                 "你做什么工作？"
             ],
             "guid": "r?L:oW!L8b",
@@ -3496,7 +3796,7 @@
             "__type__": "Note",
             "fields": [
                 "gekürzt jüngerer Bruder",
-                "dì",
+                "dì [sound:hypertts-3b11a900a4d8689c45a2b03f987f15f5ec23a1f38647e276dfcb92e2.mp3]",
                 "弟"
             ],
             "guid": "rI&DU#Wkr7",
@@ -3510,7 +3810,7 @@
             "__type__": "Note",
             "fields": [
                 "essen / Reis essen",
-                "chīfàn",
+                "chīfàn [sound:hypertts-b1ddbde4ffc8d94ffaf34f440f30917960c5a132113b85282833ac0c.mp3]",
                 "吃饭"
             ],
             "guid": "rRxv@W!g_q",
@@ -3524,7 +3824,7 @@
             "__type__": "Note",
             "fields": [
                 "klein / kleinwüchsig / niedrig",
-                "ǎi",
+                "ǎi [sound:hypertts-e3113ec59514ead83e692730f9e63a43ba8da8cacd65dc6e7ff47944.mp3]",
                 "矮"
             ],
             "guid": "ra9S7P,@hx",
@@ -3537,7 +3837,7 @@
             "__type__": "Note",
             "fields": [
                 "postalisch / etwas mit der Post schicken",
-                "yóu",
+                "yóu [sound:hypertts-8929d173901e6dd24ba696359c081ecfe597f8c58735a05fb317e72b.mp3]",
                 "邮"
             ],
             "guid": "rk9|ke81oz",
@@ -3552,7 +3852,7 @@
             "__type__": "Note",
             "fields": [
                 "(teil von \"was?\")",
-                "me",
+                "me [sound:hypertts-e75aa0b60e3b773829a79684b1505889ac41b350cbef65d8983c58fb.mp3]",
                 "么"
             ],
             "guid": "rvGh}A2jI9",
@@ -3566,7 +3866,7 @@
             "__type__": "Note",
             "fields": [
                 "ugs. Mutter",
-                "mā",
+                "mā [sound:hypertts-8aa723d2fac211142c016f20c85578ee2aeb5a081cf1111b31ebdfae.mp3]",
                 "妈"
             ],
             "guid": "s4b7u^RU*!",
@@ -3580,7 +3880,7 @@
             "__type__": "Note",
             "fields": [
                 "Fragen",
-                "wèn",
+                "wèn [sound:hypertts-c10cac608a6431d80dfe451a9b07a9d416693fa5c628db083e6f7d84.mp3]",
                 "问"
             ],
             "guid": "sJn5&u8{#X",
@@ -3594,7 +3894,7 @@
             "__type__": "Note",
             "fields": [
                 "erhalten",
-                "shōudào",
+                "shōudào [sound:hypertts-6502deacdf904f94ea0df96e0f15cb80b3e74a0b170e83a6f5e06d84.mp3]",
                 "收到"
             ],
             "guid": "sN.5cg$%k[",
@@ -3608,7 +3908,7 @@
             "__type__": "Note",
             "fields": [
                 "oben / nach oben / vorig / neuestes",
-                "shàng",
+                "shàng [sound:hypertts-9a0d33c8f381512eb9c4bde7750c30dfe7912eeafdfadd50af217d1b.mp3]",
                 "上"
             ],
             "guid": "s`5XvtE[N*",
@@ -3622,7 +3922,7 @@
             "__type__": "Note",
             "fields": [
                 "sein",
-                "shì",
+                "shì [sound:hypertts-6926ebb0d9e78165cc677e6da10beaec1becb449d98e7323b394e849.mp3]",
                 "是"
             ],
             "guid": "stNB~t;)p>",
@@ -3636,7 +3936,7 @@
             "__type__": "Note",
             "fields": [
                 "wieviel? (0-12)",
-                "jǐ",
+                "jǐ [sound:hypertts-433538cb13caf66589ef8a3f58fec4090d37a3426985030a28ae1c45.mp3]",
                 "几"
             ],
             "guid": "sx-n7Yr(FL",
@@ -3650,7 +3950,7 @@
             "__type__": "Note",
             "fields": [
                 "Ich",
-                "wǒ",
+                "wǒ [sound:hypertts-5eb15c48448a79bc02bfec330c00754e7e489461abdfa2fdcbe8bf73.mp3]",
                 "我"
             ],
             "guid": "sy&0?d!;jg",
@@ -3664,7 +3964,7 @@
             "__type__": "Note",
             "fields": [
                 "aufschreiben / sich erinnern",
-                "jì",
+                "jì [sound:hypertts-5a035669f2b92f5c4a90cd901fad1b78bb3c4de2e148f6db68054011.mp3]",
                 "记"
             ],
             "guid": "t$3}?mnX8#",
@@ -3679,7 +3979,7 @@
             "__type__": "Note",
             "fields": [
                 "Samstag",
-                "xīngqīliù",
+                "xīngqīliù [sound:hypertts-a878d6e8a228c8ba23811517ae5eee4dfc9bf059e08826d5f09fa657.mp3]",
                 "星期六"
             ],
             "guid": "t/+~akG*M0",
@@ -3693,7 +3993,7 @@
             "__type__": "Note",
             "fields": [
                 "Sprache",
-                "yǔyán",
+                "yǔyán [sound:hypertts-a4649f762fc38b3b9fb43397e8ee88cf00b69d7fec389a5bac135f88.mp3]",
                 "语言"
             ],
             "guid": "t=&2[~=-nx",
@@ -3706,7 +4006,7 @@
             "__type__": "Note",
             "fields": [
                 "ugs. Vater",
-                "bà",
+                "bà [sound:hypertts-9fc4dedeb5247f87251e0814520723c5548f55eba4e8621dcce2164e.mp3]",
                 "爸"
             ],
             "guid": "tF`t}CRT(r",
@@ -3720,7 +4020,7 @@
             "__type__": "Note",
             "fields": [
                 "Student",
-                "dàxuéshēng",
+                "dàxuéshēng [sound:hypertts-df22fe469e4db5ff0733d0a44585b4c27589bcddaa5f0701a0b96f27.mp3]",
                 "大学生"
             ],
             "guid": "tH#m{KE~RZ",
@@ -3733,7 +4033,7 @@
             "__type__": "Note",
             "fields": [
                 "Geburtstag",
-                "shēngrì",
+                "shēngrì [sound:hypertts-556b625e28b76ae93f2737f0e2a8e13c766dec350a7483bcf97dbcca.mp3]",
                 "生日"
             ],
             "guid": "tN#e6S}v2Q",
@@ -3747,7 +4047,7 @@
             "__type__": "Note",
             "fields": [
                 "haben",
-                "yǒu",
+                "yǒu [sound:hypertts-bab5e78f10d4305f3d3627779eaf9fa7f0665dedcf45ffe782d4fe18.mp3]",
                 "有"
             ],
             "guid": "tO%F9n2gzs",
@@ -3760,7 +4060,7 @@
             "__type__": "Note",
             "fields": [
                 "gekürzt ältere Schwester",
-                "jiě",
+                "jiě [sound:hypertts-793ac0c65c78c8113ffade79395b2a2d89e4369ad015b4795c0914a0.mp3]",
                 "姐"
             ],
             "guid": "tuT9m0tf7A",
@@ -3774,7 +4074,7 @@
             "__type__": "Note",
             "fields": [
                 "fertigen / handwerken / machen",
-                "zuò【作】",
+                "zuò【作】 [sound:hypertts-e3c4d3fd555c45e53ad731df20854b4bea13c7853e61d2de2dc74143.mp3]",
                 "作"
             ],
             "guid": "u0hx_l=0q|",
@@ -3788,7 +4088,7 @@
             "__type__": "Note",
             "fields": [
                 "Adresse",
-                "dìzhǐ",
+                "dìzhǐ [sound:hypertts-a2e8b884c2ff2d9a60e2d5f373d95c00f48967aff0241ed9cc996f43.mp3]",
                 "地址"
             ],
             "guid": "uFa7@7^},+",
@@ -3802,7 +4102,7 @@
             "__type__": "Note",
             "fields": [
                 "Deutschland",
-                "Déguó",
+                "Déguó [sound:hypertts-a784a50d4c26cacc86f23a3a1a637ce62b0a21f3843de81fa974ca4e.mp3]",
                 "德国"
             ],
             "guid": "uGH&UwiiU&",
@@ -3817,7 +4117,7 @@
             "__type__": "Note",
             "fields": [
                 "alle / beide",
-                "dōu",
+                "dōu [sound:hypertts-064001fced7dc0612d807f46d3b7b979c9594b3b33aa3502c26d06e3.mp3]",
                 "都"
             ],
             "guid": "uZQYeM|8wt",
@@ -3831,7 +4131,7 @@
             "__type__": "Note",
             "fields": [
                 "Öffentlicher Park",
-                "gōngyuán",
+                "gōngyuán [sound:hypertts-e1bf3a0627240160d94e8c80237115b5783dabf174c576e03d2ed8d1.mp3]",
                 "公园"
             ],
             "guid": "uga`S>,_)`",
@@ -3845,7 +4145,7 @@
             "__type__": "Note",
             "fields": [
                 "Hundert",
-                "bǎi",
+                "bǎi [sound:hypertts-87969c7e9f09721f416cbfa3d39b75ea57dc0a35ab11912d24e87d32.mp3]",
                 "百"
             ],
             "guid": "uglh]:o@NK",
@@ -3858,7 +4158,7 @@
             "__type__": "Note",
             "fields": [
                 "Wissen (Nomen)",
-                "shí (识)",
+                "shí (识) [sound:hypertts-7aa520bdbc219f1a23b9b5dbe5373d944791b1b9948a6b3375fb8492.mp3]",
                 "识"
             ],
             "guid": "v0k?11gM51",
@@ -3872,7 +4172,7 @@
             "__type__": "Note",
             "fields": [
                 "Schauspieler",
-                "yǎnyuán",
+                "yǎnyuán [sound:hypertts-891c885945489f017fbf8f7647baccc5440e164725e63cae60566e7f.mp3]",
                 "演员"
             ],
             "guid": "v8>jMRr|bb",
@@ -3885,7 +4185,7 @@
             "__type__": "Note",
             "fields": [
                 "Englisch (gesprochen)",
-                "Yīngyǔ",
+                "Yīngyǔ [sound:hypertts-3a129c406f3cc73f92e10d6b44608ed7be34e07c4b3d2318e82d1e4f.mp3]",
                 "英语"
             ],
             "guid": "v?oo&0C[XI",
@@ -3898,7 +4198,7 @@
             "__type__": "Note",
             "fields": [
                 "China",
-                "Zhōngguó",
+                "Zhōngguó [sound:hypertts-f56d711b9e068c518e62588ca27aba5a982abf05070d33469b2d33b7.mp3]",
                 "中国"
             ],
             "guid": "vBNyh9CBx_",
@@ -3912,7 +4212,7 @@
             "__type__": "Note",
             "fields": [
                 "alle / gesamte Familie",
-                "dàjiā",
+                "dàjiā [sound:hypertts-22fc5184dfb0d83b5794a0b68d6c5bb9a919b64533bbfa2468d3bd3b.mp3]",
                 "大家"
             ],
             "guid": "v`{w}x=.i_",
@@ -3925,7 +4225,7 @@
             "__type__": "Note",
             "fields": [
                 "jeden Tag",
-                "tiāntiān",
+                "tiāntiān [sound:hypertts-45132a66ea5c2b8a0206784c998ec1dd24a19ab193018d9a4b4eb15a.mp3]",
                 "天天"
             ],
             "guid": "vf$;m{+d>k",
@@ -3938,7 +4238,7 @@
             "__type__": "Note",
             "fields": [
                 "empfangen",
-                "shōu",
+                "shōu [sound:hypertts-f1721a68fef9da055b7dd13900e9c958ec08de7d96fc1791b24f07e3.mp3]",
                 "收"
             ],
             "guid": "w-/d=t+wGW",
@@ -3952,7 +4252,7 @@
             "__type__": "Note",
             "fields": [
                 "Scheibe / Tablett / Karte",
-                "piàn",
+                "piàn [sound:hypertts-9607a483222cec483a297c4be2b421fdd6f67d2b317b2323e5f88047.mp3]",
                 "片"
             ],
             "guid": "w9/oR[X5m:",
@@ -3967,7 +4267,7 @@
             "__type__": "Note",
             "fields": [
                 "Öffentliche Straße",
-                "gōnglù",
+                "gōnglù [sound:hypertts-d7799037358aee3cd2b80f4b3bb2dc386f94827f82ca1ee25f7cc658.mp3]",
                 "公路"
             ],
             "guid": "wB5_WOtClC",
@@ -3981,7 +4281,7 @@
             "__type__": "Note",
             "fields": [
                 "kennen/erkennen/wiedererkennen",
-                "rèn",
+                "rèn [sound:hypertts-928b91525c7b46db337e488adf9316936dbc4603807a5f41992954fc.mp3]",
                 "认"
             ],
             "guid": "wC*L,H4bq_",
@@ -3995,7 +4295,7 @@
             "__type__": "Note",
             "fields": [
                 "gut aussehend / elegant / hübsch",
-                "shuài",
+                "shuài [sound:hypertts-d0c733465300e0bd0e2bd6c01acc20e25f5ee4d84eef7a266981ee18.mp3]",
                 "帅"
             ],
             "guid": "wK!#5yM[RO",
@@ -4009,7 +4309,7 @@
             "__type__": "Note",
             "fields": [
                 "Meer / Ozean",
-                "hǎi",
+                "hǎi [sound:hypertts-04115578a84b217d7137c29ed323ce2574097fe430f058203380ce42.mp3]",
                 "海"
             ],
             "guid": "wZo+IS/CRR",
@@ -4023,7 +4323,7 @@
             "__type__": "Note",
             "fields": [
                 "wohnen/leben",
-                "zhù",
+                "zhù [sound:hypertts-20f116eeed35f27d34277d52ec4383ced9201f014b9aef224993c0cc.mp3]",
                 "住"
             ],
             "guid": "wj~R!anUS=",
@@ -4037,7 +4337,7 @@
             "__type__": "Note",
             "fields": [
                 "Entschuldigung",
-                "duíbuqǐ",
+                "duíbuqǐ [sound:hypertts-26c0be5c173faee4432a0243d92f770cf954ba43c7b17691f6ba58a5.mp3]",
                 "对不起"
             ],
             "guid": "wvcNZ0&!je",
@@ -4050,7 +4350,7 @@
             "__type__": "Note",
             "fields": [
                 "Basketball",
-                "lánqiú",
+                "lánqiú [sound:hypertts-68649816c9dc9ea588c72ef943bb418ad278b85deb80fb536e267832.mp3]",
                 "篮球"
             ],
             "guid": "w{;@~ZsKJA",
@@ -4063,7 +4363,7 @@
             "__type__": "Note",
             "fields": [
                 "telefonieren",
-                "dǎ diànhuà",
+                "dǎ diànhuà [sound:hypertts-c6ab58c7feca35678614dc62a2d1d919aea184721f84fc440da7939e.mp3]",
                 "打电话"
             ],
             "guid": "x$UMm:u~^K",
@@ -4077,7 +4377,7 @@
             "__type__": "Note",
             "fields": [
                 "Seite / Blatt",
-                "yè",
+                "yè [sound:hypertts-5b321d7d1e5db6990b9cf86d7367bbc4d7ae7cc1615dc43e5909cc35.mp3]",
                 "页"
             ],
             "guid": "x%3&tdx@80",
@@ -4090,7 +4390,7 @@
             "__type__": "Note",
             "fields": [
                 "in / innerhalb / innere / Heimat",
-                "lǐ",
+                "lǐ [sound:hypertts-82e2b111a2aaea297940aa9d6505cfe8f0d42c4389cd3da2228bd29a.mp3]",
                 "里"
             ],
             "guid": "x2?%8mHu_k",
@@ -4104,7 +4404,7 @@
             "__type__": "Note",
             "fields": [
                 "hübsch",
-                "piàoliang",
+                "piàoliang [sound:hypertts-1e17b2b2a1977fae4250ff662fae147d4027d4b261c1af830cc67450.mp3]",
                 "漂亮"
             ],
             "guid": "x3{7Oo#DnK",
@@ -4119,7 +4419,7 @@
             "__type__": "Note",
             "fields": [
                 "Guten Abend!",
-                "wǎnshang hǎo",
+                "wǎnshang hǎo [sound:hypertts-a275c32f4f5053e2f23f4daae4e4782050b01a46de90cadd679bb3b0.mp3]",
                 "晚上好"
             ],
             "guid": "x6=lxk43G9",
@@ -4132,7 +4432,7 @@
             "__type__": "Note",
             "fields": [
                 "Sportler / Athlet",
-                "yùndòngyuán",
+                "yùndòngyuán [sound:hypertts-1830168f9c2a275844d674817bbe1dacf09f701811567365fc104b24.mp3]",
                 "运动员"
             ],
             "guid": "x<h6]T)CdA",
@@ -4146,7 +4446,7 @@
             "__type__": "Note",
             "fields": [
                 "alt / erfahren",
-                "lǎo",
+                "lǎo [sound:hypertts-f4eea3872b3bb63bb39e1d427a0e9742ed396a86e5e3003f0276893d.mp3]",
                 "老"
             ],
             "guid": "xCF4UM&7TO",
@@ -4160,7 +4460,7 @@
             "__type__": "Note",
             "fields": [
                 "Donnerstag",
-                "xīngqīsì",
+                "xīngqīsì [sound:hypertts-432be96782d3e0a6dc49d2202cc54298eb7bd73c2a04aa212c7b0cb8.mp3]",
                 "星期四"
             ],
             "guid": "xHd3%Q+]}s",
@@ -4174,7 +4474,7 @@
             "__type__": "Note",
             "fields": [
                 "Herkunft / Wurzel",
-                "běn",
+                "běn [sound:hypertts-ad0dfd0af7bf307e071fd4c51737bad31876c6eea65966cb3d4651f2.mp3]",
                 "本"
             ],
             "guid": "xOq~50$zNY",
@@ -4188,7 +4488,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 3",
-                "sān",
+                "sān [sound:hypertts-9b0a8e895c5448c415baf3af859234d2701e10f39b09bc373e557d39.mp3]",
                 "三"
             ],
             "guid": "xR6vUi^a?k",
@@ -4202,7 +4502,7 @@
             "__type__": "Note",
             "fields": [
                 "Familie / Haushalt / Zuhause / ZEW für Unternehmen etc.",
-                "jiā",
+                "jiā [sound:hypertts-cf09563efd2c9cc78e725dc219ba921c84c2b1e9c09c3da64259758e.mp3]",
                 "家"
             ],
             "guid": "xSNhLoh,,i",
@@ -4216,7 +4516,7 @@
             "__type__": "Note",
             "fields": [
                 "hell / klar / glänzend",
-                "míng【明】",
+                "míng【明】 [sound:hypertts-eae90856a4d5de45c2fd3b806ca58bf60b981de0c9fdb36894f8f1db.mp3]",
                 "明"
             ],
             "guid": "xgn~9V*>F1",
@@ -4230,7 +4530,7 @@
             "__type__": "Note",
             "fields": [
                 "aufsteigen/aufstehen",
-                "qǐ",
+                "qǐ [sound:hypertts-0dfab37144593ddd94c8acbd0f93d35eb357e5bf2d46b820267635a1.mp3]",
                 "起"
             ],
             "guid": "x}vx%CTR8O",
@@ -4244,7 +4544,7 @@
             "__type__": "Note",
             "fields": [
                 "Nach- und Vorname",
-                "xìngmíng",
+                "xìngmíng [sound:hypertts-2f0d1f86c2bce28ef7e789060cd67f14e134239c8fd55b1e8a7f8d09.mp3]",
                 "姓名"
             ],
             "guid": "y3}n./hSJ",
@@ -4258,7 +4558,7 @@
             "__type__": "Note",
             "fields": [
                 "Mund / Öffnung",
-                "kǒu",
+                "kǒu [sound:hypertts-2dc370f1e9193466258df6b454dc074f447d2291a4fe8f168bf431e5.mp3]",
                 "口"
             ],
             "guid": "yK7xXrm$@z",
@@ -4271,7 +4571,7 @@
             "__type__": "Note",
             "fields": [
                 "Krankenpfleger",
-                "hùshi",
+                "hùshi [sound:hypertts-5d1b72438f345a132fa4653986e1a8495234fc650030093507eb856b.mp3]",
                 "护士"
             ],
             "guid": "yMeu?muN$;",
@@ -4284,7 +4584,7 @@
             "__type__": "Note",
             "fields": [
                 "Meister / Vorbild / Lehrer",
-                "shī",
+                "shī [sound:hypertts-6ba5879f43f0780f26a44aceabf7e2a43da50c686df441e739a88541.mp3]",
                 "师"
             ],
             "guid": "yl:a6&V}{t",
@@ -4298,7 +4598,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 7",
-                "qī",
+                "qī [sound:hypertts-3d8634a3dab955a4a416a4f4b712f86305e0f3c000048387d5fcb54d.mp3]",
                 "七"
             ],
             "guid": "y~kC7QT6kZ",
@@ -4312,7 +4612,7 @@
             "__type__": "Note",
             "fields": [
                 "und",
-                "hé",
+                "hé [sound:hypertts-2d0eb6905b326fa74e785371a97f3fc2b152760786fd04eb09cb50a9.mp3]",
                 "和"
             ],
             "guid": "z(z4r)AIXU",
@@ -4326,7 +4626,7 @@
             "__type__": "Note",
             "fields": [
                 "London",
-                "Lúndūn",
+                "Lúndūn [sound:hypertts-1c99853441c121aeb4e9517ae7dfd6689a3aad3ec2328cb3dbd4bd66.mp3]",
                 "伦敦"
             ],
             "guid": "z*Uy}GWcyV",
@@ -4339,7 +4639,7 @@
             "__type__": "Note",
             "fields": [
                 "Schule (gebundene Form)",
-                "xiào",
+                "xiào [sound:hypertts-710d938628a3e7f103019b979c210d380256d51b1c5b47e36bb4fcbb.mp3]",
                 "校"
             ],
             "guid": "z+5/rjV(@u",
@@ -4354,7 +4654,7 @@
             "__type__": "Note",
             "fields": [
                 "Schriftzeichen",
-                "zì",
+                "zì [sound:hypertts-bb061633b183f17dbaa9343e07473c6f474a440b43bc4f24b62e2eb1.mp3]",
                 "字"
             ],
             "guid": "z82)U)CZt^",
@@ -4368,7 +4668,7 @@
             "__type__": "Note",
             "fields": [
                 "Katze / Kater",
-                "māo",
+                "māo [sound:hypertts-02f4e9124c3c6e04be70be12cfa66fe0a15a67675de1c291d062badf.mp3]",
                 "猫"
             ],
             "guid": "z@I;X6+>[2",
@@ -4381,7 +4681,7 @@
             "__type__": "Note",
             "fields": [
                 "meist / Superlativform",
-                "zuì",
+                "zuì [sound:hypertts-9c827aae742a29d6f7c19f5f125f0199e3f78a41904a9fa15aa81d6e.mp3]",
                 "最"
             ],
             "guid": "zJgcO!VEp)",
@@ -4394,7 +4694,7 @@
             "__type__": "Note",
             "fields": [
                 "Ziffer 4",
-                "sì",
+                "sì [sound:hypertts-a9c32c6dbb471ce14a1fb21279df8e9325f68be9a1e2f3f8d49173e2.mp3]",
                 "四"
             ],
             "guid": "zrpV?Mq&.7",
@@ -4408,7 +4708,7 @@
             "__type__": "Note",
             "fields": [
                 "Jahr",
-                "nián",
+                "nián [sound:hypertts-226afada53f733f020971e9e455f122b14b594fb941416166fb1c6c8.mp3]",
                 "年"
             ],
             "guid": "zs`3!.|z2I",
