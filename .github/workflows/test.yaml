@@ -1,0 +1,20 @@
+name: Test plausibility and completeness
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install poetry
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: "1.8.2"
+      - name: Test with pytest
+        run: |
+          poetry run poe test-ci
