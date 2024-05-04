@@ -15,6 +15,9 @@ jobs:
         uses: abatilo/actions-poetry@v2
         with:
           poetry-version: "1.8.2"
+      - name: Install dependencies
+        run: |
+          poetry install --sync --with=dev
       - name: Test with pytest
         run: |
           poetry run poe test-ci
