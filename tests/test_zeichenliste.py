@@ -23,7 +23,10 @@ ZEICHENLISTE_A12 = {
     "eh_8": ("白本市心贵黑红钱件裤块来买衣服每店儿百错物", "双超购价色试售货便宜"),
     "eh_9": ("东西南远边铁方近前后离米先行走左右", "租站钟附联系楼往银局交通平"),
     "eh_10": ("喜欢火车共汽还些当然坐旅游自骑馆第", "厅参观暑假景它需颜利船览爬拍"),
-    "eh_11": ("足网球比赛想希望过会泳男能候场性别休其踢雪乒乓", "体育格队兰赢跳舞闲卷冲浪滑蹦极"),
+    "eh_11": (
+        "足网球比赛想希望过会泳男能候场性别休其踢雪乒乓",
+        "体育格队兰赢跳舞闲卷冲浪滑蹦极",
+    ),
     "eh_12": ("城从算回飞机玩或觉得历史千说应该只主意习", "实加坡兵俑"),
 }
 
@@ -48,7 +51,7 @@ def test_zeichenliste_plausible():
     for level, zl in ZEICHENLISTEN.items():
         for unit, chars in zl.items():
             assert " " not in chars
-            for ch in chars[0]+chars[1]:
+            for ch in chars[0] + chars[1]:
                 assert ord(ch) >= 0x2E80  # Start of first CJK unicode block
 
 
@@ -59,7 +62,9 @@ def test_mithanzi_field_not_empty(note: AnkiNote):
     if not req_zl and not req_readonly:
         return  # Not relevant for us
 
-    assert note.fields["MitHanzi"] != "", f"Note {note} requires hanzi, but field is not set"
+    assert (
+        note.fields["MitHanzi"] != ""
+    ), f"Note {note} requires hanzi, but field is not set"
 
 
 def test_zeichenliste_exists(deck: AnkiDeck):
@@ -90,8 +95,17 @@ def test_zeichenliste_exists(deck: AnkiDeck):
         assert len(levels) == 1, f"{note} should only have one level tag"
         cur_level = levels[0]
 
-        n_s = list(map(lambda udat: udat[0], filter(lambda udat: udat[1] == cur_level and udat[2] == cur_unit, all_units)))
-        assert len(n_s) == 1, f"{note} level and unit could not be found in unit list {all_units}"
+        n_s = list(
+            map(
+                lambda udat: udat[0],
+                filter(
+                    lambda udat: udat[1] == cur_level and udat[2] == cur_unit, all_units
+                ),
+            )
+        )
+        assert (
+            len(n_s) == 1
+        ), f"{note} level and unit could not be found in unit list {all_units}"
         cur_n = n_s[0]
 
         new_remaining = {}
@@ -118,10 +132,16 @@ def test_zeichenliste_exists(deck: AnkiDeck):
             chars.update(readonly)
 
         if (len(remaining) - len(missing)) != 0:
-            print(f"Also, {len(remaining)-len(missing)} optional unit(s) are missing characters: ")
-            for unit, (mandatory, readonly) in {k: v for k, v in remaining.items() if (k[1], k[2]) in OPTIONAL_UNITS}.items():
+            print(
+                f"Also, {len(remaining)-len(missing)} optional unit(s) are missing characters: "
+            )
+            for unit, (mandatory, readonly) in {
+                k: v for k, v in remaining.items() if (k[1], k[2]) in OPTIONAL_UNITS
+            }.items():
                 print(f"Unit {unit}: mandatory: '{mandatory}', readonly: {readonly}'")
                 chars.update(mandatory)
                 chars.update(readonly)
 
-        pytest.fail(f"Missing a total of {len(chars)} characters in {len(missing)} units: {missing}\nCharacters: {''.join(chars)}")
+        pytest.fail(
+            f"Missing a total of {len(chars)} characters in {len(missing)} units: {missing}\nCharacters: {''.join(chars)}"
+        )

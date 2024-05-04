@@ -18,4 +18,3 @@ def test_pronunciation(deck: AnkiDeck, note: AnkiNote):
 
     assert audiofile in deck.media_files
     assert (deck.base_dir / "media" / audiofile).exists()
-

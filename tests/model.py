@@ -48,4 +48,3 @@ class AnkiDeck:
     media_files: List[str]
 
     notemodels: Dict[UUID, AnkiNoteModel]
-
