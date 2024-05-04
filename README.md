@@ -1,5 +1,9 @@
 # Anki Chinesisch Deck
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![CI tests status badge](https://github.com/not-na/anki-chinesisch/actions/workflows/test.yaml/badge.svg)
+
+
 Anki Deck for learning Mandarin from German, based on language courses offered by
 TU Berlin ZEMS. Note that this deck and the rest of the documentation are in german, as
 it is primarily meant for german speakers.
