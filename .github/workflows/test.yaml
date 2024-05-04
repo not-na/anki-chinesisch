@@ -21,3 +21,11 @@ jobs:
       - name: Test with pytest
         run: |
           poetry run poe test-ci
+      - name: Surface failing tests
+        if: always()
+        uses: pmeier/pytest-results-action@main
+        with:
+          path: junit/test-results.xml
+          summary: true
+          fail-on-empty: true
+          title: Test results
