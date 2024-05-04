@@ -385,7 +385,7 @@
                     "collapsed": false,
                     "description": "",
                     "excludeFromSearch": false,
-                    "font": "Liberation Sans",
+                    "font": "Arial",
                     "id": 6119104612953251939,
                     "name": "Deutsch",
                     "ord": 0,
@@ -3384,7 +3384,8 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a1.1",
-                "eh_2"
+                "eh_6",
+                "zeichenliste"
             ]
         },
         {
@@ -5068,7 +5069,7 @@
                 "Deutschland",
                 "Déguó [sound:hypertts-a784a50d4c26cacc86f23a3a1a637ce62b0a21f3843de81fa974ca4e.mp3]",
                 "德国",
-                "",
+                "1",
                 "1",
                 "1"
             ],
