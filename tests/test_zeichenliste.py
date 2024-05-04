@@ -70,13 +70,21 @@ def test_mithanzi_field_not_empty(note: AnkiNote):
 def test_zeichenliste_exists(deck: AnkiDeck):
     remaining = {}
     n = 0
+    all_chars = set()
+    all_chars_ro = set()
     for level, ldat in ZEICHENLISTEN.items():
         for unit, chars in ldat.items():
             remaining[(n, level, unit)] = chars
+            all_chars.update(chars[0])
+            all_chars_ro.update(chars[1])
             n += 1
-    print(f"Checking a total of {len(remaining)} units")
+    print(
+        f"Checking a total of {len(remaining)} units containing {len(all_chars)} chars (+{len(all_chars_ro)} read only)"
+    )
+    print(f"Mandatory characters: {''.join(all_chars)}")
+    print(f"Read-only characters: {''.join(all_chars_ro)}")
 
-    all_units = remaining.keys()
+    all_units = list(remaining.keys())
 
     for note in deck.notes:
         req_readonly = READ_ONLY_TAG in note.tags
@@ -108,40 +116,50 @@ def test_zeichenliste_exists(deck: AnkiDeck):
         ), f"{note} level and unit could not be found in unit list {all_units}"
         cur_n = n_s[0]
 
+        # print(
+        #     f"{note.fields['Hanzi']}\t level: {cur_level} unit: {cur_unit} n: {cur_n} {len(remaining)}"
+        # )
+
         new_remaining = {}
         for (n, level, unit), (rem_zl, rem_readonly) in list(remaining.items()):
             if n >= cur_n:
                 # Remove chars from any units after the one the note is tagged for
 
                 for ch in chars:
-                    rem_readonly = rem_readonly.replace(ch, "")
-                    if req_zl:
+                    if ch in rem_readonly:
+                        rem_readonly = rem_readonly.replace(ch, "")
+
+                    if req_zl and ch in rem_zl:
                         rem_zl = rem_zl.replace(ch, "")
 
-                    if rem_readonly != "" and rem_zl != "":
-                        new_remaining[(n, level, unit)] = (rem_zl, rem_readonly)
+            if rem_readonly != "" or rem_zl != "":
+                new_remaining[(n, level, unit)] = (rem_zl, rem_readonly)
         remaining = new_remaining
 
     missing = {k: v for k, v in remaining.items() if (k[1], k[2]) not in OPTIONAL_UNITS}
+    chars = set()
     if len(missing) != 0:
         print(f"{len(missing)} mandatory unit(s) have characters missing:")
-        chars = set()
         for unit, (mandatory, readonly) in missing.items():
             print(f"Unit {unit}: mandatory: '{mandatory}', readonly: {readonly}'")
             chars.update(mandatory)
             chars.update(readonly)
 
-        if (len(remaining) - len(missing)) != 0:
-            print(
-                f"Also, {len(remaining)-len(missing)} optional unit(s) are missing characters: "
-            )
-            for unit, (mandatory, readonly) in {
-                k: v for k, v in remaining.items() if (k[1], k[2]) in OPTIONAL_UNITS
-            }.items():
-                print(f"Unit {unit}: mandatory: '{mandatory}', readonly: {readonly}'")
-                chars.update(mandatory)
-                chars.update(readonly)
+    chars_mandatory = set(chars)
 
+    if (len(remaining) - len(missing)) != 0:
+        print(
+            f"Also, {len(remaining)-len(missing)} optional unit(s) are missing characters: "
+        )
+        for unit, (mandatory, readonly) in {
+            k: v for k, v in remaining.items() if (k[1], k[2]) in OPTIONAL_UNITS
+        }.items():
+            print(f"Unit {unit}: mandatory: '{mandatory}', readonly: {readonly}'")
+            chars.update(mandatory)
+            chars.update(readonly)
+
+    if len(missing) != 0:
         pytest.fail(
-            f"Missing a total of {len(chars)} characters in {len(missing)} units: {missing}\nCharacters: {''.join(chars)}"
+            f"Missing {len(chars_mandatory)} characters in {len(missing)} units ({len(chars)} including optional units): "
+            f"{missing}\nCharacters: {''.join(chars)}"
         )
