@@ -39,7 +39,6 @@ LEVELS = list(ZEICHENLISTEN.keys())
 
 OPTIONAL_UNITS = [
     # Pairs of (level, unit)
-    ("a1.2", "eh_8"),
     ("a1.2", "eh_9"),
     ("a1.2", "eh_10"),
     ("a1.2", "eh_11"),
@@ -64,7 +63,7 @@ def test_mithanzi_field_not_empty(note: AnkiNote):
 
     assert (
         note.fields["MitHanzi"] != ""
-    ), f"Note {note} requires hanzi, but field is not set"
+    ), f"Note {note} requires hanzi, but MitHanzi flag field is not set"
 
 
 def test_zeichenliste_exists(deck: AnkiDeck):

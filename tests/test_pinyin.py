@@ -19,6 +19,7 @@ def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
             )
         )
 
-        assert (
-            len(matches) == 1
-        ), f"Duplicate note with same pinyin: {extract_pinyin(note)} (Hanzi: {note.fields['Hanzi']})"
+        assert len(matches) == 1, (
+            f"Duplicate note with same pinyin: {extract_pinyin(note)} (Hanzi: {note.fields['Hanzi']})\n"
+            f"Duplicating hanzi: {', '.join(n.fields['Hanzi'] for n in matches)}"
+        )

@@ -18,3 +18,24 @@ def test_pronunciation(deck: AnkiDeck, note: AnkiNote):
 
     assert audiofile in deck.media_files
     assert (deck.base_dir / "media" / audiofile).exists()
+
+
+def test_fields(deck: AnkiDeck, note: AnkiNote):
+    # Fields not empty
+    assert note.fields["Pinyin"].strip() != ""
+    assert note.fields["Hanzi"].strip() != ""
+    assert note.fields["Deutsch"].strip() != ""
+
+    # No trailing/leading whitespace
+    assert note.fields["Pinyin"] == note.fields["Pinyin"].strip()
+    assert note.fields["Hanzi"] == note.fields["Hanzi"].strip()
+    assert note.fields["Deutsch"] == note.fields["Deutsch"].strip()
+
+    assert note.fields["MitHanzi"] == note.fields["MitHanzi"].strip()
+    assert note.fields["MitPinyin"] == note.fields["MitPinyin"].strip()
+    assert note.fields["MitDeutsch"] == note.fields["MitDeutsch"].strip()
+
+    # Flag fields only one character
+    assert len(note.fields["MitHanzi"]) in [0, 1]
+    assert len(note.fields["MitPinyin"]) in [0, 1]
+    assert len(note.fields["MitDeutsch"]) in [0, 1]
