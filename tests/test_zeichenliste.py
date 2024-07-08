@@ -39,9 +39,6 @@ LEVELS = list(ZEICHENLISTEN.keys())
 
 OPTIONAL_UNITS = [
     # Pairs of (level, unit)
-    ("a1.2", "eh_9"),
-    ("a1.2", "eh_10"),
-    ("a1.2", "eh_11"),
     ("a1.2", "eh_12"),
 ]
 
@@ -143,6 +140,17 @@ def test_zeichenliste_exists(deck: AnkiDeck):
             print(f"Unit {unit}: mandatory: '{mandatory}', readonly: {readonly}'")
             chars.update(mandatory)
             chars.update(readonly)
+
+        all_existing_characters = set()
+        for note in deck.notes:
+            all_existing_characters.update(note.fields["Hanzi"])
+        existing = "".join(
+            list(filter(lambda char: char in all_existing_characters, chars))
+        )
+        if len(existing) > 0:
+            print(
+                f"The following characters already appear somewhere in the deck, probably with wrong tags: {existing}"
+            )
 
     chars_mandatory = set(chars)
 
