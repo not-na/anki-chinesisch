@@ -39,7 +39,6 @@ LEVELS = list(ZEICHENLISTEN.keys())
 
 OPTIONAL_UNITS = [
     # Pairs of (level, unit)
-    ("a1.2", "eh_12"),
 ]
 
 
