@@ -39,3 +39,6 @@ def test_fields(deck: AnkiDeck, note: AnkiNote):
     assert len(note.fields["MitHanzi"]) in [0, 1]
     assert len(note.fields["MitPinyin"]) in [0, 1]
     assert len(note.fields["MitDeutsch"]) in [0, 1]
+
+    # No leech tag in export
+    assert "leech" not in note.tags, "Leech tag should be removed prior to exporting"

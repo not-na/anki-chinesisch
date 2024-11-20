@@ -28,7 +28,8 @@ def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
         assert len(matches) == 1, (
             f"Duplicate note with same pinyin: {extract_pinyin(note)} (Hanzi: {note.fields['Hanzi']})\n"
             f"Duplicating hanzi: {', '.join(n.fields['Hanzi'] for n in matches)}\n"
-            f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)}"
+            f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)}\n"
+            f"Duplicating DE: {', '.join(n.fields['Deutsch'] for n in matches)}"
         )
 
         # Check that all notes with pinyin and with the disambiguation tag removed still do not match us
@@ -45,5 +46,6 @@ def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
         assert len(matches) <= 1, (
             f"Duplicate note with same pinyin and no disambiguation tag: {extract_pinyin(note)} (Hanzi: {note.fields['Hanzi']})\n"
             f"Duplicating hanzi: {', '.join(n.fields['Hanzi'] for n in matches)}\n"
-            f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)}"
+            f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)}\n"
+            f"Duplicating DE: {', '.join(n.fields['Deutsch'] for n in matches)}"
         )
