@@ -42,12 +42,16 @@ OPTIONAL_UNITS = [
 ]
 
 
+def is_cjk(char):
+    return ord(char) >= 0x2E80  # Start of first CJK unicode block
+
+
 def test_zeichenliste_plausible():
     for level, zl in ZEICHENLISTEN.items():
         for unit, chars in zl.items():
             assert " " not in chars
             for ch in chars[0] + chars[1]:
-                assert ord(ch) >= 0x2E80  # Start of first CJK unicode block
+                assert is_cjk(ch)
 
 
 def test_mithanzi_field_not_empty(note: AnkiNote):
@@ -169,3 +173,25 @@ def test_zeichenliste_exists(deck: AnkiDeck):
             f"Missing {len(chars_mandatory)} characters in {len(missing)} units ({len(chars)} including optional units): "
             f"{missing}\nCharacters: {''.join(chars)}"
         )
+
+
+def test_unique_characters(deck: AnkiDeck):
+    chars = set()
+    chars_nohanzi = set()
+
+    for note in deck.notes:
+        cur_chars = set(ch for ch in note.fields["Hanzi"] if is_cjk(ch))
+
+        if note.fields["MitHanzi"] != "":
+            chars.update(cur_chars)
+        chars_nohanzi.update(cur_chars)
+
+    chars_nohanzi -= chars
+
+    chars = sorted(chars)
+    chars_nohanzi = sorted(chars_nohanzi)
+
+    print(f"Found cards for reading {len(chars)} characters:")
+    print("".join(chars))
+    print(f"Also found {len(chars_nohanzi)} characters not being learned for reading:")
+    print("".join(chars_nohanzi))

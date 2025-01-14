@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from typing import List
+
+import pytest
 
 from tests.model import AnkiDeck, AnkiNote
 
+import pypinyin
 
 SOUND_TAG = "[sound:hypertts-"
 DISAMBIGUATE_TAG = "【"
@@ -49,3 +53,45 @@ def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
             f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)}\n"
             f"Duplicating DE: {', '.join(n.fields['Deutsch'] for n in matches)}"
         )
+
+
+def _check_match(target: str, heteronyms: List[List[str]], prefix="") -> bool:
+    our_syllable = heteronyms[0]
+
+    next_syllables = heteronyms[1:]
+    for candidate in our_syllable:
+        if prefix + candidate == target:
+            return True
+        elif len(next_syllables) == 0:
+            return False
+        elif _check_match(target, next_syllables, prefix + candidate):
+            return True
+
+    return False
+
+
+@pytest.mark.skip
+def test_pinyin_hanzi_match(note: AnkiNote, deck: AnkiDeck):
+    hanzi = note.fields["Hanzi"].split("[")[0].split(DISAMBIGUATE_TAG)[0].strip()
+    pinyin = note.fields["Pinyin"].split("[")[0].split(DISAMBIGUATE_TAG)[0].strip()
+    if "/" in hanzi:
+        words_hanzi = hanzi.split("/")
+        words_pinyin = pinyin.split("/")
+        assert len(words_hanzi) == len(words_pinyin)
+    else:
+        words_hanzi = [hanzi]
+        words_pinyin = [pinyin]
+
+    for hanzi, pinyin in zip(words_hanzi, words_pinyin):
+        BLACKLIST = " .!?-\n"
+        hanzi = "".join(list(filter(lambda c: ord(c) >= 0x2E80, hanzi.strip())))
+        pinyin = "".join(
+            list(filter(lambda c: c not in BLACKLIST, pinyin.strip()))
+        ).lower()
+
+        conv_pinyin = pypinyin.pinyin(hanzi, heteronym=True)
+
+        # Check if we can build the pinyin using at least one valid heteronym combination
+        assert _check_match(
+            pinyin, conv_pinyin
+        ), f"Hanzi {hanzi} does not match pinyin {pinyin}. Possible pinyin: {conv_pinyin}"
