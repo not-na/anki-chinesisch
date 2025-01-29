@@ -109,6 +109,7 @@
         "hypertts-09324b234073416f06f0140d29333c2938f111d74c44622db0a1c34f.mp3",
         "hypertts-0a40446e8dea3cf607adf5c4dfc3e5d7064af246e8d504d2868c35d8.mp3",
         "hypertts-0a484939cff645aecf7f5961741a930c55ce0089766f97a7dcefcf74.mp3",
+        "hypertts-0a827bf4b79113de3268af5b596ab02658e74075849e393639d54b98.mp3",
         "hypertts-0a87926227e62c615f5648eeb9f8bc2bf7fc42969cc957073d56d5d8.mp3",
         "hypertts-0ad622a18f35489fda5e019ce278fe089665a68c42abda4e042d2b59.mp3",
         "hypertts-0b0de37c0365146a5c313adfdfa457bdc571c58cd267f2ec0f24d4e2.mp3",
@@ -244,6 +245,7 @@
         "hypertts-353bfcced922621e8c4d4d52b5ba3d1223409840c0477be786f48395.mp3",
         "hypertts-357e4695ae469d26d36f0492cf8f16247c41880c34d5771fea39c502.mp3",
         "hypertts-35acc008ce39d2285865dfdb2589649e726cb145d059b89af6407b17.mp3",
+        "hypertts-35f223bb8255a501c1f47f172277527e433ea24e7af72e0aba58a4ae.mp3",
         "hypertts-364a6fa5c8099fd8930a197727d422e995e3f0fc302753e554452cc6.mp3",
         "hypertts-36e317f6093d5e96786bfaca16afbe50c1aa49b4bb5b4a9db67d9580.mp3",
         "hypertts-372b763bb549b38294d5b6f03e92f79534dcd21ca727b98a7230d248.mp3",
@@ -401,6 +403,7 @@
         "hypertts-6d69c07c3a6b2322b8e33bdcc41b22b6cb0f1c91f0ac8541a3dbff3c.mp3",
         "hypertts-6d901818cffad16bed2cbe54f222d23e0403b8e427e0ca4145cc1318.mp3",
         "hypertts-6dfa7ee65b26d162d04277792f0f19ed822e32cd0177ba91ae537000.mp3",
+        "hypertts-6e297501b5a78bb5d1ceffb8fd5e6bd5e3586e10662a2d3937a4ea0b.mp3",
         "hypertts-6e35e818c266f3d1e05de0d923cb0d29ca326f9e566033e89e42bfcf.mp3",
         "hypertts-6e416275fa7be24824d4d6420aae7bfce642f69bfd9b4609f7b66825.mp3",
         "hypertts-6e9fb8451daa0805c1d8f5f37432edf293c490e26109e5a5c47732dc.mp3",
@@ -516,6 +519,7 @@
         "hypertts-93549c445f5ed97361def427b9e58ce11b82a5a28cfb7e3cc8a55176.mp3",
         "hypertts-93fbe36b8bf4cf1431e950a7777e3c55809166dfe707d02379796776.mp3",
         "hypertts-94312ca97e2c8ff0a9bf3cfe59be69f7bd45c855c7eab0e79746a879.mp3",
+        "hypertts-9502b629fb57f2fe112c1c0d7b5d0047f8fb13f169b78013b9520783.mp3",
         "hypertts-9560c1a0009001e484c6aeb0589572d051f2f206c56e36f6bebedd6b.mp3",
         "hypertts-9606d83e6a306d9ba45abf9091528ab21ea51125ef42d5733c535a9a.mp3",
         "hypertts-9607a483222cec483a297c4be2b421fdd6f67d2b317b2323e5f88047.mp3",
@@ -621,6 +625,7 @@
         "hypertts-b35f934208975b37a383d2e0e5b2b430b5b12e93fad241c6bf7b6601.mp3",
         "hypertts-b4d6b776396745be2c5ccbf2c75eac052c2709e832c583110adf331f.mp3",
         "hypertts-b54905c4cae422b64d5e36b92f6bd8453ac6d6462002b9d8f0254cfc.mp3",
+        "hypertts-b5651d6ee68ce854addc105c7d4ce11a16fec847400351dc8ace6385.mp3",
         "hypertts-b58c3ed6a29650bce8b679ca82dfab6de660d7f3a49d7cf368f67539.mp3",
         "hypertts-b5db5dfab3372bf29bec8acaa92942b294cc59ab3d73a090070e5f08.mp3",
         "hypertts-b63c9f8d20473364530197810306ce42afd54f3342a3f2ad38dbb5c2.mp3",
@@ -631,6 +636,7 @@
         "hypertts-b80c793c7d782b5a38965b7846dba9bacdedee91ca05c45b2c4f1f36.mp3",
         "hypertts-b878e697df7b6cf62dc221bffd6bd7e65a1577e7127217f1fdf84b41.mp3",
         "hypertts-b913226edb932fdf030a864c5b927dd15f53a45214e37d3bcde0969c.mp3",
+        "hypertts-b935e2a3cd9256e4f6a6d0488c77f7d41fe394c78c8b42728b97e8fa.mp3",
         "hypertts-ba0aed98c1cc923ccabdf7130731b66fd24162d0766f39691f69e968.mp3",
         "hypertts-baa36a643dc8643df240dda8e825eb46edd1dc83d701ca1ff8ee1890.mp3",
         "hypertts-bab5e78f10d4305f3d3627779eaf9fa7f0665dedcf45ffe782d4fe18.mp3",
@@ -1837,7 +1843,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Stunde / Uhrzeit",
+                "Stunde, Uhrzeit / Punkt, Dezimalpunkt",
                 "diǎn [sound:hypertts-8846913eef5c9f2d0fe936e9f4d5b2bcf94fe864d7b5dc25824038ad.mp3]",
                 "点",
                 "1",
@@ -3869,6 +3875,22 @@
         {
             "__type__": "Note",
             "fields": [
+                "legen, drauflegen, platzieren, freilassen",
+                "fàng [sound:hypertts-6e297501b5a78bb5d1ceffb8fd5e6bd5e3586e10662a2d3937a4ea0b.mp3]",
+                "放",
+                "1",
+                "1",
+                "1"
+            ],
+            "guid": "I^xWH%i*$@",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "mitbringen, mitnehmen / Accessoires tragen",
                 "dài [2] [sound:hypertts-10fb2e06db0fdb359242717f869e0c2571bc8065ea5ce02480c11ef7.mp3]",
                 "带 / 戴",
@@ -5015,6 +5037,22 @@
                 "1"
             ],
             "guid": "M8,[I1Z1NO",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zum Beispiel, beispielsweise",
+                "bǐrú [sound:hypertts-9502b629fb57f2fe112c1c0d7b5d0047f8fb13f169b78013b9520783.mp3]",
+                "比如",
+                "1",
+                "1",
+                "1"
+            ],
+            "guid": "M>,]g%QxbP",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
@@ -7781,6 +7819,22 @@
         {
             "__type__": "Note",
             "fields": [
+                "Haltestelle, Bahnhof, Station / stehen, stehen bleiben, Haltung",
+                "zhàn [sound:hypertts-0a827bf4b79113de3268af5b596ab02658e74075849e393639d54b98.mp3]",
+                "站",
+                "1",
+                "1",
+                "1"
+            ],
+            "guid": "e`:nn^D#Ts",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Sie (3. Person Plural)",
                 "tāmen [sound:hypertts-8e66d24fd4750bfcf3cd189c528858b80fc061e41b02f26d450a1a1d.mp3]",
                 "他们",
@@ -7793,6 +7847,22 @@
             "tags": [
                 "a1.1",
                 "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stoppen, (Auto) parken, aufhören",
+                "tíng [sound:hypertts-b935e2a3cd9256e4f6a6d0488c77f7d41fe394c78c8b42728b97e8fa.mp3]",
+                "亭",
+                "1",
+                "1",
+                "1"
+            ],
+            "guid": "exC1?a3=!^",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.1"
             ]
         },
         {
@@ -8119,6 +8189,22 @@
                 "1"
             ],
             "guid": "g0|Ie{D+a:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leise sprechen, sanft sprechen",
+                "xiǎoshēng shuōhuà [sound:hypertts-35f223bb8255a501c1f47f172277527e433ea24e7af72e0aba58a4ae.mp3]",
+                "小声说话",
+                "1",
+                "1",
+                "1"
+            ],
+            "guid": "g9lKy(r>Lz",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
@@ -13995,6 +14081,22 @@
                 "1"
             ],
             "guid": "ysj5<iQ(*V",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "meistens, größtenteils, Großteil",
+                "dàbùfen [sound:hypertts-b5651d6ee68ce854addc105c7d4ce11a16fec847400351dc8ace6385.mp3]",
+                "大部分",
+                "1",
+                "1",
+                "1"
+            ],
+            "guid": "yt^JXql!iB",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
