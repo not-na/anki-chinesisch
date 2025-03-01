@@ -11,18 +11,26 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "hypertts-0d6ff50c85725b80136bae6a89f3e9e46938fdcdfbe1df43f3410509.mp3",
                 "hypertts-0db0adaf59af038d1b2a454578d7be28c76635d6b0db8288fa0d77b6.mp3",
+                "hypertts-12b1cfdc356ccf72c0f29ea1e4b1da6eb71ff6b791f7864b8db71c74.mp3",
                 "hypertts-1b0dfe9bce76e5f337f215fa06bcfdaa20379da7d9984d34a8633334.mp3",
                 "hypertts-2090635f5eefbe4efd944b24c6b646de2c6ecb85134a69fcbdcb6e0d.mp3",
                 "hypertts-28cfbf97a283adb095fe7749f9603520e56fd22c40c0a5d10521d7ac.mp3",
                 "hypertts-2e0aeb68f67d8f792b88624f811619586c9f2ca150de3501b7e37f9e.mp3",
                 "hypertts-4a6e2b80a9e56dc9fcd0bd1ac2c340ebc8a262e1211996b6b3a4c217.mp3",
+                "hypertts-5f4860b627c916b5dc120bb02b9d69fd247586024a4452d134d57d34.mp3",
                 "hypertts-62013a2bae3a4a848085df6aedb9c796531f00f6d6dbea59b1270b55.mp3",
+                "hypertts-6775226b3e612ccbe6ab655b74b934547ce7c932df3e9fe741c58774.mp3",
                 "hypertts-71dab231a3253ae2609a523775df3fc04da341a2298baeb9426fb4ce.mp3",
                 "hypertts-73bc53243f28758b1e5fa1dd80a6b465718dde6ad17dae2b8d61d6f1.mp3",
+                "hypertts-7df174b6657be481c89bccae7c779731406c4bb469754f0b10413c2b.mp3",
                 "hypertts-8474a727cf05a658d16d3f474a3d16b415b5068a8022045c673fcb83.mp3",
+                "hypertts-92e82edfce896276070b808a0935f5634fd97fa5aa0fdca60989b65e.mp3",
                 "hypertts-af286f8d9f0c5b9b54af44c9695b631cf0ee8471597b2e011606f279.mp3",
+                "hypertts-b33817b6b22c25cfb7529a947b76ef2e06683338f08996f29b14945d.mp3",
                 "hypertts-b5cccabd1a30adedb25f13fdbe82dfa80d776c55d4b50e9924a16b06.mp3",
+                "hypertts-c64c46acb615b4fbfe6f6bcf709a0b25beda3dad641959cf49712963.mp3",
                 "hypertts-d4270ba858478dba625323c648c9d21bcc118b6a6b087f9e4bc1fe70.mp3",
                 "hypertts-e5e9d4e189cc7d0d8ca88c960d1065960097c8ab3661907a05c08db3.mp3",
                 "hypertts-e8a4abe30de08d7569c3b8f25313effe637a68c86ca811e873f55bb5.mp3",
@@ -51,6 +59,25 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Wann öffnen Sie?",
+                        "Jǐ diǎn kāimén?",
+                        "几点开门？",
+                        "[sound:hypertts-6775226b3e612ccbe6ab655b74b934547ce7c932df3e9fe741c58774.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "ApD]5t[]K|",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Welch' abscheuliches Wetter!",
                         "Shénme guǐ tiānqì!",
                         "什么鬼天气！",
@@ -61,6 +88,25 @@
                         "1"
                     ],
                     "guid": "B>Pe]=cK>y",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich habe es nicht verstanden.",
+                        "Wǒ méi tīng qīngchǔ.",
+                        "我没听清楚。",
+                        "[sound:hypertts-c64c46acb615b4fbfe6f6bcf709a0b25beda3dad641959cf49712963.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "EDF!daa!^c",
                     "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
                     "tags": [
                         "a2.1",
@@ -89,6 +135,25 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Haben Sie verstanden?",
+                        "Nǐ míngbái ma?",
+                        "你明白吗？",
+                        "[sound:hypertts-7df174b6657be481c89bccae7c779731406c4bb469754f0b10413c2b.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "GX9{w~Mz_Q",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Darf ich auf die Toilette gehen?",
                         "Wǒ kěyǐ qù xǐshǒujiān ma?",
                         "我可以去洗手间吗？",
@@ -103,6 +168,25 @@
                     "tags": [
                         "a2.1",
                         "lehrbuch::unterrichtswortschatz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Prost!",
+                        "Gānbēi!",
+                        "干杯！",
+                        "[sound:hypertts-12b1cfdc356ccf72c0f29ea1e4b1da6eb71ff6b791f7864b8db71c74.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "J`1b^G=|JZ",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
                     ]
                 },
                 {
@@ -210,6 +294,44 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Ich verstehe (es) nicht.",
+                        "Wǒ bù míngbái.",
+                        "我不明白。",
+                        "[sound:hypertts-92e82edfce896276070b808a0935f5634fd97fa5aa0fdca60989b65e.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "cz)YKK<sJU",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kann ich mit der Kreditkarte bezahlen?",
+                        "Kěyǐ shuākǎ ma?",
+                        "可以刷卡吗？",
+                        "[sound:hypertts-b33817b6b22c25cfb7529a947b76ef2e06683338f08996f29b14945d.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "h,CW1|$ugc",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Wie spät ist es?",
                         "Jǐ diǎnle?",
                         "几点了？",
@@ -286,6 +408,25 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Bitte sagen Sie es nochmals.",
+                        "Qǐng zài shuō yībiàn.",
+                        "请在说一遍。",
+                        "[sound:hypertts-0d6ff50c85725b80136bae6a89f3e9e46938fdcdfbe1df43f3410509.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "t>_wUmi}X3",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Nimm unbedingt einen Schirm mit!",
                         "Bié wàngle dài sǎn.",
                         "别忘了带伞。",
@@ -319,6 +460,25 @@
                     "tags": [
                         "a2.1",
                         "lehrbuch::unterrichtswortschatz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo ist der Ausgang?",
+                        "Chūkǒu zài nǎ'er?",
+                        "出口在哪儿？",
+                        "[sound:hypertts-5f4860b627c916b5dc120bb02b9d69fd247586024a4452d134d57d34.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "yNK~/],:8F",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.1",
+                        "lehrbuch::taschenformat"
                     ]
                 }
             ],
