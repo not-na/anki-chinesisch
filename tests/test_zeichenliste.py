@@ -67,6 +67,9 @@ def test_mithanzi_field_not_empty(note: AnkiNote):
 
 
 def test_zeichenliste_exists(deck: AnkiDeck):
+    if deck.name != "Chinesisch":
+        return
+
     remaining = {}
     n = 0
     all_chars = set()

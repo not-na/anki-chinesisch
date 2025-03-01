@@ -38,6 +38,8 @@ class AnkiNote:
 
     fields: Dict[str, str]
 
+    deck: "AnkiDeck"
+
 
 @dataclass
 class AnkiDeck:

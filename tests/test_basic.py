@@ -1,23 +1,50 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
+from pathlib import Path
+from typing import List
 
 from tests.model import AnkiDeck, AnkiNote
 
 
+def get_audiofile_from_note(note: AnkiNote) -> str:
+    match = re.match(r".*\[sound:(hypertts-[0-9a-f]{56}\.mp3)]", note.fields["Audio"])
+    assert match is not None, f"Pronunciation not found in note {note}"
+    audiofile = match.group(1)
+
+    return audiofile
+
+
 def test_basic(deck: AnkiDeck):
-    assert deck.name == "Chinesisch"
+    assert deck.name.startswith("Chinesisch")
+    assert " " not in deck.name
     assert len(deck.notes) != 0
     assert len(deck.notemodels) != 0
 
 
-def test_pronunciation(deck: AnkiDeck, note: AnkiNote):
-    match = re.match(r".*\[sound:(hypertts-[0-9a-f]{56}\.mp3)]", note.fields["Pinyin"])
-    assert match is not None, f"Pronunciation not found in note {note}"
-    audiofile = match.group(1)
+def test_pronunciation(note: AnkiNote):
+    audiofile = get_audiofile_from_note(note)
 
-    assert audiofile in deck.media_files
-    assert (deck.base_dir / "media" / audiofile).exists()
+    assert audiofile in note.deck.media_files
+    assert (note.deck.base_dir / "media" / audiofile).exists()
+
+
+def test_unneeded_audio(decks: List[AnkiDeck], notes: List[AnkiNote]):
+    basedir = decks[0].base_dir / "media"
+    all_media = set((basedir / f).absolute() for f in basedir.glob("*.mp3"))
+
+    for deck in decks:
+        assert deck.base_dir / "media" == basedir
+
+    for note in notes:
+        audiofile = get_audiofile_from_note(note)
+        all_media.discard(
+            (note.deck.base_dir / "media" / audiofile).absolute()
+        )  # Don't care if audio is missing, may be used more than once
+
+    assert (
+        len(all_media) == 0
+    ), f"{len(all_media)} unneeded audio files ({len(notes)} notes)"
 
 
 def test_fields(deck: AnkiDeck, note: AnkiNote):

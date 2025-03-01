@@ -2,35 +2,51 @@
 # -*- coding: utf-8 -*-
 import json
 from pathlib import Path
+from typing import List
 from uuid import UUID
 
 from tests.model import *
 
 
 def load_deck_from_file(filename: Path) -> AnkiDeck:
+    return load_decks_from_file(filename)[0]
+
+
+def load_decks_from_file(filename: Path) -> List[AnkiDeck]:
     assert filename.exists() and filename.is_file()
 
     data = json.loads(filename.read_text())
 
+    return load_decks(data, filename)
+
+
+def load_decks(
+    data: dict, fname: Path, name_prefix="", note_models=None
+) -> List[AnkiDeck]:
+    decks = []
+
     # Create basic deck info
     deck = AnkiDeck(
-        name=data["name"],
+        name=name_prefix + data["name"],
         notes=[],
         media_files=data["media_files"],
         notemodels={},
-        base_dir=filename.parent,
+        base_dir=fname.parent,
     )
 
     # Load all note models
-    for nmodeldat in data["note_models"]:
-        ctype = CardType(UUID(nmodeldat["crowdanki_uuid"]))
-        nmodel = AnkiNoteModel(
-            name=nmodeldat["name"],
-            uuid=UUID(nmodeldat["crowdanki_uuid"]),
-            ctype=ctype,
-            fields=[fdat["name"] for fdat in nmodeldat["flds"]],
-        )
-        deck.notemodels[nmodel.uuid] = nmodel
+    if note_models is not None:
+        deck.notemodels = note_models
+    else:
+        for nmodeldat in data["note_models"]:
+            ctype = CardType(UUID(nmodeldat["crowdanki_uuid"]))
+            nmodel = AnkiNoteModel(
+                name=nmodeldat["name"],
+                uuid=UUID(nmodeldat["crowdanki_uuid"]),
+                ctype=ctype,
+                fields=[fdat["name"] for fdat in nmodeldat["flds"]],
+            )
+            deck.notemodels[nmodel.uuid] = nmodel
 
     # Load notes themselves
     for ndat in data["notes"]:
@@ -45,10 +61,18 @@ def load_deck_from_file(filename: Path) -> AnkiDeck:
             cardtype=nmodel.ctype,
             tags=ndat["tags"],
             fields={nmodel.fields[i]: v for i, v in enumerate(ndat["fields"])},
+            deck=deck,
         )
 
         assert len(note.fields) == len(nmodel.fields)
 
         deck.notes.append(note)
 
-    return deck
+    decks.append(deck)
+
+    for child in data["children"]:
+        decks.extend(
+            load_decks(child, fname, data["name"] + "::", note_models=deck.notemodels)
+        )
+
+    return decks

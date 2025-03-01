@@ -17,7 +17,7 @@ def extract_pinyin(note: AnkiNote) -> str:
     return pinyin.split(SOUND_TAG)[0].strip()
 
 
-def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
+def test_pinyin_duplicate(note: AnkiNote, notes: List[AnkiNote]):
     if note.fields["MitPinyin"] != "":
         # Find all notes with the same pinyin
         # Can be disabled by adding a tag with the hanzi to disambiguate
@@ -25,7 +25,7 @@ def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
             filter(
                 lambda n: n.fields["MitPinyin"] != ""
                 and extract_pinyin(n) == extract_pinyin(note),
-                deck.notes,
+                notes,
             )
         )
 
@@ -43,7 +43,7 @@ def test_pinyin_duplicate(note: AnkiNote, deck: AnkiDeck):
                 lambda n: n.fields["MitPinyin"] != ""
                 and extract_pinyin(n).split(DISAMBIGUATE_TAG)[0].strip()
                 == extract_pinyin(note),
-                deck.notes,
+                notes,
             )
         )
 
