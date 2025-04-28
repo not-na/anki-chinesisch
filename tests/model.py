@@ -32,11 +32,12 @@ class AnkiNoteModel:
 @dataclass
 class AnkiNote:
     guid: str
+
+    fields: Dict[str, str]
+
     cardtype_uuid: UUID
     cardtype: CardType
     tags: List[str]
-
-    fields: Dict[str, str]
 
     deck: "AnkiDeck"
 

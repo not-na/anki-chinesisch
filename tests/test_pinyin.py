@@ -31,8 +31,8 @@ def test_pinyin_duplicate(note: AnkiNote, notes: List[AnkiNote]):
 
         assert len(matches) == 1, (
             f"Duplicate note with same pinyin: {extract_pinyin(note)} (Hanzi: {note.fields['Hanzi']})\n"
-            f"Duplicating hanzi: {', '.join(n.fields['Hanzi'] for n in matches)}\n"
-            f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)}\n"
+            f"Duplicating hanzi: {' / '.join(n.fields['Hanzi'] for n in matches)}\n"
+            f"Duplicating pinyin: {', '.join(extract_pinyin(n) for n in matches)} => \"{extract_pinyin(note)} [{len(matches)}]\"\n"
             f"Duplicating DE: {' / '.join(n.fields['Deutsch'] for n in matches)}"
         )
 
