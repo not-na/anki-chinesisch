@@ -29,18 +29,22 @@
                 "hypertts-4a6e2b80a9e56dc9fcd0bd1ac2c340ebc8a262e1211996b6b3a4c217.mp3",
                 "hypertts-4c0a422f603b4dd0fd7961a25e6d658451965f0637c2acdfeac6db4d.mp3",
                 "hypertts-4f234abb32e6d40c55bfaf513d6393d3c8023a9006d4a20512d9b458.mp3",
+                "hypertts-51a7483bb7781a8e496f1a05ad6d2331293354c98386f7e93b29e0b2.mp3",
                 "hypertts-5443f999571e852564ef5d3d628237f3c33b7e7e198a4d92ea7abe31.mp3",
+                "hypertts-58caddaa9ab994066ef01af7c10a2af3359f8c7511de3ea0a836a39c.mp3",
                 "hypertts-5f4860b627c916b5dc120bb02b9d69fd247586024a4452d134d57d34.mp3",
                 "hypertts-62013a2bae3a4a848085df6aedb9c796531f00f6d6dbea59b1270b55.mp3",
                 "hypertts-623f4292588a8c1e74e3d26d2a1880773b3a13c90712518a99516000.mp3",
                 "hypertts-65fc20c7cf7f5003c78712f7debef641906dd2d959e7a01481f23bb1.mp3",
                 "hypertts-6775226b3e612ccbe6ab655b74b934547ce7c932df3e9fe741c58774.mp3",
                 "hypertts-6b307f8e3fcc7bc3a9d09657fb71f2c5b9c5d58444880a5591dc0320.mp3",
+                "hypertts-715585a6b28946f70ca539157b91ba448f6a1aa8360601a479a53673.mp3",
                 "hypertts-71dab231a3253ae2609a523775df3fc04da341a2298baeb9426fb4ce.mp3",
                 "hypertts-73bc53243f28758b1e5fa1dd80a6b465718dde6ad17dae2b8d61d6f1.mp3",
                 "hypertts-7df174b6657be481c89bccae7c779731406c4bb469754f0b10413c2b.mp3",
                 "hypertts-835395e204af833cd0a80168661f15d8a1b1a142ba5151490ebef172.mp3",
                 "hypertts-8474a727cf05a658d16d3f474a3d16b415b5068a8022045c673fcb83.mp3",
+                "hypertts-8cad91a1be473596f38b8859f4a0b5b473129d417c6cd5d9be4ef9f2.mp3",
                 "hypertts-92e82edfce896276070b808a0935f5634fd97fa5aa0fdca60989b65e.mp3",
                 "hypertts-9402929f8c7f50c29e76c4ebf5a2058f930469ff67327fcc8869e3a3.mp3",
                 "hypertts-9621fa7e7d9781eb12ac1d9c14182aa4749ab9ceea2476c684112452.mp3",
@@ -214,6 +218,44 @@
                     "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
                     "tags": [
                         "a2.1",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pass gut auf dich auf!",
+                        "Duō bǎozhòng.",
+                        "多保重。",
+                        "[sound:hypertts-8cad91a1be473596f38b8859f4a0b5b473129d417c6cd5d9be4ef9f2.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "F2PC;<$-La",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.2",
+                        "lehrbuch::taschenformat"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Du siehst kränklich aus. / Du siehst nicht so gut aus.",
+                        "Nǐ de qìsè bù tài hǎo.",
+                        "你的气色不太好。",
+                        "[sound:hypertts-58caddaa9ab994066ef01af7c10a2af3359f8c7511de3ea0a836a39c.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "FAc3WY]Kp+",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.2",
                         "lehrbuch::taschenformat"
                     ]
                 },
@@ -454,6 +496,25 @@
                     "guid": "OW5V^~6B}u",
                     "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Geht es dir etwas besser?",
+                        "Hǎo yīdiǎn erle ma?",
+                        "好一点儿了吗？",
+                        "[sound:hypertts-715585a6b28946f70ca539157b91ba448f6a1aa8360601a479a53673.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "PeCcv~,_rC",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.2",
+                        "lehrbuch::taschenformat"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -1026,6 +1087,25 @@
                     "tags": [
                         "a2.1"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gute Besserung!",
+                        "Zǎorì kāngfù.",
+                        "早日康复。",
+                        "[sound:hypertts-51a7483bb7781a8e496f1a05ad6d2331293354c98386f7e93b29e0b2.mp3]",
+                        "1",
+                        "",
+                        "1",
+                        "1"
+                    ],
+                    "guid": "zzoA<wZ){z",
+                    "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+                    "tags": [
+                        "a2.2",
+                        "lehrbuch::taschenformat"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -1135,6 +1215,7 @@
         "hypertts-057029f485db9677c4eb80bcba6ff6f69aa27bcdcbcc1cfacdb9ca9e.mp3",
         "hypertts-05b2357c512c2ff6f2526f5a3d1d61b4eb6a97466fc01ccc8ffe76f8.mp3",
         "hypertts-05b7afd1020280f5490aee6a6ff95e1cae06b3d549c9ca5266a8b4a9.mp3",
+        "hypertts-05b9d4fabf71e470deda1fa4bc91350aeab7a028ca72485fa75b8b90.mp3",
         "hypertts-05fe8ff5865556614dab93079211b7ba83358f68a679ffdd6ca227f3.mp3",
         "hypertts-0625868202bf5f27ffe43bfa38d37dd5c28e03dd4eb816558b42af20.mp3",
         "hypertts-062a3c70b55d7495fc44b3bcc6aa50cd64b86448fd9b2ea3177214a3.mp3",
@@ -1173,10 +1254,12 @@
         "hypertts-10dce4d7bbe533d3052a7b3339f297258903a1618885a562bcd4a8df.mp3",
         "hypertts-10de10e40e212d7b7a33f0f7c93a346f071df977951d13c255ef90ee.mp3",
         "hypertts-10fb2e06db0fdb359242717f869e0c2571bc8065ea5ce02480c11ef7.mp3",
+        "hypertts-110de885a1d76f4a71ff8fe38191af94f3a92ff6868c04b2b797e3a1.mp3",
         "hypertts-11b7e48777dfd93b44fd41a50d240ec8215e70b0350a255a8d80dc17.mp3",
         "hypertts-11bb41928edef72ba8070e8cdddeeb5d5f5e79748180c79ef8f5a4da.mp3",
         "hypertts-11c146be685c40cfc9f0ce4190c7d8dc833bbc421d3d57a77cee1520.mp3",
         "hypertts-1201dbd2adc83bb03704548652156e9a0d0a34cf800443977fdbe062.mp3",
+        "hypertts-122609833d76287d5200d632a743734efc5d503c1220584a92c6d5b8.mp3",
         "hypertts-124e1189bb3223ac721e36dc398724177ae1bf3a7fdef5d303d93b55.mp3",
         "hypertts-12ea1a167cdbf29d71e77ffc1af6f914b9872f9ee00e428325e52cd8.mp3",
         "hypertts-13ff2be45de40faafb4a7ac38a0bd031a78ef1321f227b4535b929bd.mp3",
@@ -1195,6 +1278,7 @@
         "hypertts-18e91329cf38844af995da548dfb12846267bb67cdac00fb0499770e.mp3",
         "hypertts-19479f188d80b55227c9c16ea0c51d8c1f012fa41a30f59e13c88cca.mp3",
         "hypertts-197aea8ba7c4e2f9084fb29bacf7b3cf3f2172374d5f81d371e63059.mp3",
+        "hypertts-199d0f12bfb6ccf2b5254f48cbf9b4579decef908e1d51bd047c0aab.mp3",
         "hypertts-19b167179f61087d7ac0d19b87b60c718ec7a1d8b8a0084fcacad33e.mp3",
         "hypertts-19f70fe4b7a4d027a891f59552a18343fe8802e19d767921ef0a1be3.mp3",
         "hypertts-1a102376e94c0647975876de24e83387acb3ddec6acb14a5542ac27a.mp3",
@@ -1224,8 +1308,11 @@
         "hypertts-1f002e532261f1afb44575cdfe9dc68c0fdf009da2bca1fe96720a08.mp3",
         "hypertts-1f1275e6fc4db3611c4f6410b1d888e5d6d3b33aa78314744f1e9ef4.mp3",
         "hypertts-1fc708012e6d0940891cb9e5c2ff404ad7d47ad870cb8808a6d0f8a4.mp3",
+        "hypertts-2004561e9528d7056ff773b2ca0b4d7062d40b894f8b7d49a6edd062.mp3",
+        "hypertts-201c5580be554a7590852958cf0c2aff516041efbda99a48043acf96.mp3",
         "hypertts-202b9e3196c56802178a00f00a591ff8512f135828195967a28b1d6a.mp3",
         "hypertts-202e7a19f6a17a48746f7cf7cbe608561d57aaae802f2a1c4ae8ee90.mp3",
+        "hypertts-20559c0d25eef33ccc7766bdf3c52bc53748a537e0deec90d13e3c7c.mp3",
         "hypertts-205bbc7f9b35e4c41d532ca494340d319c0746f1a6e8576fc7bf147a.mp3",
         "hypertts-20c8a34d7b82769e6aa9732802617669a6cc086a45afb37d43619503.mp3",
         "hypertts-20df9bce8fd68420b86970cae05cc0c9c2f82339117c37d63ae47294.mp3",
@@ -1248,6 +1335,7 @@
         "hypertts-25471dda5aaa9d0760f28d63f2c47fb09794c6c3ec19321944bffd4b.mp3",
         "hypertts-256f9404ed608da8b269cdde246bf65d3922f87dc1ada22bf3e3879c.mp3",
         "hypertts-2594e8cdf0b1b5010829656086a4bf73341944b40df50c647b4a1409.mp3",
+        "hypertts-259e5884013096227fff27d4f69f851f45f4f51e4d28f7fa9b8d88f7.mp3",
         "hypertts-26002d5d4a750a37c84c2fa98b66f36a447ed99be866c50697276282.mp3",
         "hypertts-26764c28dad056a911801101febe5e30d347f76d2e72dd7b5c2c0ec8.mp3",
         "hypertts-268a49d5cf014dd958338a05ff2f432502a767980d07cfcaaff12144.mp3",
@@ -1258,6 +1346,7 @@
         "hypertts-272bf6feaa50829b1d96e67e31088154688a0e0dffaad9e8d571ce15.mp3",
         "hypertts-27397f04e1ee9c07cbf13c737dfbc426143f4f87a59977ca972abf13.mp3",
         "hypertts-27b722ca372190c421c038f17d338611ea30f218ccb416a8a5c988a1.mp3",
+        "hypertts-27d2aa2c10f873b46ca825dcb636f982731f768ac9e3185401973700.mp3",
         "hypertts-281c29663883d3eaa6cebf0313d1651f656f113ef0360730debd4e92.mp3",
         "hypertts-2820a02368a45ea5586e0f25ea7d0fe0ff2b09ab32d8cffc65551129.mp3",
         "hypertts-283a9fe6acc15c320af34c568c2c927bb334d943b3b8a4a89e20f5b5.mp3",
@@ -1289,6 +1378,7 @@
         "hypertts-2f0b3631f67af301a262cd4a8c271dbeed797be2638278ccff30ae4f.mp3",
         "hypertts-2f15d831459f28d09ac794b24028525e1aed8f204463508b2fd01af3.mp3",
         "hypertts-2fbdd7545bd34b58b68fd35394f6b92941919a6aaf6f853be28b6b35.mp3",
+        "hypertts-2ff965836ec8abed75a48a3b56a82145d127ecb65d839eb59a6d0d18.mp3",
         "hypertts-304fc738cbfe9cd309a36dd6b3a332f953d653daeee4d69ee115be83.mp3",
         "hypertts-30db15e88084595eba8dcd5627dcad3494830a6c933ac9b0429847a4.mp3",
         "hypertts-3147ebf80275c31f019a8e0feece0acc5307e248726208e1d6c08570.mp3",
@@ -1306,6 +1396,7 @@
         "hypertts-349e34c96f3baa642750508e666b9c01bd31c46a1dfed45810e8d522.mp3",
         "hypertts-34eb708c59b92710bc7c41731cc3a921cf5df4adba36108328b04290.mp3",
         "hypertts-353bfcced922621e8c4d4d52b5ba3d1223409840c0477be786f48395.mp3",
+        "hypertts-354d76dec95e907090d1b0ee6e089d178db26a3e43a352e124d08666.mp3",
         "hypertts-359f96af87b0df1ce84258d49494599292819d7d1f4ebdb2879868e9.mp3",
         "hypertts-35f223bb8255a501c1f47f172277527e433ea24e7af72e0aba58a4ae.mp3",
         "hypertts-36978c876cc66512b12f52467778c9a6cf71696c5cb4a44db09b3878.mp3",
@@ -1329,6 +1420,7 @@
         "hypertts-3b120c01c2442bd391fd827b65505334b408dea05481c10b6b8724f1.mp3",
         "hypertts-3beb5e91b27e1d69b9e885989f8bf97b5ad73bd19ee27dc94a955405.mp3",
         "hypertts-3c3fc18d595d846212ba44db71f17ad44c6727d29fbc8eb841fb3774.mp3",
+        "hypertts-3cb3752840fff83b4e59721a99f37d327db7f4a878b05ca346cb5102.mp3",
         "hypertts-3ce026a505547f0bc0eb9aa323891ed864b23c0c7bbba7f21604d8ac.mp3",
         "hypertts-3cfc7634e161f68de4424f5962b612489180221d3c96518c3bed8cd5.mp3",
         "hypertts-3cfeca7168815db05ffd5bf21ebe03b63f8ac52d08fc343903c94356.mp3",
@@ -1341,11 +1433,14 @@
         "hypertts-3e964fecbc6e229219b1aa45383693c0f3982bd4f3f2b1ec5df3c888.mp3",
         "hypertts-3ecd42dd49744ff8a0b00673ee98dc23007b392ecf688ca9ec65d042.mp3",
         "hypertts-3f13f246844df85349d005da302e15ca6ee437013c9a012c262d2e48.mp3",
+        "hypertts-3f40354d0efe2d8255af15513d395b5d697a24aafc1930b3077ed21a.mp3",
         "hypertts-3f57b3b3198553781cf0d33445621f90ce34879eb0e108da376d9c75.mp3",
         "hypertts-3f5835e0546207292cdd8d0671b80dc3aaeeda0f9865484653c1b26d.mp3",
         "hypertts-3f7bb2cee9a261022e3fafb73d6b811e604d7e9b880b84db62b73faa.mp3",
+        "hypertts-3fab19d939283dfdda1cb78ce249649d3f907fa9f4e5519b00f56d64.mp3",
         "hypertts-3ff3098c17a2ccac5378f2d286b5d8c09a93ccdf6da4f843c146904e.mp3",
         "hypertts-4018ab4104bbf53615b695058963b0e886adea3c4b9492588fe19a82.mp3",
+        "hypertts-40bb98218ee05bc182b32ea74cce2ce74894d32e416aed3371266b30.mp3",
         "hypertts-40f33094740915424e5aa71933188f5d2d20e060aeae6bd3f0a648da.mp3",
         "hypertts-410ba51fe1d35c0d1ab4959717b273430c52753cfb9f9a8d3a39fd71.mp3",
         "hypertts-4151b65e7ebc7b7e3c501f679579ae7e0ce825c06a324f172a9aa493.mp3",
@@ -1361,6 +1456,7 @@
         "hypertts-4364da57f5dcd20a3b740632be785edfe7fb4813a0c5137d5b24e0a6.mp3",
         "hypertts-43c150d1ceb54efa876b9ab18155d5a4a4bf5a864295e22d53a16e11.mp3",
         "hypertts-44199b9f177ba32c596c09ec5637c25f77667c413ddbd01e6fbcf0a8.mp3",
+        "hypertts-4448a4b31c680086b9079aa4c67c361a2fc4d118d8e07f95cefca22e.mp3",
         "hypertts-4481f4792a173f2fcf9722d306182a5d4a7d9524f9f05d91739fef20.mp3",
         "hypertts-4504db8f90c74800d588b82d108bf2ec24f9ee14784ac92e26303255.mp3",
         "hypertts-456cb9de73d84e5c954f83aa5b83877fb3fe94675ee9f2f5a834552a.mp3",
@@ -1374,6 +1470,7 @@
         "hypertts-47ad0998b1c53cb48d1b65d8a66a688b888ed8d045f40b2c001bdcb8.mp3",
         "hypertts-47cc67ef1fa3cd354de20ba6df682f2325d96f53723dc6df004293c8.mp3",
         "hypertts-47febde6f6168b97a75e3f2cd7dc7527a415be8b8e44441391feb599.mp3",
+        "hypertts-489074ee1f85cbc2a576a280bd38a2d90d27157490a3d071e4d3f358.mp3",
         "hypertts-48ebb4a1f18e526e10a6b6132622de8dd4ab3c010f4486593138f8de.mp3",
         "hypertts-4989285264d01bc6b608a4b749d94b2a27a0b6e5ccb04761bdb40bd2.mp3",
         "hypertts-49a67170e6b03f7dd12f51684f9e0feac0e4c85aba4653d60f8e77f6.mp3",
@@ -1390,6 +1487,7 @@
         "hypertts-4cb453e26090b74cf6fb7911979af6ef3132003e840083ef10607be3.mp3",
         "hypertts-4d01830bb3870013956b0b647f0dd4ccb16aba6082c4e9d274106c77.mp3",
         "hypertts-4d082b2b9c86e4fd09399b2cc0c8c6cd2627948338a927d9774bdd36.mp3",
+        "hypertts-4d3511753be063458b80f383ccedaf2dffafe01a080816ec4cac70f7.mp3",
         "hypertts-4d5c11c2d181093c118b960d07e6e32ff06a0fdc698d9faa26703310.mp3",
         "hypertts-4d8fb574ecdde7f2f4324ec65234dd8d41149b5211c8fc07267c0e25.mp3",
         "hypertts-4df3cb56ec22d55426bd7c6c93c200655731eb180558d4ef41a75bcd.mp3",
@@ -1405,6 +1503,7 @@
         "hypertts-50a8fb80095aeb189d06f611d2133c0c4a558d43c2533aff8ed92cf9.mp3",
         "hypertts-50d9555344526bcb275351020c987a56d7190226ad3f8a3faeb9cc5e.mp3",
         "hypertts-511006b8f640a25a559055dd65fcb6f42c204593753813c17fa47920.mp3",
+        "hypertts-514ef31e914c155a9bb71c2edaa95c971d6ad54605c44852e512b01d.mp3",
         "hypertts-51a044db6ca9066793362f096d3631a64f4fbabac8a7e2fce8a79506.mp3",
         "hypertts-51cae439b44be06dd46407c90533149b9680ab562b9c8552a5599b99.mp3",
         "hypertts-51f11ba9e9c1427fe45252e4cb80fd3a0fb31f38ddf08491a1865380.mp3",
@@ -1434,6 +1533,7 @@
         "hypertts-585865fb36d63267ed3012bfeabad289c0292080dd5dc70832a33981.mp3",
         "hypertts-589600af1110455f47032a6683a7c084755b86ebe6165742ddbbc5dd.mp3",
         "hypertts-59068327632f3045145aa3038d824004cb42212f238173a576dd2e0c.mp3",
+        "hypertts-5915bbcb5356ec8fc295fd405a2311d193ed5a018941b0ab0d4cc939.mp3",
         "hypertts-59628ba27096f139ce08fd04d31ef6ab6d284f9809991c2b7f8760f6.mp3",
         "hypertts-598294f80a95eee966efd964263c6b929f7959242f51c5cce1dda833.mp3",
         "hypertts-59ad1bb093b620c9defe10f20f8afc76d0c135f825da7fa955844116.mp3",
@@ -1450,10 +1550,12 @@
         "hypertts-5d3e137993997ee46ce62222eec8e480bb6fd52d9d3a77d94ca92b60.mp3",
         "hypertts-5d674ca4bb4bca331cbd8644591831af17ca00a5d27392e01a1ff599.mp3",
         "hypertts-5da3144866c5cfeb20a549119cb8e3a6b2084b0182277245389d8665.mp3",
+        "hypertts-5dcf1118b2595e318c26477bf5357b2858181e280b5e402cf08b9109.mp3",
         "hypertts-5de199d552e64a5447f3849f2ce99dd92362c626f8ade44395238320.mp3",
         "hypertts-5de6fbaf5056137c13c3c76e6353e13c88570af3f5d9fef283883348.mp3",
         "hypertts-5df5178e6e0aa9307745cb21d46fb51a130b279e13cdfd5120776f2b.mp3",
         "hypertts-5ea9989f8f512143c7dbb1a90e76ce594df3a9e01a402b5d8545ab72.mp3",
+        "hypertts-5eb22ee0205ca53ca4143c65fe69c192ea3d72a8f32ecf3d47ac2b0e.mp3",
         "hypertts-5eefcfc4f745ed2279930ef4b25e3bcd4c6042d7c08ca339d22e73eb.mp3",
         "hypertts-5ef9a70724b12ef1a21c495289a2c0dff88502f80f17ee1ab434ab2f.mp3",
         "hypertts-5f03c8fae4e9252846dcebfcc0e0c7246c34998c62e7cffe979b6022.mp3",
@@ -1474,6 +1576,7 @@
         "hypertts-620c05b015e0013608e9f116882b6b06daefcea68aa4dd0e7ab292f7.mp3",
         "hypertts-623730d3a622679a1fb170793fa1ac9bbc0e98e3e6ea6c3fc6617499.mp3",
         "hypertts-6287ad6c3120b17d8edcfa0c4f52c5d854a31568ab1086da3f1c670c.mp3",
+        "hypertts-628817870d5de3754bb406795112a1696aef473450d0e8be52711077.mp3",
         "hypertts-62e30584db014b9bb68dfb056e5bfcaac4aa38797970c41eb4a2832c.mp3",
         "hypertts-631427ae19d255d3fafebb74f4d1691b971be81e9b6d7196e4b70238.mp3",
         "hypertts-634c21f507d579ff803a9a3a331578f61a4dda6078c6313f5ee4563f.mp3",
@@ -1496,9 +1599,11 @@
         "hypertts-675def94d901cecd3cb5fe991d52a9b9c9b752cc16410dcd022b20f2.mp3",
         "hypertts-677c3700142d26aeafa27d1555c5cf39f493a7ea8aa8ae6ff206ebf3.mp3",
         "hypertts-6846ab92fffc91ce986aab4b2ca0cd54a88ecda149e7e33277a34fb0.mp3",
+        "hypertts-685f970b10eb0a4d76e95b1ff457e53807a9e95bde50c9a7a9cfbe60.mp3",
         "hypertts-686d529adefb4945ed391281fdd72fd9a7ec1b16211734066d3dc8dd.mp3",
         "hypertts-688e67f0ed6e864b1d616b51eb55ee75b27953eb07455a543b2f761a.mp3",
         "hypertts-68e796cdd8244e5e2cad7a06de5246d23a5c21684d25523ba42fe8c7.mp3",
+        "hypertts-68fe31da08b0c6296212288292b4cf758f95be433edf3c048c23cc31.mp3",
         "hypertts-6971a22829e3732366ffda20065c52308232106ea6020e70daa864b2.mp3",
         "hypertts-697bffd88f3ecf78eab79bafa6223642984d32bc0cdcc19934607b59.mp3",
         "hypertts-698398c830cc137be4b44fdb2e237d7c2f708b46a7688288991f66e6.mp3",
@@ -1516,6 +1621,7 @@
         "hypertts-6d058c56d5020375e5e36b6d474eb280da506919de5db00dcac6034e.mp3",
         "hypertts-6d328a6c205b9e7b8d27e31bfc95df3430d56edf08379e1edc637a21.mp3",
         "hypertts-6d69c07c3a6b2322b8e33bdcc41b22b6cb0f1c91f0ac8541a3dbff3c.mp3",
+        "hypertts-6d82be53850da78e35cee8d71de79da75c30d5244b56abd989be2aeb.mp3",
         "hypertts-6daefb42514f7aabcc48b399da8525bd76777ed98f166676c6b8f88a.mp3",
         "hypertts-6dfa7ee65b26d162d04277792f0f19ed822e32cd0177ba91ae537000.mp3",
         "hypertts-6e2383fe8e3b74d508e40f4558a06d3f2d2b59bfd95ec2de7fba07b1.mp3",
@@ -1523,6 +1629,9 @@
         "hypertts-6e35e818c266f3d1e05de0d923cb0d29ca326f9e566033e89e42bfcf.mp3",
         "hypertts-6e7d513e3c8b66a8a9583dd3099adea51168161def0e9267f163b56a.mp3",
         "hypertts-6eba0e1a11be9c40c44efe53ca3fe9b3e0c186232ba1f18aed3427cf.mp3",
+        "hypertts-6ec530e95e9e7d520fd84fdcd19f33e16fb0d8016066d93c7292d3f5.mp3",
+        "hypertts-6ef5d057602df7155e49bf3dafd7ecee0d9eee5edb37cdb5c5d08a40.mp3",
+        "hypertts-6f03bc79386339bb467ba7f20ef31cfb6838909c7c07acf2d8b90fa0.mp3",
         "hypertts-6f3794a541d65bb6693d6ee0ad4c9028b8540b86f462e0197b55ba5f.mp3",
         "hypertts-6f477e5374a15fa7051fb5e319cce252c619291d9b9f1edfe9da4ecd.mp3",
         "hypertts-6f737346cc5770ed987b41e07a43503fd752ab977135a1dd53325cda.mp3",
@@ -1542,6 +1651,7 @@
         "hypertts-73b47d0f0cc93320a95e6819c72118ac0a62ad5aa248196b51ef540a.mp3",
         "hypertts-7416d6c3ee4b86fc9dfca3afa92e2bad3a2b8d6e485d9ce313bf3b7a.mp3",
         "hypertts-74547d3f2bbac1452fb51b6f2ec4600bfbc85c9c49808d8b967314bd.mp3",
+        "hypertts-745aa62c34d6068aac264a1d4cb823dd2df436a6efc38399477877e5.mp3",
         "hypertts-74d7c075a88868c9602033d05a08983256e84cfaf38a433d02ed2463.mp3",
         "hypertts-74fd8e87fd9b5f21ea48d2a5220da43a7c5d73ed80b5d437abf1c715.mp3",
         "hypertts-75ec8b3e63fe590ab73fa1eddb275d62b4f320b81eb54183880ae11e.mp3",
@@ -1595,13 +1705,16 @@
         "hypertts-802040ac65fa06f0fc1adbfa1c2a08a1ab4a3f3428c3e8f9d12fc343.mp3",
         "hypertts-8027818e34b722425addd87889f8807e034e670f80903f02ea28cccd.mp3",
         "hypertts-803f09a1eaa4e77b2ba0943077711592c8d1ee1c24cb75d52dfafd50.mp3",
+        "hypertts-806daf0ccf9c38216a8433ecadbf586a0822076d48116ccfe934ecaf.mp3",
         "hypertts-80b8a8786268a5e7e0a850223679f97a6a051b59a0e41c83943c0e8e.mp3",
         "hypertts-81865e77ef88c73f97d09b7d1ed1d5e06bddd3102def82bd3f504017.mp3",
         "hypertts-818f43bca1397f71eee927271c546f2d4a84d9174bfc6f9e908fda19.mp3",
         "hypertts-81abf136b4c093a371123ce7001c25599fbde2b760b83b72770ef76c.mp3",
+        "hypertts-81c65a9cad8b50e6dc96a37d94c11d0667f080acf6324b4a88265f6b.mp3",
         "hypertts-81fc3775803ee96a5affe1374a018b29f114356a22114b122b09d56d.mp3",
         "hypertts-828ff6cc5f77b17594c8ded5534f66584b8e748654fd65c249283828.mp3",
         "hypertts-829e8eaa4e6d875bd52c996b2310d3c103faba13d30dc84fccc4227d.mp3",
+        "hypertts-82c16a4ec0bdbc5ddb5365ac0df5b188e3d7a0512a485c3cf9a5718e.mp3",
         "hypertts-82e976df683bdd7166972756bc475d47abf95222f18772edeb9a67d9.mp3",
         "hypertts-838c77eaef5b855dc15ad93d67a5274e48157aa2d70f4ee98fff2bfa.mp3",
         "hypertts-83e245998b5f81150d17f49c59a165833c876c0f02e5303c9a1afa69.mp3",
@@ -1624,6 +1737,7 @@
         "hypertts-87fb63d684961ebeaa28f05daf6db72c9eaa2b816a148f553a781a20.mp3",
         "hypertts-880aff4b2bbfa1f1472210f8a15caafc8b2e2df419e441d2fe245093.mp3",
         "hypertts-882b5b5ad128ec571f6f7b427bb954ec8c95fda211e2ddbf86c100db.mp3",
+        "hypertts-883a8f038a98a8c25ab1fbd0d34a4de81a1b5894f3544649cdd83999.mp3",
         "hypertts-887981c9f9a89196b545adbcfc1b42879dd24ca8065e4f0e84240993.mp3",
         "hypertts-8896bc5b5c0efd717c96a15e94bb878251baff271c11a49bf46ecb60.mp3",
         "hypertts-8898492a0ba6548d4a7a5a3d244e18f942817734ee25762317141c10.mp3",
@@ -1645,6 +1759,7 @@
         "hypertts-8c7ece7cbf9a8b2eb81f0c92fbe4fc6f44b149081a3e28cefecead05.mp3",
         "hypertts-8c862f674258749f313e88f3a8985bb61d59819bb8d1fe8b2bbb0167.mp3",
         "hypertts-8cb0cf1eecbfc38d6df1854228454d2afba61833991c1e0c97ae0184.mp3",
+        "hypertts-8cdb9516d3518f082e97352299578478749c58bdefecfde7399c8d29.mp3",
         "hypertts-8d2215250e1f238b723cf3b42caa2e7451e7ce4d05b4a3d690a35a04.mp3",
         "hypertts-8d273ee77b0b3b695aa4fec8b2d23bcb886e3964974c50472a04493e.mp3",
         "hypertts-8d689ba32092852668fc0c86d965733f817e07f079a34039c6a5fb24.mp3",
@@ -1659,12 +1774,14 @@
         "hypertts-8f865115361795d73e341d3b97836375ed34dd0aaed7ccd9518ba767.mp3",
         "hypertts-8fa3e824b59ec7a2319137b9a1ba616d9d270f107e4db86554a56e36.mp3",
         "hypertts-900d27dcd115fc50779381754b6ddf449c3e979edc072bd62d45f0be.mp3",
+        "hypertts-9013348a6654f756536113dd515b66d159cf92435df374339aa71712.mp3",
         "hypertts-9032fb71e943e3d8527d5dd8196e2a8a8f00db305e7b8ff1b401f634.mp3",
         "hypertts-9061145006e0a828438a7eafef2e15ae9a1ded326772016e36f69308.mp3",
         "hypertts-90976fc6e281ec770d9ac94a1a1e566f3b3ead47fc1685cbc492096d.mp3",
         "hypertts-90d9755e1e8a886e084aa15792f6ce5372d0386d172691290e1f01b7.mp3",
         "hypertts-90f35a6d8213c4de0bfac9c10a157c21d218c8856cc77eb4d0f3b8c5.mp3",
         "hypertts-91448014fcc9fb06646e0f78e97ddd4fd064fd5a22134e4dc65f1de0.mp3",
+        "hypertts-91d2ce7bcd7d6d6b72cae8b8a951210941ff10438911d5909210763f.mp3",
         "hypertts-92f0da2a52443f9ebd78903e9dab411e4c4a0e3757141374d6c75b40.mp3",
         "hypertts-93658c05a005a104cd7e39982dcb9414edd484c32b116592f137ba68.mp3",
         "hypertts-936ed1958a838b06234d016353a4f18fd1d6349f4525bb6259f38f73.mp3",
@@ -1672,6 +1789,7 @@
         "hypertts-93fbe36b8bf4cf1431e950a7777e3c55809166dfe707d02379796776.mp3",
         "hypertts-940848bd634b8542459078d766a9ce1cc91e8086366fee6ee3a2e224.mp3",
         "hypertts-94312ca97e2c8ff0a9bf3cfe59be69f7bd45c855c7eab0e79746a879.mp3",
+        "hypertts-94540f365a8078170851b65c5e8d2c887f49145907264a73ebacd823.mp3",
         "hypertts-945903d1a05bad5dd3afaa43c27b37823a6a34c657baf1a1bc9e0d16.mp3",
         "hypertts-9502b629fb57f2fe112c1c0d7b5d0047f8fb13f169b78013b9520783.mp3",
         "hypertts-951572eaee4e7e64a7abe5a4cf0c287463e199baeafe214ea4af4121.mp3",
@@ -1699,6 +1817,8 @@
         "hypertts-98d27d71fd8685b1f5a57126d5d08733f3785582f33834f11e6e06ec.mp3",
         "hypertts-98f488ebd1d70b86cfd98466b77f920aeeaa8cdabe007ef147282eef.mp3",
         "hypertts-98fcea401953116abb61cbe27e8decf1f25d98a1284599e86f3224df.mp3",
+        "hypertts-9985ab5b5e234d70ed5efa7321e887b073e1290bab3c9acdfee826bf.mp3",
+        "hypertts-9988673b0ecca926f3555bf4b7f4e0101d81e62a13e5caf4d709cfbe.mp3",
         "hypertts-99af269fc1ad0d2405292963d6a71317a628b3adbe7df350eca083cb.mp3",
         "hypertts-99f78951b66ed973698b06c9258c090e3a6dee64180539aca378b411.mp3",
         "hypertts-9a28dacfbdc3d657337d7159dd030aad42ae3539c74829778bd25e93.mp3",
@@ -1714,9 +1834,13 @@
         "hypertts-9c6a10a38d13b7d0ce3ebe7c5e59ef9ab1a1921f8e6b1051de5dc061.mp3",
         "hypertts-9cc4e84a5a22e76d36887f55efde99e44cea3d0b7339d556f16f664a.mp3",
         "hypertts-9ce4a9c11a01f59cf812d1172be29442d2479ef2b31f2966126449fd.mp3",
+        "hypertts-9d5d6d4baba3db7cd9b3c8b79e5dcd0d7016389621a596e95020c1e9.mp3",
+        "hypertts-9d691b6e2ab2d951bce2f0e2f071fe4ec463f951c31c5a4dfac2c94b.mp3",
         "hypertts-9d8252c40719c237bfdf0b7bb2cd95f0ff6c4eac02c05499d2d79ab1.mp3",
         "hypertts-9d8bec3ee703444d93eba4506ce63de9969ae3e6cad9e425ce0f104a.mp3",
         "hypertts-9dad06a920e238801902a40de4e18f2649c10f4c767f66aec3a611e1.mp3",
+        "hypertts-9e1f32cda461cc6ef99db0a2b97de85f106d47e40f4d851d2260bd14.mp3",
+        "hypertts-9e3397327eac3c35d182ed31c27eed41d93656aadb0e7600f43e9203.mp3",
         "hypertts-9e3cd421ef3c9786009501232a97f578dc7e99b5e1db1cc7ae1e62b2.mp3",
         "hypertts-9e7158d8377b4251e09331ccaf68eda3f1c1540232d5073fee333155.mp3",
         "hypertts-9e8b57dcd235742da5fee2642b704774ba4f410741993b27bb5775bd.mp3",
@@ -1732,6 +1856,7 @@
         "hypertts-a286fee37e079bb8d8595713bd01858cc2b318aac5ade198f03ac515.mp3",
         "hypertts-a2c2763bd8fdffa3231c20edd319b25fc9f1cd19279634bbed075a70.mp3",
         "hypertts-a2d58b116edea995c23ad32bd255614a2a50abf99b8472290c4eb1bd.mp3",
+        "hypertts-a2efdb4dc5a1f65001f7e381a1e3320a641e48bca640731d9a0702d3.mp3",
         "hypertts-a3867032a4594c684853cb2040e19de17631600fcbcbf6b0189faa94.mp3",
         "hypertts-a403c2210ec8f405b70c208cae18d7df6f83205b7fa868831969d381.mp3",
         "hypertts-a45f350072c3fdbcf53069b0522f3053dd43dd80eebf2e63e1046214.mp3",
@@ -1749,12 +1874,14 @@
         "hypertts-a7faf1c938fa1aa63ff90b0b588b5cb559c2a5d0adb15a1768665be4.mp3",
         "hypertts-a83c0da5f840b2bb8f92727eacd3c9262953dfeea13644a2db241188.mp3",
         "hypertts-a8556906d86feb14aa7aaa1f383a0692bb7be03a74884744653bd4a8.mp3",
+        "hypertts-a879fe9543582fa02472180ce070e95e46eae37336e56b2d8c65f651.mp3",
         "hypertts-a967e3aa58d5f55e851fe4b29eef422f028c2a5a92f76db988fd13ee.mp3",
         "hypertts-a98be983c18960ad06a4ca2d194f236e3ac6e600ced0961c292cbe08.mp3",
         "hypertts-a9c54e486cdeff4f46b719aefc11e72147d22f7bec26ea8c55281a86.mp3",
         "hypertts-a9dec544df4530091a3a180e24c716daed15e28e047efd5b8e5bf3db.mp3",
         "hypertts-a9fc91adf5ad9586635541eb56402902575803629eb1c36b43088de2.mp3",
         "hypertts-aa086c057aff04f4887f00d613ed60eaa116f2cd065c98554abff765.mp3",
+        "hypertts-aa4715e508ed95ed332064fbaea0c8ecdd9406f5b3b1c4f6cbca46fd.mp3",
         "hypertts-ab0ee4a260d8b461bf2049544bd31908d47ddc853b88c8c666800596.mp3",
         "hypertts-abdc29846e1daf77ff85878a0225007487dff495cb81c3bc7408cbd0.mp3",
         "hypertts-ac66329a9a8bab963149ee0ff8f53467805c3b83b75c2a7a4c37c12e.mp3",
@@ -1765,6 +1892,8 @@
         "hypertts-af28a99d60536c5f51028f8bdea3aa428ce6f3214bc364a255799acb.mp3",
         "hypertts-af2e1bdf78171f67c46a19d399981b47e89f61c59301347262991d0f.mp3",
         "hypertts-af9fc028b565306ff1a018f6ab3ada914b6ccee706840ef84e8ccd87.mp3",
+        "hypertts-afcb6c4a9d516e65ca597cd06136279ee29a3ae302e65d8db750eeea.mp3",
+        "hypertts-afd8273fe18273dac7f0e1651be473ef222a83cdc4625759ab924a2c.mp3",
         "hypertts-afe229217fcc08ed2dd9ee93db576c75bb34c59bed84b02b42147c27.mp3",
         "hypertts-b019590264e159665a087cb444eada8629436a7a1931bc7cf435f4c0.mp3",
         "hypertts-b0351ebc8033a936d2bb48d419d581e6833fcb3b7e87110a2a00e5d2.mp3",
@@ -1782,6 +1911,7 @@
         "hypertts-b4c246d378b4cdef225006005552af1e76316545ee45d8760129c1bc.mp3",
         "hypertts-b4e16cd51732bbf93a23e44ec73b2d12d04bb3f1baac1e5032fdaea2.mp3",
         "hypertts-b4f8bc506b354e4c52e739c2f8a61cdca3185110b64f0d2a8ec0242b.mp3",
+        "hypertts-b552edc2f9cd53c716c591cdd2b00e3c90a8e66e43620974053914ee.mp3",
         "hypertts-b5651d6ee68ce854addc105c7d4ce11a16fec847400351dc8ace6385.mp3",
         "hypertts-b5daffb76c9149a3636d46de0c2337c10004ce78ae6600766c155898.mp3",
         "hypertts-b5db5dfab3372bf29bec8acaa92942b294cc59ab3d73a090070e5f08.mp3",
@@ -1807,6 +1937,7 @@
         "hypertts-bc01af18bdee9f23054a1060f86e5db6b2f9312c3445d7dd6b565c27.mp3",
         "hypertts-bc2950fcf73178a189c63a62431a99c80d43e934a9d875cb89ea7b4b.mp3",
         "hypertts-bc40f4c0c923b00671b16d8abd9dd95f2765bc4b83e85e5b7b361c2b.mp3",
+        "hypertts-bc4ca2ee7c3e68d818507ea951bb47bd5b9d590b4d355a7fc8192ea0.mp3",
         "hypertts-bc914324a97467a0ef8dabf2a458a49adca8ac0a799f3e5af00387d0.mp3",
         "hypertts-bc922f2cf6572d4019f4f40d3f6dae868dd07bb0e83dafcf40470481.mp3",
         "hypertts-bca54a8459bb0c4ea09cb5a8367fb16890a3e667d5ef7edcecb62c76.mp3",
@@ -1816,10 +1947,12 @@
         "hypertts-bd12193865f00b75e7845b9ce0f2c1a0de8c00d2e49952cc04e22525.mp3",
         "hypertts-bd1924003a7b40679ceb7ca933f7e2882fe2e540cff50854ca8c7709.mp3",
         "hypertts-bd97ad1b1a8fe78eb0d70bc22f2a138474d02212783cfede73209fd9.mp3",
+        "hypertts-bd9e9a3eb5f4605f1f9468002c5a70b9d64cd501f767c7b0769b9c25.mp3",
         "hypertts-bdb6a09a063509aa3da1ebd2c688db265f77dcef1d983ce81de75606.mp3",
         "hypertts-bebaf09c3e481c35164a7c59eadf654ed678d463ef0fd263e01a7e5c.mp3",
         "hypertts-bec33ce6f81559c29f9eaa3408f588419b16ae30690b1cbabffaf1ab.mp3",
         "hypertts-bed17663eaaa21326470b9d1010b33dc25f118a58bb7f36e5d9cd3e6.mp3",
+        "hypertts-bf04087038ab9fb739f3bbb5849451e7a826a99f0d80b6af7f06cfa1.mp3",
         "hypertts-bf088d4ebeee24b7ed7dc09aaadff1791315da463679959f258e82be.mp3",
         "hypertts-bf56dd4efefd3ede1afdda4ac9d889a767a070a75fb49a3910142ded.mp3",
         "hypertts-bfb139def6524428cd29a8f3f7b0feaa3ed54820703a8000181478c3.mp3",
@@ -1842,6 +1975,7 @@
         "hypertts-c59674dde14cceefc34a1edc0624f4a68b9c098a33d530459b78cd44.mp3",
         "hypertts-c5a5ea4d8f6083da3ae7c2cc8a08888523252496035e6ddbeb42fde0.mp3",
         "hypertts-c608e5857f375d84ef9faba993e63554eb3151310179a50a403a77d7.mp3",
+        "hypertts-c650a8159a2b73cd1b06e014a4192d9cef4c7cd055ccd2a4afe5b53c.mp3",
         "hypertts-c675226583dce494fec306f261246b27605bdceb915d3efd47cf31e6.mp3",
         "hypertts-c69e6e7a4d2943211e0d3453f685e1cba3291ae3f44bc1de44ac69b0.mp3",
         "hypertts-c6b51f3d6e857095706a791551d68fe44f608725be95cbd5efdc3fc8.mp3",
@@ -1870,9 +2004,11 @@
         "hypertts-cce3802a99223b5ed0f2e536f4c267a8794f8858784fe1d1f0c64af1.mp3",
         "hypertts-cce5f10f186518a9e4f7a09f0e0623a97b269f547ff54e186a464ecf.mp3",
         "hypertts-cd39cfe3fa5f8b7237ceef306b48699c6c5f397d1a78c33ceb131e1c.mp3",
+        "hypertts-cd44268f70e3d105dfc149202d489a3a2470cf1d6958e8b09deca284.mp3",
         "hypertts-cdf8ee87d0bc7c26a9ba2c3a302785981755453aa3ebf91d274ca7bd.mp3",
         "hypertts-ce089a175c743868bda6a11932d2c548763580dc04a3c27a81ad9ce6.mp3",
         "hypertts-ce13dde4149bd54483a40d523811c9a3ddc6bcbc09eb9d5958972aa2.mp3",
+        "hypertts-ce991e6ff7e0292aa2338b411edb1ad58ccaeadd719ec881715c01a1.mp3",
         "hypertts-cea71051e181d91d74a9bd2bd3a2a2c01d99ea51f9872175213563ba.mp3",
         "hypertts-cef0e4e38b3ad3b2162ece5ff2edd60b7e81aa9fc506b7a33b677d45.mp3",
         "hypertts-cf4c5c2f71d52389142411984aea9a4434048a6b7de2892c1b573f20.mp3",
@@ -1896,6 +2032,7 @@
         "hypertts-d52bd5a998c5a226b9d59c5f83ab801655659afe93bf61b596e61b46.mp3",
         "hypertts-d5359cf22298287184c1a4086be09359b87d6e66107f7a3091060b3d.mp3",
         "hypertts-d577563e788c9257320d1c682ccc88555af87a332a995839192ce51a.mp3",
+        "hypertts-d5b46148ef8b83e411c0c0b90eeb8c61c2ce22c26470959eedf402e2.mp3",
         "hypertts-d61d443e7423f089fba7931d63e4ac3168907d2992ed6718def85b8f.mp3",
         "hypertts-d61d9bc1c5dfc56ea85a9b88c7d2ab9922fe6f03971c4b9200506baa.mp3",
         "hypertts-d63d3abf19ca8caf762d48f14104599d38450dae280a440e8002c220.mp3",
@@ -1947,6 +2084,7 @@
         "hypertts-e28167162e377b4a464ce2d4038e796452c5d22b3390c828e0f4ce73.mp3",
         "hypertts-e289541f5480e35338e5fc2aa84f54a475dd11124a873a4f65ca97f0.mp3",
         "hypertts-e2b3ac737e84ecf043d28acbf241947fc11c42f6359d16bcb8ffa5cd.mp3",
+        "hypertts-e309e923b49f586037db56bd8e3650e64920391b741afc1cac8a9ed1.mp3",
         "hypertts-e325fe66528b1f12461a7445f6965597c054eb82db0bac27a6f37d75.mp3",
         "hypertts-e361f145bcf5c48f63c228b9f922c659add538cb4449425f0ea5aa3f.mp3",
         "hypertts-e37a1532915639afeb5b1327286aa390c8608f0798f214b115c6f86b.mp3",
@@ -1958,6 +2096,7 @@
         "hypertts-e44ec6e006cb3c72bb350e41933ba690cd08fe54ef1ccbc1b9e180e1.mp3",
         "hypertts-e45edbd11d964e75af75b4ced2c116c475c5912ab2e84e8cf407dbc4.mp3",
         "hypertts-e49a5827859b131037e5f3207837f487ba9062f307828dcdd694e235.mp3",
+        "hypertts-e4e4b059f56746372282f895cec405edc443a88ace271a29dce35efe.mp3",
         "hypertts-e519dcf58615c06a806c39f2aee5ea0f7888c8640eae7f6c6b40c74d.mp3",
         "hypertts-e547d7c547759f9c55ed1800a6b63094521f7f2509080bb98576d9f0.mp3",
         "hypertts-e54840a17cc6ad2ebe732b0972049607b58671d7db1f15591ae45730.mp3",
@@ -1982,6 +2121,7 @@
         "hypertts-ecc172f1c68b2cf543a41af101bd77038ddf347435d9f6f0c6060819.mp3",
         "hypertts-ed0a7b876fa4d2be4c9f582767422e84dbb068ae38c214fd42629ba5.mp3",
         "hypertts-ed17e883fa59f33863f56d33bb1f2b7efb7fa452b1ac1357b673d5f4.mp3",
+        "hypertts-ed8e3f889fb1ca5c64bf66cc5f8f19fefd461bf6f1f7898d784a381f.mp3",
         "hypertts-ed94e1c2e799dcc43495600fa712d81cc4232c7f13321384d2d79c2f.mp3",
         "hypertts-ee8fbb56a569dfa580c42583c0263b91223479bca51b7b998d6e18cc.mp3",
         "hypertts-eeb8756375ef22868f82d51706e0cb2929b40a3e5660f56a6c62f32e.mp3",
@@ -1992,6 +2132,8 @@
         "hypertts-f00b2c96c664280fa8aafc9237646247d9e44795da1aefc88f12cd04.mp3",
         "hypertts-f01b1234121316f20e4303cecaca2d227f6b2e5b9f7bf89661ab9156.mp3",
         "hypertts-f01c46a89fc023f4366e4856de9ebc64cb6ee548d614c52f69b0b27b.mp3",
+        "hypertts-f0765247627a91ea1ab516d29024f8d3134ca819a176eead6692affc.mp3",
+        "hypertts-f0e48b65875cc58c46a69e8c085bbd809c006df8441704630bbcd314.mp3",
         "hypertts-f0e491a05866999119e7aac3d860281f02e1751eeab82f512c731e6d.mp3",
         "hypertts-f102b506f4664efeb078be4ce63fe1ae6b726d59894f3d9c4d764c48.mp3",
         "hypertts-f10c9d1203c18eb755cd0abecf8b03a1c1efc1c69d21872a9ffc91e2.mp3",
@@ -2016,17 +2158,21 @@
         "hypertts-f5fd417f75ef0d76c7206c983707ab11a6d4e834a5b72917e5cec5c3.mp3",
         "hypertts-f611fb2c0575cc3a63db01293842ca066fbbed002512a51392e52950.mp3",
         "hypertts-f6693c329af64d4953829f66e6fbd5d88d20eca6229c14de47a873b5.mp3",
+        "hypertts-f7230b4ffd3d1326ce8d8862a04d0b6ac7b3af81f14766c31c7eae7f.mp3",
         "hypertts-f74bade6c5f74390dea5ace6df60cb88ead1ab9496678ba250633247.mp3",
         "hypertts-f76ae511246b7a322e9e81183d0c477d69f337b22d42cc2b6392fb58.mp3",
         "hypertts-f79f34bfcbb0cfbd28cd9426c5885b68492649b88ddb9e7ae656d7d5.mp3",
         "hypertts-f7fc07af2cff4a38b1d0759cf81a03fa317b38eda39dda10388defdf.mp3",
         "hypertts-f83d972366621f9adbfd7880c1662b746ab37f2cb0f9a4c3da6bf8ec.mp3",
         "hypertts-f86c911e32e61b7e7de1754d662efae2ef91cd6050654be46751e4dc.mp3",
+        "hypertts-f89aaea78ddb59d7e055f856498a917507da66511cae5c7e1b346122.mp3",
         "hypertts-f8ff200da119923583beb5472374bfe974d00aeab5f8ad18df75d51a.mp3",
         "hypertts-f923a4c18cec01792b02f5407a2a60a882efb1267a0bbb500886dcd2.mp3",
         "hypertts-f924ce688d62ddaae3f28df1a77720c675ab5a7f1425ae86e3e87076.mp3",
         "hypertts-f9e75f22b9a26d43a74121b679d7d69ef79457de356227a57b9dfcf9.mp3",
         "hypertts-f9eebea62a32d8a37529d4bddc4556737d8214d0202e837fb8677584.mp3",
+        "hypertts-fa289d2edc091d79926392a30798aa804856231ece6fc3d29fd628cc.mp3",
+        "hypertts-fa59b2777b0dc7d8e59260335265ea902162079924c07c8bd80c1dbb.mp3",
         "hypertts-fab3bbf76e78ebfb05df79824341c916b82c130a012e8a817913ad4a.mp3",
         "hypertts-fac6a23b505f6d80fd75a56e603401f5b9cb1169df49676e16362f9b.mp3",
         "hypertts-fb2b4e03ffecf86cff7f68853ab87fba2c55d0d8f449704f2acb8068.mp3",
@@ -2041,12 +2187,14 @@
         "hypertts-fc1734ee37c18cd925001125118d0f0cc5f24e970b1d04ac0c364d92.mp3",
         "hypertts-fc200c5a3ea031ee0b70fd107022bd6ea39c953adf4311e247ae7cb9.mp3",
         "hypertts-fe1fe0b905b3fd40ab0fe9f05aba8458286094068e5c6e93f4acd2f1.mp3",
+        "hypertts-fe274e8844ba5c6bb5f0cfb6a888b536f143ab4d063e67edc8b58217.mp3",
         "hypertts-fe2e8867899f0c779078703c328635de9ff61eb19b45dfa5d24a333b.mp3",
         "hypertts-fe7f7633d72f818dfda64a62eb5a19f7b6e21ca106202fe45c19ec0e.mp3",
         "hypertts-fed6f42985d1f08ec1b0864169bd2a917e3e7bf2a26ef2ff9a797dd8.mp3",
         "hypertts-ff227a6ac974760b11b64e4d21fa6156e5156a835d6783c32d2e2545.mp3",
         "hypertts-ff26579c0db1751e8d740e0f27c5eca46c9df5613112a403b77255fe.mp3",
-        "hypertts-ff820a3f4666fa95b0e2ea0a079d3d4ab1184cc22d40c5d1cd323b32.mp3"
+        "hypertts-ff820a3f4666fa95b0e2ea0a079d3d4ab1184cc22d40c5d1cd323b32.mp3",
+        "hypertts-ffd8d4dd339ba1b30bf33b385f76f731701c2c895fe663848e66825f.mp3"
     ],
     "name": "Chinesisch",
     "newLimit": null,
@@ -2351,6 +2499,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Kopfschmerzen",
+                "tóutòng",
+                "头痛",
+                "[sound:hypertts-354d76dec95e907090d1b0ee6e089d178db26a3e43a352e124d08666.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "/Xa8XN?2X",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Apfel",
                 "píngguǒ",
                 "苹果",
@@ -2486,7 +2652,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Monat / Mond",
+                "Monat",
                 "yuè",
                 "月",
                 "[sound:hypertts-7c0f30b9cfcf9dff88c481d528f0f75a45b5bc5a168f84d38bdd393b.mp3]",
@@ -2715,6 +2881,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "ungeduldig, hitzig, eilig (sein)",
+                "jí",
+                "急",
+                "[sound:hypertts-bd9e9a3eb5f4605f1f9468002c5a70b9d64cd501f767c7b0769b9c25.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "AN<]T1}C~5",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Farbe Grün",
                 "lǜsè",
                 "绿色",
@@ -2864,6 +3048,24 @@
                 "a1.1",
                 "eh_2",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "glauben, vertrauen, überzeugt sein",
+                "xiāngxìn",
+                "相信",
+                "[sound:hypertts-2ff965836ec8abed75a48a3b56a82145d127ecb65d839eb59a6d0d18.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "Aj1&^L?cCQ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -3335,6 +3537,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "(Sport-)Trikot",
+                "qiúyī",
+                "球衣",
+                "[sound:hypertts-91d2ce7bcd7d6d6b72cae8b8a951210941ff10438911d5909210763f.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "C0yM!1M>K,",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Name, Titel",
                 "míng 【名】",
                 "名",
@@ -3789,6 +4009,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Beziehung, Bedeutung, Bezug",
+                "guānxi",
+                "关系",
+                "[sound:hypertts-9013348a6654f756536113dd515b66d159cf92435df374339aa71712.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "D)vrrZ&Zgx",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "schneien",
                 "xiàxuě",
                 "下雪",
@@ -3807,7 +4045,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Monat, Mond / je mehr desto, darüber hinweg steigen, übersteigen",
+                "Monat / je mehr desto, darüber hinweg steigen, übersteigen",
                 "yuè [2]",
                 "月 / 越",
                 "[sound:hypertts-7c0f30b9cfcf9dff88c481d528f0f75a45b5bc5a168f84d38bdd393b.mp3]",
@@ -4069,6 +4307,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "lange, lange Zeit",
+                "jiǔ",
+                "久",
+                "[sound:hypertts-5dcf1118b2595e318c26477bf5357b2858181e280b5e402cf08b9109.mp3]",
+                "1",
+                "",
+                "1",
+                ""
+            ],
+            "guid": "D]}*;hq(-,",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "willkommen",
                 "huānyíng",
                 "欢迎",
@@ -4082,6 +4338,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "und, sondern auch, darüber hinaus (für ähnliche Dinge)",
+                "érqiě",
+                "而且",
+                "[sound:hypertts-82c16a4ec0bdbc5ddb5365ac0df5b188e3d7a0512a485c3cf9a5718e.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "Dd50J|AE`K",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -4625,6 +4899,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "(Medizin) einnehmen",
+                "fúyòng",
+                "服用",
+                "[sound:hypertts-f0e48b65875cc58c46a69e8c085bbd809c006df8441704630bbcd314.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "Em=X%P.Xxq",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "aufgebraucht, alle (sein)",
                 "guāng",
                 "光",
@@ -4676,6 +4968,24 @@
                 "a1.1",
                 "eh_2",
                 "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mittlere Größe",
+                "zhōnghào",
+                "中号",
+                "[sound:hypertts-685f970b10eb0a4d76e95b1ff457e53807a9e95bde50c9a7a9cfbe60.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "Eyk00db=~u",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -4795,6 +5105,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Charakter",
+                "xìnggé",
+                "性格",
+                "[sound:hypertts-40bb98218ee05bc182b32ea74cce2ce74894d32e416aed3371266b30.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "F.fq<()@;M",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "sicher, bestimmt",
                 "yídìng",
                 "一定",
@@ -4846,6 +5174,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "populär, beliebt (sein)",
+                "liúxíng",
+                "流行",
+                "[sound:hypertts-a879fe9543582fa02472180ce070e95e46eae37336e56b2d8c65f651.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "F<csY>ulk2",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -5005,6 +5351,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "aah, Partikel am Satzende um Enthusiasmus auszudrücken",
+                "ā",
+                "啊",
+                "[sound:hypertts-8cdb9516d3518f082e97352299578478749c58bdefecfde7399c8d29.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "FdPxO~v<V}",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "U-Bahn",
                 "dìtiě",
                 "地铁",
@@ -5020,6 +5384,24 @@
                 "a1.2",
                 "eh_9",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "raten, vermuten",
+                "cāi",
+                "猜",
+                "[sound:hypertts-ce991e6ff7e0292aa2338b411edb1ad58ccaeadd719ec881715c01a1.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "Fe?~6MaYb%",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -5470,6 +5852,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Mund",
+                "zuǐ",
+                "嘴",
+                "[sound:hypertts-5915bbcb5356ec8fc295fd405a2311d193ed5a018941b0ab0d4cc939.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "H$p[e7]15&",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "links",
                 "zuǒbian",
                 "左边",
@@ -5495,7 +5895,7 @@
                 "碗",
                 "[sound:hypertts-b60862b8f07f683449903d65152aa13ed60d27c95404240dffcc2152.mp3]",
                 "1",
-                "1",
+                "",
                 "1",
                 ""
             ],
@@ -5642,6 +6042,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Sternbild, Konstellation",
+                "xīngzuò",
+                "星座",
+                "[sound:hypertts-b552edc2f9cd53c716c591cdd2b00e3c90a8e66e43620974053914ee.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "HCxYJL?*}e",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Vater",
                 "bàba",
                 "爸爸",
@@ -5695,6 +6113,24 @@
             "tags": [
                 "a2.2",
                 "extra"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "spät (sein)",
+                "wǎn",
+                "晚",
+                "[sound:hypertts-afd8273fe18273dac7f0e1651be473ef222a83cdc4625759ab924a2c.mp3]",
+                "1",
+                "",
+                "1",
+                ""
+            ],
+            "guid": "Ha>`JosyPW",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -6373,6 +6809,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Salz",
+                "yán",
+                "盐",
+                "[sound:hypertts-f7230b4ffd3d1326ce8d8862a04d0b6ac7b3af81f14766c31c7eae7f.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "J2N%KC0@3x",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "insgesamt, total",
                 "yígòng",
                 "一共",
@@ -6386,6 +6840,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ausruhen, Pause machen",
+                "xiūxi",
+                "休息",
+                "[sound:hypertts-3fab19d939283dfdda1cb78ce249649d3f907fa9f4e5519b00f56d64.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "J6M_icLU~!",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -6462,6 +6934,24 @@
                 "a1.1",
                 "eh_2",
                 "satz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zu einer festgelegten Zeit",
+                "dìngshí",
+                "定时",
+                "[sound:hypertts-110de885a1d76f4a71ff8fe38191af94f3a92ff6868c04b2b797e3a1.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "JC|WxsRa|x",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -6556,6 +7046,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lange, lange Zeit / Ziffer 9",
+                "jiǔ [2]",
+                "久 / 九",
+                "[sound:hypertts-5dcf1118b2595e318c26477bf5357b2858181e280b5e402cf08b9109.mp3]",
+                "",
+                "1",
+                "",
+                ""
+            ],
+            "guid": "Jp,mTUMZR4",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -6863,6 +7371,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "froh, fröhlich, glücklich, heiter (sein)",
+                "yúkuài",
+                "愉快",
+                "[sound:hypertts-9d691b6e2ab2d951bce2f0e2f071fe4ec463f951c31c5a4dfac2c94b.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "KVa{ofd$-$",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -7189,6 +7715,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Selbstsicherheit, Selbstvertrauen, selbstbewusst, selbstsicher (sein)",
+                "zìxìn",
+                "自信",
+                "[sound:hypertts-199d0f12bfb6ccf2b5254f48cbf9b4579decef908e1d51bd047c0aab.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "L4c42PBnTN",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Party / Feier",
                 "pàiduì",
                 "派对",
@@ -7281,6 +7825,24 @@
                 "eh_1",
                 "nur_lesen",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "häufig, regelmäßig, oft",
+                "jīngcháng",
+                "经常",
+                "[sound:hypertts-a2efdb4dc5a1f65001f7e381a1e3320a641e48bca640731d9a0702d3.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "LPpO!=:0@}",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -7481,6 +8043,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "den ganzen Tag",
+                "zhěngtiān",
+                "整天",
+                "[sound:hypertts-6ec530e95e9e7d520fd84fdcd19f33e16fb0d8016066d93c7292d3f5.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "L{>VvP&6xl",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "schreiben",
                 "xiě",
                 "写",
@@ -7673,6 +8253,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Leben, leben",
+                "shēnghuó",
+                "生活",
+                "[sound:hypertts-5eb22ee0205ca53ca4143c65fe69c192ea3d72a8f32ecf3d47ac2b0e.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "M>PmfuMogh",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "scheinen / leuchten / fotografieren",
                 "zhào",
                 "照",
@@ -7822,6 +8420,24 @@
             "tags": [
                 "a1.2",
                 "eh_8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fürsorglich (sein), sich um jmd. kümmern, für jmd. sorgen",
+                "guānxīn",
+                "关心",
+                "[sound:hypertts-9e3397327eac3c35d182ed31c27eed41d93656aadb0e7600f43e9203.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "Mg1C{bx:$1",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -8552,6 +9168,42 @@
         {
             "__type__": "Note",
             "fields": [
+                "dünn, mager (sein)",
+                "shòu",
+                "瘦",
+                "[sound:hypertts-e4e4b059f56746372282f895cec405edc443a88ace271a29dce35efe.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "O:zD[MpF|)",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich erkälten",
+                "zháoliáng",
+                "着凉",
+                "[sound:hypertts-20559c0d25eef33ccc7766bdf3c52bc53748a537e0deec90d13e3c7c.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "O;Qir;&RFm",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "rechts",
                 "yòu",
                 "右",
@@ -8648,6 +9300,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "aufpassen, achten",
+                "zhùyì",
+                "注意",
+                "[sound:hypertts-ed8e3f889fb1ca5c64bf66cc5f8f19fefd461bf6f1f7898d784a381f.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "OX[4a3o-!0",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "echt / wirklich",
                 "zhēn",
                 "真",
@@ -8668,7 +9338,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "ausser, neben, ausgenommen",
+                "ausser ..., neben ..., ausgenommen ...",
                 "chúle ... yǐwài",
                 "除了... 以外",
                 "[sound:hypertts-7a3fc53fc3591573bd92e02ee07ff9619cf36dc1266464401a3a6eb4.mp3]",
@@ -9097,6 +9767,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lunge",
+                "fèi",
+                "肺",
+                "[sound:hypertts-628817870d5de3754bb406795112a1696aef473450d0e8be52711077.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "PmjXwqM/K0",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -9908,6 +10596,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "optimistisch (sein)",
+                "lèguān",
+                "乐观",
+                "[sound:hypertts-aa4715e508ed95ed332064fbaea0c8ecdd9406f5b3b1c4f6cbca46fd.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "b2m}j1.CJ[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Schuh / Schuhe",
                 "xiézi",
                 "鞋子",
@@ -10173,6 +10879,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Wuchs, Gestalt, Körpergröße",
+                "shēncái",
+                "身材",
+                "[sound:hypertts-489074ee1f85cbc2a576a280bd38a2d90d27157490a3d071e4d3f358.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "bsBQw)NjQ[",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Französisch (gesprochen)",
                 "fǎyǔ",
                 "法语",
@@ -10286,6 +11010,42 @@
         {
             "__type__": "Note",
             "fields": [
+                "zueinander passen, zusammenpassen",
+                "pèi",
+                "配",
+                "[sound:hypertts-f0765247627a91ea1ab516d29024f8d3134ca819a176eead6692affc.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "c0|Ri>C=}2",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Löwe",
+                "shīzi",
+                "狮子",
+                "[sound:hypertts-745aa62c34d6068aac264a1d4cb823dd2df436a6efc38399477877e5.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "c4Y&U99:qu",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "oder (in Fragen)",
                 "háishi",
                 "还是",
@@ -10381,6 +11141,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Frage, Problem",
+                "wèntí",
+                "问题",
+                "[sound:hypertts-6f03bc79386339bb467ba7f20ef31cfb6838909c7c07acf2d8b90fa0.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "cHf~S)QD&G",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Ski fahren / Ski laufen",
                 "huá xuě",
                 "滑雪",
@@ -10434,6 +11212,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schale, Schüssel (ZEW) / spät (sein)",
+                "wǎn [2]",
+                "碗 / 晚",
+                "[sound:hypertts-b60862b8f07f683449903d65152aa13ed60d27c95404240dffcc2152.mp3]",
+                "",
+                "1",
+                "",
+                ""
+            ],
+            "guid": "cVQ!Zh*Ynb",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -10513,6 +11309,24 @@
                 "eh_8",
                 "nur_lesen",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(aus)wählen, aussuchen",
+                "tiāoxuǎn",
+                "挑选",
+                "[sound:hypertts-883a8f038a98a8c25ab1fbd0d34a4de81a1b5894f3544649cdd83999.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "cl[20f8Gs!",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -10648,6 +11462,24 @@
                 "eh_4",
                 "nur_lesen",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eine Spritze geben, injizieren",
+                "dǎzhēn",
+                "打针",
+                "[sound:hypertts-bf04087038ab9fb739f3bbb5849451e7a826a99f0d80b6af7f06cfa1.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "d)vh9aYuTk",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -10798,6 +11630,24 @@
                 "a1.2",
                 "eh_7",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fieber haben",
+                "fāshāo",
+                "发烧",
+                "[sound:hypertts-9d5d6d4baba3db7cd9b3c8b79e5dcd0d7016389621a596e95020c1e9.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "dGH)=)4,R5",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -11001,6 +11851,24 @@
                 "a1.1",
                 "eh_5",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "untersuchen, überprüfen",
+                "jiǎnchá",
+                "检查",
+                "[sound:hypertts-4d3511753be063458b80f383ccedaf2dffafe01a080816ec4cac70f7.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "dk}JGay4Wz",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -11277,6 +12145,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "(noch) mehr",
+                "gèng",
+                "更",
+                "[sound:hypertts-3f40354d0efe2d8255af15513d395b5d697a24aafc1930b3077ed21a.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "eiJHvUPqjr",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "mit Normalpost",
                 "píngyóu",
                 "平邮",
@@ -11328,6 +12214,24 @@
                 "a1.2",
                 "eh_11",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Temperament",
+                "píqi",
+                "脾气",
+                "[sound:hypertts-201c5580be554a7590852958cf0c2aff516041efbda99a48043acf96.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "f#NvfX}Bu;",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -11731,6 +12635,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Erkältung, sich erkälten",
+                "gǎnmào",
+                "感冒",
+                "[sound:hypertts-e309e923b49f586037db56bd8e3650e64920391b741afc1cac8a9ed1.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "fz#=cvn(uR",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Fußball",
                 "zúqiú",
                 "足球",
@@ -11771,6 +12693,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "chinesisches Horoskop",
+                "shǔxiang",
+                "属相",
+                "[sound:hypertts-4448a4b31c680086b9079aa4c67c361a2fc4d118d8e07f95cefca22e.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "f|SGW#8PL2",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Dynastie",
                 "cháodài",
                 "朝代",
@@ -11784,6 +12724,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bauch",
+                "dùzi",
+                "肚子",
+                "[sound:hypertts-6ef5d057602df7155e49bf3dafd7ecee0d9eee5edb37cdb5c5d08a40.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "g0k.m>#OK*",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -12380,6 +13338,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "ärztlich behandeln, heilen",
+                "zhì",
+                "治",
+                "[sound:hypertts-94540f365a8078170851b65c5e8d2c887f49145907264a73ebacd823.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "hv.c.Sa5_l",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "geboren werden, gebären, leben / Stimme, Laut, Ton",
                 "shēng [2]",
                 "生 / 声",
@@ -12470,6 +13446,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Arznei, Medizin, Medikament",
+                "yào",
+                "药",
+                "[sound:hypertts-9985ab5b5e234d70ed5efa7321e887b073e1290bab3c9acdfee826bf.mp3]",
+                "1",
+                "",
+                "1",
+                ""
+            ],
+            "guid": "i${c:J<NF:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "gekürzt älterer Bruder",
                 "gē",
                 "哥",
@@ -12544,6 +13538,24 @@
                 "a1.2",
                 "eh_12",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erkranken, krank werden",
+                "débìng",
+                "得病",
+                "[sound:hypertts-cd44268f70e3d105dfc149202d489a3a2470cf1d6958e8b09deca284.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "i.N/-%-jkp",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -12773,6 +13785,24 @@
                 "a1.1",
                 "eh_6",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gewöhnlich, allgemein, einfach (sein)",
+                "pǔtōng",
+                "普通",
+                "[sound:hypertts-fa289d2edc091d79926392a30798aa804856231ece6fc3d29fd628cc.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "i]O%%b&t9X",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -13204,7 +14234,7 @@
                 "要",
                 "[sound:hypertts-d84faa58b12f1403cb248d01dad80e7324e212b56cd5208f1b9f2a57.mp3]",
                 "1",
-                "1",
+                "",
                 "1",
                 ""
             ],
@@ -13654,6 +14684,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "kürzlich, neulich, in letzter Zeit",
+                "zuìjìn",
+                "最近",
+                "[sound:hypertts-122609833d76287d5200d632a743734efc5d503c1220584a92c6d5b8.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "k4zy.$gEON",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Angelegenheit / Ereignis / Ding",
                 "shì 【亊】&nbsp;",
                 "亊",
@@ -13747,6 +14795,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Lied, Gesang, Stück",
+                "gēqǔ",
+                "歌曲",
+                "[sound:hypertts-6d82be53850da78e35cee8d71de79da75c30d5244b56abd989be2aeb.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "kBk3L/Ioks",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Kurznachricht / SMS",
                 "duǎnxìn",
                 "短信",
@@ -13761,6 +14827,24 @@
             "tags": [
                 "a1.1",
                 "eh_5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arznei, Medizin, Medikament / wollen, werden, sollen, brauchen, mögen",
+                "yào [2]",
+                "药 / 要",
+                "[sound:hypertts-9985ab5b5e234d70ed5efa7321e887b073e1290bab3c9acdfee826bf.mp3]",
+                "",
+                "1",
+                "",
+                ""
+            ],
+            "guid": "kJ@a~EV0dJ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -14045,6 +15129,24 @@
             "tags": [
                 "a1.1",
                 "eh_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kehle, Rachen",
+                "hóulóng",
+                "喉咙",
+                "[sound:hypertts-05b9d4fabf71e470deda1fa4bc91350aeab7a028ca72485fa75b8b90.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "k{Y.O>(Vo:",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -14516,6 +15618,24 @@
                 ""
             ],
             "guid": "ly$?xF2i[&",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fieber senken",
+                "tuìshāo",
+                "退烧",
+                "[sound:hypertts-806daf0ccf9c38216a8433ecadbf586a0822076d48116ccfe934ecaf.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "m!_(`1Cnc>",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.2"
@@ -15285,6 +16405,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Durchfall haben",
+                "lā dùzi",
+                "拉肚子",
+                "[sound:hypertts-81c65a9cad8b50e6dc96a37d94c11d0667f080acf6324b4a88265f6b.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "o,Sf$XUW1c",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "benötigen / brauchen",
                 "xūyào",
                 "需要",
@@ -15383,6 +16521,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "(Sternzeichen) Widder",
+                "Báiyángzuò",
+                "白羊座",
+                "[sound:hypertts-68fe31da08b0c6296212288292b4cf758f95be433edf3c048c23cc31.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "o?HQvmevFU",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Terrakotta-Armee",
                 "Bīngmǎyǒng",
                 "兵马俑",
@@ -15417,6 +16573,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allgemeinwissen, gesunder Menschenverstand",
+                "chángshí",
+                "常识",
+                "[sound:hypertts-27d2aa2c10f873b46ca825dcb636f982731f768ac9e3185401973700.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "oI%0{HcCO@",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -15701,6 +16875,24 @@
                 ""
             ],
             "guid": "p#R<-j}(GR",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brasilien",
+                "Bāxī",
+                "巴西",
+                "[sound:hypertts-f89aaea78ddb59d7e055f856498a917507da66511cae5c7e1b346122.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "p#W!z4:us.",
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.2"
@@ -16031,6 +17223,42 @@
         {
             "__type__": "Note",
             "fields": [
+                "jüngerer Cousin",
+                "biǎodì",
+                "表弟",
+                "[sound:hypertts-fe274e8844ba5c6bb5f0cfb6a888b536f143ab4d063e67edc8b58217.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "pyIrW}0;5]",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pünktlich, rechtzeitig",
+                "ànshí",
+                "按时",
+                "[sound:hypertts-afcb6c4a9d516e65ca597cd06136279ee29a3ae302e65d8db750eeea.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "q!Sm8IB(Gg",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "eben, gerade, soeben passiert",
                 "gāngcái",
                 "刚才",
@@ -16209,7 +17437,7 @@
                 "九",
                 "[sound:hypertts-e8795d0822457626c9c031a7af7bd2ffb612f04412709d7b0676be42.mp3]",
                 "1",
-                "1",
+                "",
                 "1",
                 ""
             ],
@@ -16259,6 +17487,24 @@
             "tags": [
                 "a1.2",
                 "eh_7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "einheimisch, hiesig",
+                "běndì",
+                "本地",
+                "[sound:hypertts-514ef31e914c155a9bb71c2edaa95c971d6ad54605c44852e512b01d.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "q]W$v9Q6NZ",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -16319,6 +17565,24 @@
                 "a1.1",
                 "eh_6",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gelocktes Haar",
+                "juǎnfà",
+                "卷发",
+                "[sound:hypertts-9988673b0ecca926f3555bf4b7f4e0101d81e62a13e5caf4d709cfbe.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "qgLwfm%0Md",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -17660,6 +18924,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "glücklich, fröhlich, vergnügt (sein)",
+                "kuàilè",
+                "快乐",
+                "[sound:hypertts-d5b46148ef8b83e411c0c0b90eeb8c61c2ce22c26470959eedf402e2.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "ti9;!NRw)R",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "nur / bloß / lediglich",
                 "zhǐ",
                 "只",
@@ -18118,6 +19400,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "festgelegte Menge",
+                "dìngliàng",
+                "定量",
+                "[sound:hypertts-ffd8d4dd339ba1b30bf33b385f76f731701c2c895fe663848e66825f.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "uJ;<S-bOzY",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Mitternacht",
                 "bànyè",
                 "半夜",
@@ -18523,6 +19823,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "satt, gesättigt, voll (sein)",
+                "bǎo",
+                "饱",
+                "[sound:hypertts-9e1f32cda461cc6ef99db0a2b97de85f106d47e40f4d851d2260bd14.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "v]Aa_/.$y`",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "alle / gesamte Familie",
                 "dàjiā",
                 "大家",
@@ -18537,6 +19855,24 @@
             "tags": [
                 "a1.1",
                 "eh_1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mond",
+                "yuèliang",
+                "月亮",
+                "[sound:hypertts-3cb3752840fff83b4e59721a99f37d327db7f4a878b05ca346cb5102.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "vc2t*l@ptj",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -18717,7 +20053,25 @@
         {
             "__type__": "Note",
             "fields": [
-                "Scheibe / Tablett / Karte",
+                "Gemüse",
+                "shūcài",
+                "蔬菜",
+                "[sound:hypertts-c650a8159a2b73cd1b06e014a4192d9cef4c7cd055ccd2a4afe5b53c.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "w5nGW~kEw@",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Scheibe, Tablett, Karte, Pille, Tablette",
                 "piàn",
                 "片",
                 "[sound:hypertts-cae2fc90c6b09130e4fafce2e862551c0cf60a0c26fb32f5e60d393b.mp3]",
@@ -19053,6 +20407,24 @@
             "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
             "tags": [
                 "a2.1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "studieren, erforschen",
+                "yánjiū",
+                "研究",
+                "[sound:hypertts-259e5884013096227fff27d4f69f851f45f4f51e4d28f7fa9b8d88f7.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "wv`/4pOrV`",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
@@ -19731,6 +21103,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Gesundheit, gesund",
+                "jiànkāng",
+                "健康",
+                "[sound:hypertts-2004561e9528d7056ff773b2ca0b4d7062d40b894f8b7d49a6edd062.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "y!~Ci{Y>y9",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Schweinefleisch",
                 "zhūròu",
                 "猪肉",
@@ -19897,11 +21287,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "Krankenpfleger",
+                "Krankenpfleger/-in",
                 "hùshi",
                 "护士",
                 "[sound:hypertts-51cae439b44be06dd46407c90533149b9680ab562b9c8552a5599b99.mp3]",
-                "",
+                "1",
                 "1",
                 "1",
                 ""
@@ -20463,6 +21853,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "Volkslied",
+                "míngē",
+                "民歌",
+                "[sound:hypertts-bc4ca2ee7c3e68d818507ea951bb47bd5b9d590b4d355a7fc8192ea0.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "zV(f(s7CM4",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "erster / erste / erstens",
                 "dì-yī",
                 "第一",
@@ -20515,6 +21923,24 @@
                 "a1.2",
                 "eh_8",
                 "zeichenliste"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Haut",
+                "pífū",
+                "皮肤",
+                "[sound:hypertts-fa59b2777b0dc7d8e59260335265ea902162079924c07c8bd80c1dbb.mp3]",
+                "1",
+                "1",
+                "1",
+                ""
+            ],
+            "guid": "zmct2BvS*{",
+            "note_model_uuid": "9878c924-bf79-11ee-82ca-cdae705cc9c0",
+            "tags": [
+                "a2.2"
             ]
         },
         {
